@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Triathlon Landesliga 2012</headline>
+	<paragraph>
+		<title>Info</title>
+		<text><![CDATA[
+		Willkommen auf der Seite zur Landesligateilnahme des Triathlon Team Lüneburg im Jahr 2012.
+		<br/><br/>
+		Teamleitung: Dieter Zielinski
+		<br/><br/>
+		Weitere Infos zur Liga gibt es auf der Webseite des TVN unter: 
+		<a href="http://www.triathlon-niedersachsen.de/index.php?option=com_content&view=category&layout=blog&id=213&Itemid=62" target="_blank">www.triathlon-niedersachsen.de</a>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Kader</title>
+		<text><![CDATA[
+		<a href="pics/liga/team_lali_2012_large.jpg" rel="lightbox[team_2012]" title="Das Landesliga Team 2012 (v.l.): Falk von Rechenberg, Michael Nottebohm, Dirk Bruns, Dieter Zielinski, Carsten Wittkop, Martin Beuss, Ralf Plümer<br/>(Es fehlen: Andreas Buschmann, Cliff Parnitzky, Daniel Siedka, Dirk Meyer, Stefan Burmester)"><img src="pics/liga/team_lali_2012_small.jpg" class="right" title="Zum Vergrößern auf das Bild klicken"/></a>
+		<ul style="float: left;">
+			<li><a href="pics/team/members/andreas.buschmann.jpg" rel="lightbox[team_2012]" title="Andreas Buschmann" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Andreas Buschmann</a></li>
+			<li><a href="pics/team/members/carsten.wittkop.jpg" rel="lightbox[team_2012]" title="Carsten Wittkop" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Carsten Wittkop</a></li>
+			<li><a href="pics/team/members/cliff.parnitzky.jpg" rel="lightbox[team_2012]" title="Cliff Parnitzky" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Cliff Parnitzky</a></li>
+			<li><a href="pics/team/members/daniel.siedka.jpg" rel="lightbox[team_2012]" title="Daniel Siedka" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Daniel Siedka</a></li>
+			<li><a href="pics/team/members/dieter.zielinski.jpg" rel="lightbox[team_2012]" title="Dieter Zielinski" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Dieter Zielinski</a></li>
+			<li><a href="pics/team/members/dirk.bruns.jpg" rel="lightbox[team_2012]" title="Dirk Bruns" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Dirk Bruns</a></li>
+			<li><a href="pics/team/members/dirk.meyer.jpg" rel="lightbox[team_2012]" title="Dirk Meyer" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Dirk Meyer</a></li>
+			<li><a href="pics/team/members/falk.von.rechenberg.jpg" rel="lightbox[team_2012]" title="Falk von Rechenberg" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Falk von Rechenberg</a></li>
+			<li><a href="pics/team/members/martin.beuss.jpg" rel="lightbox[team_2012]" title="Martin Beuss" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Martin Beuss</a></li>
+			<li><a href="pics/team/members/michael.nottebohm.jpg" rel="lightbox[team_2012]" title="Michael Nottebohm" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Michael Nottebohm</a></li>
+			<li><a href="pics/team/members/ralf.pluemer.jpg" rel="lightbox[team_2012]" title="Ralf Plümer" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Ralf Plümer</a></li>
+			<li><a href="pics/team/members/stefan.burmester.jpg" rel="lightbox[team_2012]" title="Stefan Burmester" onmouseover="document.getElementById('member_lali_2012').src=this.href" onmouseout="document.getElementById('member_lali_2012').src='pics/team/members/clear.png'" >Stefan Burmester</a></li>
+		</ul>
+		<div style="float: left; margin-left: 20px; margin-top: 15px; text-align: center; vertical-align: center;">
+			<img id="member_lali_2012" src="pics/team/members/clear.png" style="float: left; max-width: 200px; max-height: 200px;"/>
+		</div>
+		<div style="clear: both;"></div>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Termine</title>
+		<text><![CDATA[
+		<ul>
+			<li class="striked"><b>26.05.2012</b> : Bokeloh - SD</li>
+			<li class="striked"><b>02.06.2012</b> : Hannover - SD</li>
+			<li class="striked"><b>17.06.2012</b> : Peine - OD</li>
+			<li class="striked"><b>21.07.2012</b> : Northeim - SD</li>
+		</ul>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Ergebnisse</title>
+		<text><![CDATA[
+		<div class="modalDialog" style="width: 420px; height: auto;" id="ligaTable_lali2012">
+			<div class="modalDialogHead">Aktuelle Tabelle<a href="javascript:closeModalDialog('ligaTable_lali2012');">X</a></div>
+			<div class="modalDialogBody" style="font-size: 12px;">
+				<div style="text-align: right; font-size: 9px;">Stand 21.07.2012 nach 4 von 4 Rennen</div>
+				<div style="text-align: left; padding-left: 10px;">
+					<ol>
+						<li>LC Hansa Stuhr - Tri Wölfe (527)</li>
+						<li>TSR Olympia Wilhelmshaven (700)</li>
+						<li>Lehrter SV Triathlon 1 (739)</li>
+						<li>ESV Eintracht Hameln (845)</li>
+						<li>TuS Blau Weiß Lohne Triathlon (869)</li>
+						<li>SG LindWuRM (1306)</li>
+						<li>Hannover 96 III (1322)</li>
+						<li>Triathlon Club Bremen H (1399)</li>
+						<li>SV Germania Helmstedt (1618)</li>
+						<li>Bremer Löwen (1633)</li>
+						<li>TV 01 Bohmte (1645)</li>
+						<li>Tri-Speedys Peine (1655)</li>
+						<li>Luhdener SV (1839)</li>
+						<li>TRI TEAM UMMEL (1847)</li>
+						<li>VfL Wolfsburg II (1893)</li>
+						<li>LC Nordhorn II (1898)</li>
+						<li>Triathlon Team Buxtehude H II (1913)</li>
+						<li>TSV Anderten (1955)</li>
+						<li>LSV Tri Team Wolfenbüttel (2025)</li>
+						<li>TSV Bokeloh II (2051)</li>
+						<li>1.TCO Die Bären (2345)</li>
+						<li>VSK Osterholz Triathlon (2371)</li>
+						<li>MTV Vorsfelde (2452)</li>
+						<li>Eintracht Hildesheim (2628)</li>
+						<li>WASPO 08 Göttingen Triathlon (2662)</li>
+						<li>Hannover 96 IV (2725)</li>
+						<li>Tri Team Osnabrück (2746)</li>
+						<li>TRIAS Hildesheim III (2752)</li>
+						<li>SC Langenhagen (2761)</li>
+						<li><div style="background-color: #c10000; color: #ffffff; margin-left: -30px; padding-left: 30px; width: 100%;">Triathlon Team Lüneburg II (3053)</div></li>
+						<li>Triathlon Heidekreis / Hotel Camp Reinsehlen (3172)</li>
+						<li>LC Hansa Stuhr - Tri Wölfe Jäger (3280)</li>
+						<li>WSV 21 Wolfenbüttel (3470)</li>
+						<li>Stader SV Team II (3652)</li>
+						<li>KEB Tri-Team Schwarme Mixed (3673)</li>
+						<li>SC Weyhe (3744)</li>
+						<li>Lehrter SV Triathlon 2 (3805)</li>
+						<li>Tri Team TuS Engter (3948)</li>
+						<li>Tri-Mix TSV Schwarme (4175)</li>
+						<li>LC Nordhorn III (4873)</li>
+					</ol>
+				</div>
+				<button style="font-size: 0.8em;" onclick="closeModalDialog('ligaTable_lali2012');">Fenster schließen</button>
+			</div>
+		</div>
+		
+		<div style="float: right;">
+			<a href="javascript:openModalDialog('ligaTable_lali2012')">Tabelle</a>
+		</div>
+		
+		<i><b>Triathlon Bokeloh (26.05.2012)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">Landesliga SD (0,7 km - 21,2 km - 5,2 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Dieter Zielinski</td>
+					<td>01:09:16 h</td>
+					<td>39./315</td>
+				</tr>
+				<tr>
+					<td class="member">Michael Nottebohm</td>
+					<td>01:12:29 h</td>
+					<td>96./315</td>
+				</tr>
+				<tr>
+					<td class="member">Falk von Rechenberg</td>
+					<td>01:13:35 h</td>
+					<td>123./315</td>
+				</tr>
+				<tr>
+					<td class="member">Ralf Plümer</td>
+					<td>01:14:45 h</td>
+					<td>144./315</td>
+				</tr>
+				<tr>
+					<td class="member">Martin Beuss</td>
+					<td>01:17:11 h</td>
+					<td>192./315</td>
+				</tr>
+				<tr>
+					<td class="member">Carsten Wittkop</td>
+					<td>01:18:58 h</td>
+					<td>220./315</td>
+				</tr>
+				<tr>
+					<td class="member">Dirk Bruns</td>
+					<td>01:23:51 h</td>
+					<td>265./315</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/>
+		<i><b>Triathlon Hannover (02.06.2012)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,5 km - 19 km - 4,6 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Dieter Zielinski</td>
+					<td>00:58:20 h</td>
+					<td>26./277</td>
+				</tr>
+				<tr>
+					<td class="member">Michael Nottebohm</td>
+					<td>01:00:01 h</td>
+					<td>61./277</td>
+				</tr>
+				<tr>
+					<td class="member">Ralf Plümer</td>
+					<td>01:00:24 h</td>
+					<td>67./277</td>
+				</tr>
+				<tr>
+					<td class="member">Cliff Parnitzky</td>
+					<td>01:01:47 h</td>
+					<td>97./277</td>
+				</tr>
+				<tr>
+					<td class="member">Falk von Rechenberg</td>
+					<td>01:02:55 h</td>
+					<td>128./277</td>
+				</tr>
+				<tr>
+					<td class="member">Carsten Wittkop</td>
+					<td>01:04:29 h</td>
+					<td>165./277</td>
+				</tr>
+				<tr>
+					<td class="member">Martin Beuss</td>
+					<td>01:05:17 h</td>
+					<td>176./277</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/>
+		<i><b>Triathlon Peine (17.06.2012)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Falk von Rechenberg</td>
+					<td>02:21:48 h</td>
+					<td>89./250</td>
+				</tr>
+				<tr>
+					<td class="member">Ralf Plümer</td>
+					<td>02:23:49 h</td>
+					<td>105./250</td>
+				</tr>
+				<tr>
+					<td class="member">Michael Nottebohm</td>
+					<td>02:25:30 h</td>
+					<td>121./250</td>
+				</tr>
+				<tr>
+					<td class="member">Carsten Wittkop</td>
+					<td>02:29:42 h</td>
+					<td>156./250</td>
+				</tr>
+				<tr>
+					<td class="member">Dirk Meyer</td>
+					<td>02:35:58 h</td>
+					<td>190./250</td>
+				</tr>
+				<tr>
+					<td class="member">Dirk Bruns</td>
+					<td>02:41:30 h</td>
+					<td>214./250</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/>
+		<i><b>Triathlon Northeim (21.07.2012)</b></i>
+		<br/><br/>
+		Nicht angetreten, da sich zum Ferienbeginn keine Mannschaft zusammen fand.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Bilder</title>
+		<text><![CDATA[
+		<i><b>Triathlon Bokeloh (26.05.2012)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-01_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-02_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-03_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-04_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-05_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-06_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-07_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-07_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-08_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-08_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-09_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-09_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-10_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-10_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-11_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-11_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-12_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-12_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_05_26-Triathlon-Bokeloh-13_large.jpg" rel="lightbox[Triathlon Bokeloh (26.05.2012)]" title="Triathlon Bokeloh (26.05.2012)"><img src="pics/liga/2012_05_26-Triathlon-Bokeloh-13_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Hannover (02.06.2012)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2012_06_02-Triathlon-Hannover-01_large.jpg" rel="lightbox[Triathlon Hannover (02.06.2012)]" title="Triathlon Hannover (02.06.2012)"><img src="pics/liga/2012_06_02-Triathlon-Hannover-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_02-Triathlon-Hannover-02_large.jpg" rel="lightbox[Triathlon Hannover (02.06.2012)]" title="Triathlon Hannover (02.06.2012)"><img src="pics/liga/2012_06_02-Triathlon-Hannover-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_02-Triathlon-Hannover-03_large.jpg" rel="lightbox[Triathlon Hannover (02.06.2012)]" title="Triathlon Hannover (02.06.2012)"><img src="pics/liga/2012_06_02-Triathlon-Hannover-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Peine (17.06.2012)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2012_06_17-Triathlon-Peine-01_large.jpg" rel="lightbox[Triathlon Peine (17.06.2012)]" title="Triathlon Peine (17.06.2012)"><img src="pics/liga/2012_06_17-Triathlon-Peine-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_17-Triathlon-Peine-02_large.jpg" rel="lightbox[Triathlon Peine (17.06.2012)]" title="Triathlon Peine (17.06.2012)"><img src="pics/liga/2012_06_17-Triathlon-Peine-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_17-Triathlon-Peine-03_large.jpg" rel="lightbox[Triathlon Peine (17.06.2012)]" title="Triathlon Peine (17.06.2012)"><img src="pics/liga/2012_06_17-Triathlon-Peine-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_17-Triathlon-Peine-04_large.jpg" rel="lightbox[Triathlon Peine (17.06.2012)]" title="Triathlon Peine (17.06.2012)"><img src="pics/liga/2012_06_17-Triathlon-Peine-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_17-Triathlon-Peine-05_large.jpg" rel="lightbox[Triathlon Peine (17.06.2012)]" title="Triathlon Peine (17.06.2012)"><img src="pics/liga/2012_06_17-Triathlon-Peine-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_17-Triathlon-Peine-06_large.jpg" rel="lightbox[Triathlon Peine (17.06.2012)]" title="Triathlon Peine (17.06.2012)"><img src="pics/liga/2012_06_17-Triathlon-Peine-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		]]></text>
+	</paragraph>
+</document>

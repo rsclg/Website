@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Ergebnisse &amp;raquo; Radfahr-Events 2010</headline>
+	<paragraph>
+		<title>29.08.2010 : Ötztaler Radmarathon Sölden</title>
+		<text><![CDATA[
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">238 km / 5500 Höhenmeter</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Männer</a></td>
+				</tr>
+				<tr>
+					<td class="member">Björn-Olde Backhaus</td>
+					<td>09:58:26 h</td>
+					<td>1420./3748</td>
+					<td>845./2271</td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Archiv</title>
+		<text><![CDATA[
+		<a href="?page=105" onclick="showContent(105,null); return false;">&raquo; Ergebnisse 2009</a>
+		]]></text>
+	</paragraph>
+</document>

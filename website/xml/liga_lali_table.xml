@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Triathlon Landesliga aktulle Tabelle</headline>
+	<paragraph>
+		<title>Aktuelle Tabelle</title>
+		<text><![CDATA[
+		<table cellspacing="0" cellpadding="0" border="0" class="ligatable">
+			<thead>
+				<tr>
+					<td>Platz</td>
+					<td>Team</td>
+					<td class="points">Punkte</td>
+				</tr>
+			</thead>
+			<tfoot>
+				<tr><td colspan="3">Stand 31.08.2013 nach 5 von 5 Rennen</td></tr>
+			</tfoot>
+			<tbody>
+					<tr>
+						<td class="place">1.</td>
+						<td class="team">Hannover 96 III<img title="Hannover 96 III" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/hannover_96.png"></td>
+						<td class="points">867</td>
+					</tr>
+					<tr>
+						<td class="place">2.</td>
+						<td class="team">ESV Eintracht Hameln II<img title="ESV Eintracht Hameln II" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/esv_eintracht_hameln.png"></td>
+						<td class="points">878</td>
+					</tr>
+					<tr>
+						<td class="place">3.</td>
+						<td class="team">SV Germania Helmstedt<img title="SV Germania Helmstedt" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/sv_germania_helmstedt.png"></td>
+						<td class="points">999</td>
+					</tr>
+					<tr>
+						<td class="place">4.</td>
+						<td class="team">Uni Triathlöwen Bremen<img title="Uni Triathlöwen Bremen" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/uni_triathloewen_bremen.png"></td>
+						<td class="points">1170</td>
+					</tr>
+					<tr>
+						<td class="place">5.</td>
+						<td class="team">TSV Anderten<img title="TSV Anderten" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tsv_anderten.png"></td>
+						<td class="points">1196</td>
+					</tr>
+					<tr>
+						<td class="place">6.</td>
+						<td class="team">TuS Blau Weiß Lohne Triathlon<img title="TuS Blau Weiß Lohne Triathlon" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tus_blau_weiss_lohne_triathlon.png"></td>
+						<td class="points">1226</td>
+					</tr>
+					<tr>
+						<td class="place">7.</td>
+						<td class="team">Eintracht Hildesheim<img title="Eintracht Hildesheim" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/eintracht_hildesheim.png"></td>
+						<td class="points">1316</td>
+					</tr>
+					<tr>
+						<td class="place">8.</td>
+						<td class="team">Hannover 96 V<img title="Hannover 96 V" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/hannover_96.png"></td>
+						<td class="points">1419</td>
+					</tr>
+					<tr>
+						<td class="place">9.</td>
+						<td class="team">SG LindWuRM<img title="SG LindWuRM" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/sg_lindwurm.png"></td>
+						<td class="points">1522</td>
+					</tr>
+					<tr>
+						<td class="place">10.</td>
+						<td class="team">VSK Osterholz Triathlon<img title="VSK Osterholz Triathlon" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/vsk_osterholz_triathlon.png"></td>
+						<td class="points">1687</td>
+					</tr>
+					<tr>
+						<td class="place">11.</td>
+						<td class="team">LC Nordhorn<img title="LC Nordhorn" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/lc_nordhorn.png"></td>
+						<td class="points">1787</td>
+					</tr>
+					<tr>
+						<td class="place">12.</td>
+						<td class="team">TRI TEAM UMMEL<img title="TRI TEAM UMMEL" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tri_team_ummel.png"></td>
+						<td class="points">1847</td>
+					</tr>
+					<tr>
+						<td class="place">13.</td>
+						<td class="team">TV 01 Bohmte<img title="TV 01 Bohmte" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tv_01_bohmte.png"></td>
+						<td class="points">1926</td>
+					</tr>
+					<tr class="ownteam">
+						<td class="place">14.</td>
+						<td class="team">Tri Team Lüneburg II<img title="Tri Team Lüneburg II" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tri_team_lueneburg.png"></td>
+						<td class="points">2159</td>
+					</tr>
+					<tr>
+						<td class="place">15.</td>
+						<td class="team">Triathlon Club Bremen<img title="Triathlon Club Bremen" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/triathlon_club_bremen.png"></td>
+						<td class="points">2217</td>
+					</tr>
+					<tr>
+						<td class="place">16.</td>
+						<td class="team">TriAs Hildesheim III<img title="TriAs Hildesheim III" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/trias_hildesheim.png"></td>
+						<td class="points">2241</td>
+					</tr>
+					<tr>
+						<td class="place">17.</td>
+						<td class="team">Tri Speedys Peine<img title="Tri Speedys Peine" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tri_speedys_peine.png"></td>
+						<td class="points">2395</td>
+					</tr>
+					<tr>
+						<td class="place">18.</td>
+						<td class="team">TSV Bokeloh II<img title="TSV Bokeloh II" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tsv_bokeloh.png"></td>
+						<td class="points">2400</td>
+					</tr>
+					<tr>
+						<td class="place">19.</td>
+						<td class="team">Tri Team Osnabrück<img title="Tri Team Osnabrück" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tri_team_osnabrueck.png"></td>
+						<td class="points">2668</td>
+					</tr>
+					<tr>
+						<td class="place">20.</td>
+						<td class="team">LSV Tri Team Wolfenbüttel<img title="LSV Tri Team Wolfenbüttel" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/lsv_tri_team_wolfenbuettel.png"></td>
+						<td class="points">2809</td>
+					</tr>
+					<tr>
+						<td class="place">21.</td>
+						<td class="team">TSR Olympia Wilhelmshaven<img title="TSR Olympia Wilhelmshaven" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tsr_olympia_wilhelmshaven.png"></td>
+						<td class="points">2851</td>
+					</tr>
+					<tr>
+						<td class="place">22.</td>
+						<td class="team">TCO Die Bären II<img title="TCO Die Bären II" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tco_die_baeren.png"></td>
+						<td class="points">2883</td>
+					</tr>
+					<tr>
+						<td class="place">23.</td>
+						<td class="team">Lehrter SV Triathlon II<img title="Lehrter SV Triathlon II" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/lehrter_sv_triathlon.png"></td>
+						<td class="points">2976</td>
+					</tr>
+					<tr>
+						<td class="place">24.</td>
+						<td class="team">Triathlon Team Buxtehude II<img title="Triathlon Team Buxtehude II" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/triathlon_team_buxtehude.png"></td>
+						<td class="points">3003</td>
+					</tr>
+					<tr>
+						<td class="place">25.</td>
+						<td class="team">LC Hansa Stuhr Tri-Wölfe II<img title="LC Hansa Stuhr Tri-Wölfe II" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/lc_hansa_stuhr_tri-woelfe.png"></td>
+						<td class="points">3176</td>
+					</tr>
+					<tr>
+						<td class="place">26.</td>
+						<td class="team">SC Weyhe<img title="SC Weyhe" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/sc_weyhe.png"></td>
+						<td class="points">3207</td>
+					</tr>
+					<tr>
+						<td class="place">27.</td>
+						<td class="team">Hannover 96 IV<img title="Hannover 96 IV" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/hannover_96.png"></td>
+						<td class="points">3465</td>
+					</tr>
+					<tr>
+						<td class="place">28.</td>
+						<td class="team">KEB Tri-Team Schwarme Mixed<img title="KEB Tri-Team Schwarme Mixed" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/keb_tri-team_schwarme.png"></td>
+						<td class="points">3717</td>
+					</tr>
+					<tr>
+						<td class="place">29.</td>
+						<td class="team">Triathlon Heidekreis<img title="Triathlon Heidekreis" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/triathlon_heidekreis.png"></td>
+						<td class="points">4060</td>
+					</tr>
+					<tr>
+						<td class="place">30.</td>
+						<td class="team">Triathlon Club Bremen Mix<img title="Triathlon Club Bremen Mix" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/triathlon_club_bremen.png"></td>
+						<td class="points">4076</td>
+					</tr>
+					<tr>
+						<td class="place">31.</td>
+						<td class="team">Tri-Mix TSV Schwarme<img title="Tri-Mix TSV Schwarme" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/tsv_schwarme.png"></td>
+						<td class="points">4091</td>
+					</tr>
+					<tr>
+						<td class="place">32.</td>
+						<td class="team">SV Altencelle Trimixer<img title="SV Altencelle Trimixer" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/sv_altencelle_trimixer.png"></td>
+						<td class="points">4267</td>
+					</tr>
+					<tr>
+						<td class="place">33.</td>
+						<td class="team">Lehrter SV Triathlon III<img title="Lehrter SV Triathlon III" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/lehrter_sv_triathlon.png"></td>
+						<td class="points">5026</td>
+					</tr>
+					<tr>
+						<td class="place">34.</td>
+						<td class="team">WSV 1921 Wolfenbüttel<img title="WSV 1921 Wolfenbüttel" src="http://cms.rsc-lueneburg.de/tl_files/website/ligaclubs/wsv_1921_wolfenbuettel.png"></td>
+						<td class="points">5312</td>
+					</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Team der laufenden Saison</title>
+		<text><![CDATA[
+		Alle Infos zum Team der aktuell laufenden Saison gibt es <a href="?page=63" onclick="javascript:showContent(63,null); return false;">hier</a>.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Zwischenstand der Nachwuchswertung</title>
+		<text><![CDATA[
+		Nach 2 von 4 Rennen befindet sich Ole Heyn auf <b>Platz 7</b> der Nachwuchswertung der Lemonsports.com-Tour 2013 in der Altersgruppe Jun - TM18.
+		<br/><br/>
+		Die gesamte Tabelle gibt es hier: <a href="http://triathlon-niedersachsen.de/index.php?option=com_content&view=article&id=1545:neuer-zwischenstand-der-nachwuchswertung-im-rahmen-der-lemonsportscom-tour-2013&catid=248:best-of-cup-juniors-2013&Itemid=348" target="_blank">www.triathlon-niedersachsen.de</a>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Quelle</title>
+		<text><![CDATA[
+		Vielen Dank an die Tri Speeys aus Peins, die <a href="http://www.trispeedys.de/infos/3liga.htm" target="_blank">hier</a> die Ergebnisse zusammenstellen.
+		]]></text>
+	</paragraph>
+</document>

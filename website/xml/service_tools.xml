@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Tools</headline>
+	<paragraph>
+		<title>Schwimm-Geschwindigkeits-Rechner</title>
+		<text><![CDATA[
+		<table width="350" cellpadding="3" border="0">
+			<tr>
+				<td>Standardstrecken</td>
+				<td colspan="6">
+					<select onclick="document.getElementById('distance_swimPaceCalculator').value = this.options[this.options.selectedIndex].value" style="width: 100%;">
+						<option value="">-</option>
+						<option value="500">500 m</option>
+						<option value="1000">1.000 m</option>
+						<option value="1500">1.500 m</option>
+						<option value="2000">2.000 m</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="7"><hr/></td>
+			</tr>
+			<tr>
+				<td>Strecke</td>
+				<td colspan="5"><input type="text" id="distance_swimPaceCalculator" maxlength="5" style="width: 100%; text-align: center;" value="0"/></td>
+				<td>m</td>
+			</tr>
+			<tr>
+				<td>Zeit</td>
+				<td>
+					<input type="text" id="time_hh_swimPaceCalculator" maxlength="2" style="width: 100%; text-align: center;" value="00"/>
+				</td>
+				<td>
+					:
+				</td>
+				<td>
+					<input type="text" id="time_mm_swimPaceCalculator" maxlength="2" style="width: 100%; text-align: center;" value="00"/>
+				</td>
+				<td>
+					:
+				</td>
+				<td>
+					<input type="text" id="time_ss_swimPaceCalculator" maxlength="2" style="width: 100%; text-align: center;" value="00"/>
+				</td>
+				<td>hh:mm:ss</td>
+			</tr>
+			<tr>
+				<td colspan="7"><hr/></td>
+			</tr>
+			<tr>
+				<td rowspan="2" valign="top">Geschwindigkeit</td>
+				<td colspan="5"><input type="text" id="result_swimPaceCalculatorMinPer100m" readonly="readonly" style="width: 100%; text-align: center;"/></td>
+				<td>min/100m</td>
+			</tr>
+			<tr>
+				<td colspan="5"><input type="text" id="result_swimPaceCalculatorKmPerHour" readonly="readonly" style="width: 100%; text-align: center;"/></td>
+				<td>km/h</td>
+			</tr>
+			<tr>
+				<td colspan="7"><hr/></td>
+			</tr>
+			<tr>
+				<td colspan="7" align="right"><input type="submit" value="Berechnen" onclick="calculateSwimPace();"/></td>
+			</tr>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Radfahr-Geschwindigkeits-Rechner</title>
+		<text><![CDATA[
+		<table width="350" cellpadding="3" border="0">
+			<tr>
+				<td>Standardstrecken</td>
+				<td colspan="6">
+					<select onclick="document.getElementById('distance_bikePaceCalculator').value = this.options[this.options.selectedIndex].value" style="width: 100%;">
+						<option value="">-</option>
+						<option value="20000">20 km</option>
+						<option value="40000">40 km</option>
+						<option value="90000">90 km</option>
+						<option value="180000">180 km</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="7"><hr/></td>
+			</tr>
+			<tr>
+				<td>Strecke</td>
+				<td colspan="5"><input type="text" id="distance_bikePaceCalculator" maxlength="6" style="width: 100%; text-align: center;" value="0"/></td>
+				<td>m</td>
+			</tr>
+			<tr>
+				<td>Zeit</td>
+				<td>
+					<input type="text" id="time_hh_bikePaceCalculator" maxlength="2" style="width: 100%; text-align: center;" value="00"/>
+				</td>
+				<td>
+					:
+				</td>
+				<td>
+					<input type="text" id="time_mm_bikePaceCalculator" maxlength="2" style="width: 100%; text-align: center;" value="00"/>
+				</td>
+				<td>
+					:
+				</td>
+				<td>
+					<input type="text" id="time_ss_bikePaceCalculator" maxlength="2" style="width: 100%; text-align: center;" value="00"/>
+				</td>
+				<td>hh:mm:ss</td>
+			</tr>
+			<tr>
+				<td colspan="7"><hr/></td>
+			</tr>
+			<tr>
+				<td rowspan="2" valign="top">Geschwindigkeit</td>
+				<td colspan="5"><input type="text" id="result_bikePaceCalculatorMinPerKm" readonly="readonly" style="width: 100%; text-align: center;"/></td>
+				<td>min/km</td>
+			</tr>
+			<tr>
+				<td colspan="5"><input type="text" id="result_bikePaceCalculatorKmPerHour" readonly="readonly" style="width: 100%; text-align: center;"/></td>
+				<td>km/h</td>
+			</tr>
+			<tr>
+				<td colspan="7"><hr/></td>
+			</tr>
+			<tr>
+				<td colspan="7" align="right"><input type="submit" value="Berechnen" onclick="calculateBikePace();"/></td>
+			</tr>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Lauf-Geschwindigkeits-Rechner</title>
+		<text><![CDATA[
+		<table width="350" cellpadding="3" border="0">
+			<tr>
+				<td>Standardstrecken</td>
+				<td colspan="6">
+					<select onclick="document.getElementById('distance_runPaceCalculator').value = this.options[this.options.selectedIndex].value" style="width: 100%;">
+						<option value="">-</option>
+						<option value="5000">5.000 m</option>
+						<option value="10000">10.000 m</option>
+						<option value="21097.5">Halbmarathon (21,0975 km)</option>
+						<option value="42195 ">Marathon (42,195 km)</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="7"><hr/></td>
+			</tr>
+			<tr>
+				<td>Strecke</td>
+				<td colspan="5"><input type="text" id="distance_runPaceCalculator" maxlength="6" style="width: 100%; text-align: center;" value="0"/></td>
+				<td>m</td>
+			</tr>
+			<tr>
+				<td>Zeit</td>
+				<td>
+					<input type="text" id="time_hh_runPaceCalculator" maxlength="2" style="width: 100%; text-align: center;" value="00"/>
+				</td>
+				<td>
+					:
+				</td>
+				<td>
+					<input type="text" id="time_mm_runPaceCalculator" maxlength="2" style="width: 100%; text-align: center;" value="00"/>
+				</td>
+				<td>
+					:
+				</td>
+				<td>
+					<input type="text" id="time_ss_runPaceCalculator" maxlength="2" style="width: 100%; text-align: center;" value="00"/>
+				</td>
+				<td>hh:mm:ss</td>
+			</tr>
+			<tr>
+				<td colspan="7"><hr/></td>
+			</tr>
+			<tr>
+				<td rowspan="2" valign="top">Geschwindigkeit</td>
+				<td colspan="5"><input type="text" id="result_runPaceCalculatorMinPerKm" readonly="readonly" style="width: 100%; text-align: center;"/></td>
+				<td>min/km</td>
+			</tr>
+			<tr>
+				<td colspan="5"><input type="text" id="result_runPaceCalculatorKmPerHour" readonly="readonly" style="width: 100%; text-align: center;"/></td>
+				<td>km/h</td>
+			</tr>
+			<tr>
+				<td colspan="7"><hr/></td>
+			</tr>
+			<tr>
+				<td colspan="7" align="right"><input type="submit" value="Berechnen" onclick="calculateRunPace();"/></td>
+			</tr>
+		</table>
+		]]></text>
+	</paragraph>
+</document>

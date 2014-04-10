@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Berichte &amp;raquo; Lauf-Events</headline>
+	<paragraph>
+		<title>Archiv</title>
+		<text><![CDATA[
+		<a href="?page=142" onclick="showContent(142,null); return false;">&raquo; Berichte 2013</a>
+		<br/>
+		<a href="?page=132" onclick="showContent(132,null); return false;">&raquo; Berichte 2012</a>
+		<br/>
+		<a href="?page=122" onclick="showContent(122,null); return false;">&raquo; Berichte 2011</a>
+		<br/>
+		<a href="?page=112" onclick="showContent(112,null); return false;">&raquo; Berichte 2010</a>
+		<br/>
+		<a href="?page=102" onclick="showContent(102,null); return false;">&raquo; Berichte 2009</a>
+		]]></text>
+	</paragraph>	
+</document>

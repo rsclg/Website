@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>RSS Feed</headline>
+	<paragraph>
+		<title>Was ist ein RSS Feed?</title>
+		<text><![CDATA[
+		Mit Hilfe eines RSS Feeds stellt das Triathlon Team Lüneburg einen Newsticker zur Verfügung stellen. Dieser liefert eine Liste der aktuellen
+		Neuigkeiten und ermöglicht es per Link in den News Bereich der Webseite zu gelangen.
+		<br/><br/>
+		RSS Feeds bieten für den Webseitenbetreiber den Vorteil schnell und einfach Neuigkeiten zu verbreiten. Der Nutzer muss nun nicht immer
+		die gesamte Webseite nach neuen Informationen durchsuchen, sondern kann sich in seinem Feedreader (siehe Abschnitt 3)
+		eine Zusammenfassung ansehen.
+		<br/><br/>
+		Mehr zu diesem Thema gibt es auf Wikipedia unter <a href="http://de.wikipedia.org/wiki/RSS" target="_blank">http://de.wikipedia.org/wiki/RSS</a>.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Feed URL</title>
+		<text><![CDATA[
+		Die URL's zu den RSS Feed's des Triathlon Team Lüneburg lauteen:
+		<br/><br/>
+		<a href="http://www.tri-team-lueneburg.de/xml/news.xml" target="_blank">http://www.tri-team-lueneburg.de/xml/news.xml</a> - Aktuelle News vom Triathlon Team Lüneburg
+		<br/><br/>
+		<a href="http://www.tri-team-lueneburg.de/xml/dates.xml" target="_blank">http://www.tri-team-lueneburg.de/xml/dates.xml</a> - Aktuelle Termine vom Triathlon Team Lüneburg
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Feedreader</title>
+		<text><![CDATA[
+		Ein Feedreader ist ein Programm, dass dazu dient, RSS Feeds auszulesen und für die Bildschirmanzeige aufzubereiten. So hat der Benutzer
+		eine Übersicht über seine verschiedenen Feeds.
+		<br/><br/>
+		Mehr dazu findet sich wieder auf Wikipedia unter <a href="http://de.wikipedia.org/wiki/Feedreader" target="_blank">http://de.wikipedia.org/wiki/Feedreader</a>.
+		Hier gibt es auch eine Liste verbreiteter Feedreader.
+		]]></text>
+	</paragraph>
+</document>

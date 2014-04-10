@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Willkommen auf der Webseite des RSC Lüneburg e.V.</headline>
+	<paragraph>
+		<title>Willkommen</title>
+		<text><![CDATA[
+		<table width="100%" border="0">
+			<tr>
+				<td style="vertical-align: top; padding-top: 20px;" width="30%" align="left">
+					Willkommen, wir sind der ...
+				</td>
+				<td style="vertical-align: middle;" width="40%" align="center">
+					<div style="text-align: center; font-weight: bold; font-size: 1.1em; padding-top: 10px; padding-bottom: 5px;">RSC Lüneburg e.V.</div>
+					<a href="pics/club/club_large.jpg" rel="lightbox" title="RSC Lüneburg e.V."><img src="pics/club/club_small.jpg" title="Zum Vergrößern auf das Bild klicken"/></a>
+				</td>
+				<td style="vertical-align: bottom; padding-bottom: 20px;" width="30%" align="right">
+					... der Radsportclub in Lüneburg seit 1991
+				</td>
+			</tr>
+		</table>
+		<div style="margin-top: 20px; text-align: center;">
+			<!--a href="http://www.bikeday-lueneburg.de/" target="_blank" title='BikeDay Lüneburg'><img src="pics/events/home_events_2012_bikeday.jpg" /></a -->
+			<!-- a href="http://rtf.rsc-lueneburg.de" target="_blank" title='RTF "Rund um Lüneburg"'><img src="pics/events/home_events_2011_rtf.jpg" /></a -->
+			<!-- a href="http://bibermann.tri-team-lueneburg.de" target="_blank" title="Bibermann Triathlon"><img src="pics/events/home_events_2011_bibermann.jpg" /></a -->
+		</div>
+		<div style="margin-top: 20px;"></div>
+		<div class="modalDialog" style="width: 430px; height: 430px;" id="rtf2010">
+			<div class="modalDialogHead">RTF "Rund um Lüneburg" 2010<a href="javascript:closeModalDialog('rtf2010');">X</a></div>
+			<div class="modalDialogBody" style="font-size: 0.8em;">
+				<img src="pics/events/rtf2010.jpg" />
+				Die RTF "Rund um Lüneburg" startet am <u>Sonntag, 30.05.2010</u>.
+				<br/><br/>
+				Alle Infos dazu gibt es: <a href="?page=6+topic=30.05.2010 - RTF: Rund um Lüneburg" onclick="closeModalDialog('rtf2010');showContent(6,'30.05.2010 - RTF: Rund um Lüneburg'); return false;">hier</a>
+				<br/><br/>
+				<button style="font-size: 0.8em;" onclick="closeModalDialog('rtf2010');">Fenster schließen</button>
+			</div>
+		</div>
+		]]></text>
+	</paragraph>
+</document>

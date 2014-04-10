@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Spenden</headline>
+	<paragraph>
+		<title>Warum spenden?</title>
+		<text><![CDATA[
+		Keine Zeit um aktiv im Ehrenamt tätig zu sein?
+		<br/><br/>
+		Trotzdem möchten Sie unser Engagement für den Sport unterstützen?
+		<br/><br/>
+		Dann unterstützen Sie unsere ehrenamtliche Tätigkeit durch eine Spende.
+		<br/><br/>
+		Spenden spielen neben Sponsoring und eigenen Mitgliedsbeiträgen eine immer wichtigere Rolle um den Sportbetrieb und das Vereinsleben aufrecht zu erhalten.
+		<br/><br/>
+		In den USA wird schon immer die finanzielle Unterstützung von Projekten und Clubs im Rahmen von Fundraising Aktionen unterstützt und sichergestellt.
+		<br/><br/>
+		Auch wir merken in den letzten Jahren immer mehr, dass sich viele Menschen aus Zeitnot und anderen Verpflichtungen zwar nicht ehrenamtlich in einem Verein engagieren können,
+		jedoch trotzdem einen Verein bei seiner Tätigkeit unterstützen möchten und dieses gerne über eine Spende tun.  
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Bedingungen</title>
+		<text><![CDATA[
+		Eine Spende ist aber kein Sponsoring. Somit darf ein Verein im Gegenzug zu einer Spende keine Gegenleistung (z.B. Werbung auf Trikot, o.ä.) erbringen.
+		<br/><br/>
+		Selbstverständlich sind wir als e.V. jedoch berechtigt eine Spendenquittung gemäß §10b EkStG auszustellen, die wir Ihnen umgehend nach Spendeneingang auf unserem Konto zukommen lassen werden.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Spendenformulare</title>
+		<text><![CDATA[
+		Sie können sich vorstellen unsere ehrenamtliche Tätigkeit durch eine Spende zu unterstützen? Dann informieren Sie sich doch über unsere aktuellen Spendenprojekte:
+		<ul>
+			<li>
+				<a href="?page=70" onclick="javascript:showContent(70,null); return false;">Spende zur Unterstützung unsere Jugendabteilung</a>
+				<br/>
+				Wartung und Pflege von Vereinsrädern, Unterstützung der Jugend bei ihrer Aktivität, sozial schwächere Jugendliche den Einstieg in die vergleichsweise teure Triathlon / 
+				Radsportwelt zu erleichtern
+			</li>
+			<li>
+				<a href="?page=71" onclick="javascript:showContent(71,null); return false;">Spende zur Finanzierung des Trainingsbetriebes</a>
+				<br/>
+				Sportstättenmieten, Trainern, Trainingsausrüstung
+			</li>
+		</ul>
+		Wir danken Ihnen für Ihre Unterstützung und Ihren Beitrag unseren Sport zu fördern.
+		]]></text>
+	</paragraph>
+</document>

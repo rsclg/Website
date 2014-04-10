@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Ergebnisse &amp;raquo; Triathlon</headline>
+	<paragraph>
+		<title>Archiv</title>
+		<text><![CDATA[
+		<a href="?page=143" onclick="showContent(143,null); return false;">&raquo; Ergebnisse 2013</a>
+		<br/>
+		<a href="?page=133" onclick="showContent(133,null); return false;">&raquo; Ergebnisse 2012</a>
+		<br/>
+		<a href="?page=123" onclick="showContent(123,null); return false;">&raquo; Ergebnisse 2011</a>
+		<br/>
+		<a href="?page=113" onclick="showContent(113,null); return false;">&raquo; Ergebnisse 2010</a>
+		<br/>
+		<a href="?page=103" onclick="showContent(103,null); return false;">&raquo; Ergebnisse 2009</a>
+		]]></text>
+	</paragraph>
+</document>

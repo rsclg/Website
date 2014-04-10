@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Jugend</headline>
+	<paragraph>
+		<title>Training</title>
+		<text><![CDATA[
+		Die aktuellen Trainingszeiten gibt es <a href="?page=55" onclick="javascript:showContent(55,null); return false;">hier</a>.
+		]]></text>
+	</paragraph>
+</document>

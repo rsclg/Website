@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Service</headline>
+	<paragraph>
+		<title>Download</title>
+		<text><![CDATA[
+		Im Downloadbereich werden Dokumente, Liste und andere Dateien zur Verfügung gestellt.
+		<br/><br/>
+		<a href="?page=25" onclick="showContent(25,null); return false;">&raquo; Zum Downloadbereich</a>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Links</title>
+		<text><![CDATA[
+		Interessante Links, Webseiten von Athleten oder Online-Services, alles das gibt es hier.
+		<br/><br/>
+		<a href="?page=26" onclick="showContent(26,null); return false;">&raquo; Zu den Links</a>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Tools</title>
+		<text><![CDATA[
+		Nützliche Online Tools sind hier zu finden.
+		<br/><br/>
+		<a href="?page=43" onclick="showContent(43,null); return false;">&raquo; Zu den Tools</a>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Gästebuch</title>
+		<text><![CDATA[
+		Hier gibt es unser Gästebuch, dass sich auf deinen Eintrag freut.
+		<br/><br/>
+		<a href="?page=15" onclick="showContent(15,null); return false;">&raquo; Zum Gästebuch</a>
+		]]></text>
+	</paragraph>
+</document>

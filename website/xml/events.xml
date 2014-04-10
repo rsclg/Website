@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Events</headline>
+	<paragraph>
+		<title>Bike Day Lüneburg</title>
+		<text><![CDATA[
+		Alle Infos zum Bike Day unter: <a href="http://www.bikeday-lueneburg.de" target="_blank">www.bikeday-lueneburg.de</a>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>RTF "Rund um Lüneburg"</title>
+		<text><![CDATA[
+		Alle Infos zu unserer RTF unter: <a href="http://www.rtf-lueneburg.de" target="_blank">www.rtf-lueneburg.de</a>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Bibermann</title>
+		<text><![CDATA[
+		Alle Infos zu unserem Triathlon unter: <a href="http://www.bibermann-triathlon.de" target="_blank">www.bibermann-triathlon.de</a>
+		]]></text>
+	</paragraph>
+	<paragraph_>
+		<title>Lüneburger Heide Cup</title>
+		<text><![CDATA[
+		Alle Infos zu unserem MTB Rennen unter: <a href="?page=108" onclick="javascript:showContent(108,null); return false;">&raquo; Lüneburger Heide Cup</a>
+		]]></text>
+	</paragraph_>
+	<paragraph>
+		<title>Archiv</title>
+		<text><![CDATA[
+		<a href="?page=107" onclick="javascript:showContent(107,null); return false;">&raquo; Events 2010</a>
+		<br/><br/>
+		<a href="?page=106" onclick="javascript:showContent(106,null); return false;">&raquo; Events bis 2009</a>
+		]]></text>
+	</paragraph>
+</document>

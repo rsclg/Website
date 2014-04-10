@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Berichte</headline>
+	<paragraph>
+		<title>Allgemein</title>
+		<text><![CDATA[
+		Sollten hier Berichte fehlen oder falsch sein, schickt uns bitte eine <a href="?page=16" onclick="showContent(16,null); return false;">Email</a>.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Schwimm-Events</title>
+		<text><![CDATA[
+		Zu den Berichten von Schwimm-Events geht es hier entlang: <a href="?page=36" onclick="showContent(36,null); return false;">klick</a>.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Radfahr-Events</title>
+		<text><![CDATA[
+		Zu den Berichten von Radfahr-Events geht es hier entlang: <a href="?page=37" onclick="showContent(37,null); return false;">klick</a>.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Lauf-Events</title>
+		<text><![CDATA[
+		Zu den Berichten von Lauf-Events geht es hier entlang: <a href="?page=38" onclick="showContent(38,null); return false;">klick</a>.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Duathlon</title>
+		<text><![CDATA[
+		Zu den Berichten von Duathlons geht es hier entlang: <a href="?page=39" onclick="showContent(39,null); return false;">klick</a>.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Triathlon</title>
+		<text><![CDATA[
+		Zu den Berichten von Triathlons geht es hier entlang: <a href="?page=40" onclick="showContent(40,null); return false;">klick</a>.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Berichte senden</title>
+		<text><![CDATA[
+		Neue Berichte können hier gesendet werden: <a href="?page=45" onclick="showContent(45,null); return false;">klick</a>.
+		]]></text>
+	</paragraph>
+</document>

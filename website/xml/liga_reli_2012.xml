@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Triathlon Regionalliga 2012</headline>
+	<paragraph>
+		<title>Info</title>
+		<text><![CDATA[
+		Willkommen auf der Seite zur Regionalligateilnahme des Triathlon Team Lüneburg im Jahr 2012.
+		<br/><br/>
+		Teamleitung: Frank Reimann
+		<br/><br/>
+		Weitere Infos zur Liga gibt es auf der Webseite des TVN unter: 
+		<a href="http://www.triathlon-niedersachsen.de/index.php?option=com_content&view=category&layout=blog&id=204&Itemid=63" target="_blank">www.triathlon-niedersachsen.de</a>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Kader</title>
+		<text><![CDATA[
+		<a href="pics/liga/team_reli_2012_large.jpg" rel="lightbox[team_2012]" title="Das Regionalliga Team 2012 (v.l.): Sebastian Körner, Hendrik Garbers, Frank Reimann, Jonathan Pargätzi, Julian Radzinski<br/>(Es fehlen: Carsten Wittkop, Dirk Meyer, Michael Nottebohm, Ronny von Bresinski, Stephan Trettin)"><img src="pics/liga/team_reli_2012_small.jpg" class="right" title="Zum Vergrößern auf das Bild klicken"/></a>
+		<ul style="float: left;">
+			<li><a href="pics/team/members/carsten.wittkop.jpg" rel="lightbox[team_2012]" title="Carsten Wittkop" onmouseover="document.getElementById('member_reli_2012').src=this.href" onmouseout="document.getElementById('member_reli_2012').src='pics/team/members/clear.png'" >Carsten Wittkop</a></li>
+			<li><a href="pics/team/members/dirk.meyer.jpg" rel="lightbox[team_2012]" title="Dirk Meyer" onmouseover="document.getElementById('member_reli_2012').src=this.href" onmouseout="document.getElementById('member_reli_2012').src='pics/team/members/clear.png'" >Dirk Meyer</a></li>
+			<li><a href="pics/team/members/frank.reimann.jpg" rel="lightbox[team_2012]" title="Frank Reimann" onmouseover="document.getElementById('member_reli_2012').src=this.href" onmouseout="document.getElementById('member_reli_2012').src='pics/team/members/clear.png'" >Frank Reimann</a></li>
+			<li><a href="pics/team/members/hendrik.garbers.jpg" rel="lightbox[team_2012]" title="Hendrik Garbers" onmouseover="document.getElementById('member_reli_2012').src=this.href" onmouseout="document.getElementById('member_reli_2012').src='pics/team/members/clear.png'" >Hendrik Garbers</a></li>
+			<li><a href="pics/team/members/jonathan.pargaetzi.jpg" rel="lightbox[team_2012]" title="Jonathan Pargätzi" onmouseover="document.getElementById('member_reli_2012').src=this.href" onmouseout="document.getElementById('member_reli_2012').src='pics/team/members/clear.png'" >Jonathan Pargätzi</a></li>
+			<li><a href="pics/team/members/julian.radzinski.jpg" rel="lightbox[team_2012]" title="Julian Radzinski" onmouseover="document.getElementById('member_reli_2012').src=this.href" onmouseout="document.getElementById('member_reli_2012').src='pics/team/members/clear.png'" >Julian Radzinski</a></li>
+			<li><a href="pics/team/members/michael.nottebohm.jpg" rel="lightbox[team_2012]" title="Michael Nottebohm" onmouseover="document.getElementById('member_reli_2012').src=this.href" onmouseout="document.getElementById('member_reli_2012').src='pics/team/members/clear.png'" >Michael Nottebohm</a></li>
+			<li><a href="pics/team/members/ronny.von.bresinski.jpg" rel="lightbox[team_2012]" title="Ronny von Bresinski" onmouseover="document.getElementById('member_reli_2012').src=this.href" onmouseout="document.getElementById('member_reli_2012').src='pics/team/members/clear.png'" >Ronny von Bresinski</a></li>
+			<li><a href="pics/team/members/sebastian.koerner.jpg" rel="lightbox[team_2012]" title="Sebastian Körner (Zweitstarter)" onmouseover="document.getElementById('member_reli_2012').src=this.href" onmouseout="document.getElementById('member_reli_2012').src='pics/team/members/clear.png'" >Sebastian Körner (Zweitstarter)</a></li>
+			<li><a href="pics/team/members/stephan.trettin.jpg" rel="lightbox[team_2012]" title="Stephan Trettin (Zweitstarter)" onmouseover="document.getElementById('member_reli_2012').src=this.href" onmouseout="document.getElementById('member_reli_2012').src='pics/team/members/clear.png'" >Stephan Trettin (Zweitstarter)</a></li>
+		</ul>
+		<div style="float: left; margin-left: 20px; margin-top: 15px; text-align: center; vertical-align: center;">
+			<img id="member_reli_2012" src="pics/team/members/clear.png" style="float: left; max-width: 200px; max-height: 200px;"/>
+		</div>
+		<div style="clear: both;"></div>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Termine</title>
+		<text><![CDATA[
+		<ul>
+			<li class="striked"><b>03.06.2012</b> : Hamburg - OD</li>
+			<li class="striked"><b>10.06.2012</b> : Itzehoe - Swim and Run / Sprint</li>
+			<li class="striked"><b>29.07.2012</b> : Stuhr - OD</li>
+			<li class="striked"><b>11.08.2012</b> : Güstrow - OD</li>
+			<li class="striked"><b>02.09.2012</b> : Bad Zwischenahn - SD</li>
+		</ul>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Ergebnisse</title>
+		<text><![CDATA[
+		<div class="modalDialog" style="width: 450px; height: auto;" id="ligaTable_reli2012">
+			<div class="modalDialogHead">Aktuelle Tabelle<a href="javascript:closeModalDialog('ligaTable_reli2012');">X</a></div>
+			<div class="modalDialogBody" style="font-size: 12px;">
+				<div style="text-align: right; font-size: 9px;">Stand 02.09.2012 nach 5 von 5 Rennen</div>
+				<div style="text-align: left; padding-left: 10px;">
+					<ol>
+						<li>TSV Bokeloh (13 WP, 321 PZ)</li>
+						<li>Kaifu Tri Team (13 WP, 341 PZ)</li>
+						<li><div style="background-color: #c10000; color: #ffffff; margin-left: -30px; padding-left: 30px; width: 100%;">Triathlon Team Lüneburg (19 WP, 414 PZ)</div></li>
+						<li>ESV Eintracht Hameln (21 WP, 439 PZ)</li>
+						<li>WSV 1921 Wolfenbüttel 1 (31 WP, 569 PZ)</li>
+						<li>USC Kiel (35 WP, 607 PZ)</li>
+						<li>Hannover 96 (36 WP, 619 PZ)</li>
+						<li>Triathlon Team Buxtehude Herren I (38 WP, 631 PZ)</li>
+						<li>Tri Michels Hamburg II (49 WP, 698 PZ)</li>
+						<li>Triathlon Team Braunschweig (51 WP, 763 PZ)</li>
+						<li>BKK Mobil Oil Ratzeburger SV (52 WP, 790 PZ)</li>
+						<li>Stader SV Team (54 WP, 853 PZ)</li>
+						<li>Triabolos Hamburg (59 WP, 865 PZ)</li>
+						<li>TriAs Flensburg (60 WP, 1055 PZ)</li>
+						<li>LC Nordhorn I (73 WP, 1030 PZ)</li>
+						<li>TriAs Hildesheim II (73 WP, 1035 PZ)</li>
+					</ol>
+				</div>
+				<div style="text-align: right; font-size: 9px; padding-bottom: 20px;">(WP = Wertungspunkte, PZ = Platzziffer)</div>
+				<button style="font-size: 0.8em;" onclick="closeModalDialog('ligaTable_reli2012');">Fenster schließen</button>
+			</div>
+		</div>
+
+		
+		<div style="float: right;">
+			<a href="javascript:openModalDialog('ligaTable_reli2012')">Tabelle</a>
+		</div>
+
+		<i><b>Triathlon Hamburg (03.06.2012)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Frank Reimann</td>
+					<td>02:01:23 h</td>
+					<td>10./77</td>
+				</tr>
+				<tr>
+					<td class="member">Sebastian Körner</td>
+					<td>02:02:41 h</td>
+					<td>15./77</td>
+				</tr>
+				<tr>
+					<td class="member">Jonathan Pargätzi</td>
+					<td>02:03:53 h</td>
+					<td>18./77</td>
+				</tr>
+				<tr>
+					<td class="member">Julian Radzinski</td>
+					<td>02:21:30 h</td>
+					<td>71./77</td>
+				</tr>
+				<tr>
+					<td class="member">Carsten Wittkop</td>
+					<td>02:35:48 h</td>
+					<td>76./77</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<i><b>Triathlon Itzehoe (10.06.2012)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,5 km - 20 km - 5 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Frank Reimann</td>
+					<td>00:58:34 h</td>
+					<td>6./79</td>
+				</tr>
+				<tr>
+					<td class="member">Jonathan Pargätzi</td>
+					<td>01:00:00 h</td>
+					<td>10./79</td>
+				</tr>
+				<tr>
+					<td class="member">Sebastian Körner</td>
+					<td>01:00:41 h</td>
+					<td>15./79</td>
+				</tr>
+				<tr>
+					<td class="member">Hendrik Garbers</td>
+					<td>01:01:15 h</td>
+					<td>18./79</td>
+				</tr>
+				<tr>
+					<td class="member">Julian Radzinski</td>
+					<td>01:09:04 h</td>
+					<td>63./79</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<i><b>Triathlon Stuhr (29.07.2012)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Sebastian Körner</td>
+					<td>01:59:06 h</td>
+					<td>6./68</td>
+				</tr>
+				<tr>
+					<td class="member">Jonathan Pargätzi</td>
+					<td>02:01:16 h</td>
+					<td>10./68</td>
+				</tr>
+				<tr>
+					<td class="member">Ronny von Bresinski</td>
+					<td>02:12:39 h</td>
+					<td>52./68</td>
+				</tr>
+				<tr>
+					<td class="member">Julian Radzinski</td>
+					<td>02:15:50 h</td>
+					<td>57./68</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<i><b>Triathlon Güstrow (11.08.2012)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Stephan Trettin</td>
+					<td>01:59:21 h</td>
+					<td>4./71</td>
+				</tr>
+				<tr>
+					<td class="member">Frank Reimann</td>
+					<td>02:00:27 h</td>
+					<td>6./71</td>
+				</tr>
+				<tr>
+					<td class="member">Jonathan Pargätzi</td>
+					<td>02:03:13 h</td>
+					<td>14./71</td>
+				</tr>
+				<tr>
+					<td class="member">Dirk Meyer</td>
+					<td>02:21:31 h</td>
+					<td>69./71</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<i><b>Triathlon Bad Zwischenahn (02.09.2012)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,75 km - 27 km - 5,4 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Frank Reimann</td>
+					<td>01:13:05 h</td>
+					<td>4./76</td>
+				</tr>
+				<tr>
+					<td class="member">Jonathan Pargätzi</td>
+					<td>01:13:14 h</td>
+					<td>5./76</td>
+				</tr>
+				<tr>
+					<td class="member">Sebastian Körner</td>
+					<td>01:13:48 h</td>
+					<td>12./76</td>
+				</tr>
+				<tr>
+					<td class="member">Stephan Trettin</td>
+					<td>01:13:49 h</td>
+					<td>13./76</td>
+				</tr>
+				<tr>
+					<td class="member">Ronny von Bresinski</td>
+					<td>01:21:53 h</td>
+					<td>59./76</td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Bilder</title>
+		<text><![CDATA[
+		<i><b>Triathlon Hamburg (03.06.2012)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-01_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-02_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-03_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-04_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-05_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-06_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-07_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-07_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-08_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-08_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-09_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-09_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-10_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-10_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-11_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-11_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-12_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-12_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-13_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-13_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-14_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-14_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_03-Vierlanden-Triathlon-15_large.jpg" rel="lightbox[Triathlon Hamburg (03.06.2012)]" title="Triathlon Hamburg (03.06.2012)"><img src="pics/liga/2012_06_03-Vierlanden-Triathlon-15_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Itzehoe (10.06.2012)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2012_06_10-Triathlon_Itzehoe-01_large.jpg" rel="lightbox[Triathlon Itzehoe (10.06.2012)]" title="Triathlon Itzehoe (10.06.2012)"><img src="pics/liga/2012_06_10-Triathlon_Itzehoe-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_10-Triathlon_Itzehoe-02_large.jpg" rel="lightbox[Triathlon Itzehoe (10.06.2012)]" title="Triathlon Itzehoe (10.06.2012)"><img src="pics/liga/2012_06_10-Triathlon_Itzehoe-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_10-Triathlon_Itzehoe-03_large.jpg" rel="lightbox[Triathlon Itzehoe (10.06.2012)]" title="Triathlon Itzehoe (10.06.2012)"><img src="pics/liga/2012_06_10-Triathlon_Itzehoe-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_10-Triathlon_Itzehoe-04_large.jpg" rel="lightbox[Triathlon Itzehoe (10.06.2012)]" title="Triathlon Itzehoe (10.06.2012)"><img src="pics/liga/2012_06_10-Triathlon_Itzehoe-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_10-Triathlon_Itzehoe-05_large.jpg" rel="lightbox[Triathlon Itzehoe (10.06.2012)]" title="Triathlon Itzehoe (10.06.2012)"><img src="pics/liga/2012_06_10-Triathlon_Itzehoe-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_10-Triathlon_Itzehoe-06_large.jpg" rel="lightbox[Triathlon Itzehoe (10.06.2012)]" title="Triathlon Itzehoe (10.06.2012)"><img src="pics/liga/2012_06_10-Triathlon_Itzehoe-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_10-Triathlon_Itzehoe-07_large.jpg" rel="lightbox[Triathlon Itzehoe (10.06.2012)]" title="Triathlon Itzehoe (10.06.2012)"><img src="pics/liga/2012_06_10-Triathlon_Itzehoe-07_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_10-Triathlon_Itzehoe-08_large.jpg" rel="lightbox[Triathlon Itzehoe (10.06.2012)]" title="Triathlon Itzehoe (10.06.2012)"><img src="pics/liga/2012_06_10-Triathlon_Itzehoe-08_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_10-Triathlon_Itzehoe-09_large.jpg" rel="lightbox[Triathlon Itzehoe (10.06.2012)]" title="Triathlon Itzehoe (10.06.2012)"><img src="pics/liga/2012_06_10-Triathlon_Itzehoe-09_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_06_10-Triathlon_Itzehoe-10_large.jpg" rel="lightbox[Triathlon Itzehoe (10.06.2012)]" title="Triathlon Itzehoe (10.06.2012)"><img src="pics/liga/2012_06_10-Triathlon_Itzehoe-10_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Stuhr (29.07.2012)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2012_07_29-Triathlon-Stuhr-01_large.jpg" rel="lightbox[Triathlon Stuhr (29.07.2012)]" title="Triathlon Stuhr (29.07.2012)"><img src="pics/liga/2012_07_29-Triathlon-Stuhr-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Güstrow (11.08.2012)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2012_08_11-Triathlon_Guestrow-01_large.jpg" rel="lightbox[Triathlon Güstrow (11.08.2012)]" title="Triathlon Güstrow (11.08.2012)"><img src="pics/liga/2012_08_11-Triathlon_Guestrow-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Bad Zwischenahn (02.09.2012)</b></i></b>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2012_09_02-Bad_Zwischenahn-01_large.jpg" rel="lightbox[Triathlon Bad Zwischenahn (02.09.2012)]" title="Triathlon Bad Zwischenahn (02.09.2012)"><img src="pics/liga/2012_09_02-Bad_Zwischenahn-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_09_02-Bad_Zwischenahn-02_large.jpg" rel="lightbox[Triathlon Bad Zwischenahn (02.09.2012)]" title="Triathlon Bad Zwischenahn (02.09.2012)"><img src="pics/liga/2012_09_02-Bad_Zwischenahn-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_09_02-Bad_Zwischenahn-03_large.jpg" rel="lightbox[Triathlon Bad Zwischenahn (02.09.2012)]" title="Triathlon Bad Zwischenahn (02.09.2012)"><img src="pics/liga/2012_09_02-Bad_Zwischenahn-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_09_02-Bad_Zwischenahn-04_large.jpg" rel="lightbox[Triathlon Bad Zwischenahn (02.09.2012)]" title="Triathlon Bad Zwischenahn (02.09.2012)"><img src="pics/liga/2012_09_02-Bad_Zwischenahn-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_09_02-Bad_Zwischenahn-05_large.jpg" rel="lightbox[Triathlon Bad Zwischenahn (02.09.2012)]" title="Triathlon Bad Zwischenahn (02.09.2012)"><img src="pics/liga/2012_09_02-Bad_Zwischenahn-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2012_09_02-Bad_Zwischenahn-06_large.jpg" rel="lightbox[Triathlon Bad Zwischenahn (02.09.2012)]" title="Triathlon Bad Zwischenahn (02.09.2012)"><img src="pics/liga/2012_09_02-Bad_Zwischenahn-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Presse</title>
+		<text><![CDATA[
+		<i><b>Luenesport.de</b></i>
+		<ul>
+			<li>05.09.2012 : <a href="http://pressarchive.rsc-lueneburg.de/2012_09_05-LZ-Da war noch mehr drin.pdf" target="_blank">Da war noch mehr drin [PDF]</a></li>
+		</ul>
+		]]></text>
+	</paragraph>
+</document>

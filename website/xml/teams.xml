@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Teams</headline>
+	<paragraph>
+		<title>Triathlon Regionalliga</title>
+		<text><![CDATA[
+		Alles Infos zu unserem Regionalliga Team gibt es <a href="?page=50" onclick="showContent(50,null); return false;">hier</a>.
+		<br/><br/>
+		Die Tabelle der aktuell laufenden Saison gibt es <a href="?page=500" onclick="javascript:showContent(500,null); return false;">hier</a>.
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Triathlon Landesliga</title>
+		<text><![CDATA[
+		Alles Infos zu unserem Landesliga Team gibt es <a href="?page=60" onclick="showContent(60,null); return false;">hier</a>.
+		<br/><br/>
+		Die Tabelle der aktuell laufenden Saison gibt es <a href="?page=600" onclick="javascript:showContent(600,null); return false;">hier</a>.
+		]]></text>
+	</paragraph>
+</document>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Triathlon Regionalliga 2011</headline>
+	<paragraph>
+		<title>Info</title>
+		<text><![CDATA[
+		Willkommen auf der Seite zur Regionalligateilnahme des Triathlon Team Lüneburg im Jahr 2011.
+		<br/><br/>
+		Teamleitung: Frank Reimann
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Kader</title>
+		<text><![CDATA[
+		<a href="pics/liga/team_reli_2011_large.jpg" rel="lightbox[team_2011]" title="Das Regionalliga Team 2011 (v.l.): Dirk Meyer, Jonathan Pargätzi, Frank Reimann, Kai Uwe Schlichting, Michael Nottebohm, Cliff Parnitzky, Julian Radzinski<br/>(Es fehlen: Andreas Krohn, Dieter Zielinski, Hendrik Garbers, Ralf Plümer, Ronny von Bresinski, Stefan Burmester)"><img src="pics/liga/team_reli_2011_small.jpg" class="right" title="Zum Vergrößern auf das Bild klicken"/></a>
+		<ul style="float: left;">
+			<li><a href="pics/team/members/andreas.krohn.jpg" rel="lightbox[team_2011]" title="Andreas Krohn" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Andreas Krohn</a></li>
+			<li><a href="pics/team/members/cliff.parnitzky.jpg" rel="lightbox[team_2011]" title="Cliff Parnitzky" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Cliff Parnitzky</a></li>
+			<li><a href="pics/team/members/dieter.zielinski.jpg" rel="lightbox[team_2011]" title="Dieter Zielinski" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Dieter Zielinski</a></li>
+			<li><a href="pics/team/members/dirk.meyer.jpg" rel="lightbox[team_2011]" title="Dirk Meyer" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Dirk Meyer</a></li>
+			<li><a href="pics/team/members/frank.reimann.jpg" rel="lightbox[team_2011]" title="Frank Reimann" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Frank Reimann</a></li>
+			<li><a href="pics/team/members/hendrik.garbers.jpg" rel="lightbox[team_2011]" title="Hendrik Garbers" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Hendrik Garbers</a></li>
+			<li><a href="pics/team/members/jonathan.pargaetzi.jpg" rel="lightbox[team_2011]" title="Jonathan Pargätzi" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Jonathan Pargätzi</a></li>
+			<li><a href="pics/team/members/julian.radzinski.jpg" rel="lightbox[team_2011]" title="Julian Radzinski" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Julian Radzinski</a></li>
+			<li><a href="pics/team/members/kai.uwe.schlichting.jpg" rel="lightbox[team_2011]" title="Kai Uwe Schlichting" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Kai Uwe Schlichting</a></li>
+			<li><a href="pics/team/members/michael.nottebohm.jpg" rel="lightbox[team_2011]" title="Michael Nottebohm" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Michael Nottebohm</a></li>
+			<li><a href="pics/team/members/ralf.pluemer.jpg" rel="lightbox[team_2011]" title="Ralf Plümer" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Ralf Plümer</a></li>
+			<li><a href="pics/team/members/ronny.von.bresinski.jpg" rel="lightbox[team_2011]" title="Ronny von Bresinski" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Ronny von Bresinski</a></li>
+			<li><a href="pics/team/members/stefan.burmester.jpg" rel="lightbox[team_2011]" title="Stefan Burmester" onmouseover="document.getElementById('member_reli_2011').src=this.href" onmouseout="document.getElementById('member_reli_2011').src='pics/team/members/clear.png'" >Stefan Burmester</a></li>
+		</ul>
+		<div style="float: left; margin-left: 20px; margin-top: 15px; text-align: center; vertical-align: center;">
+			<img id="member_reli_2011" src="pics/team/members/clear.png" style="float: left; max-width: 200px; max-height: 200px;"/>
+		</div>
+		<div style="clear: both;"></div>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Termine</title>
+		<text><![CDATA[
+		<ul>
+			<li class="striked"><b>05.06.2011</b> : Hamburg - OD</li>
+			<li class="striked"><b>26.06.2011</b> : Itzehoe - Swim and Run / Sprint</li>
+			<li class="striked"><b>24.07.2011</b> : Stuhr - OD</li>
+			<li class="striked"><b>13.08.2011</b> : Güstrow - OD</li>
+		</ul>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Ergebnisse</title>
+		<text><![CDATA[
+		<div class="modalDialog" style="width: 450px; height: auto;" id="ligaTable_reli2011">
+			<div class="modalDialogHead">Aktuelle Tabelle<a href="javascript:closeModalDialog('ligaTable_reli2011');">X</a></div>
+			<div class="modalDialogBody" style="font-size: 12px;">
+				<div style="text-align: right; font-size: 9px;">Stand 14.08.2011 nach 4 von 4 Rennen</div>
+				<div style="text-align: left; padding-left: 10px;">
+					<ol>
+						<li>Triabolos Multipower active Team I (6 WP, 147 PZ)</li>
+						<li>TriTeam FIKO Rostock (7 WP, 184 PZ)</li>
+						<li>Kaifu Tri Team (13 WP, 281 PZ)</li>
+						<li>TSV Bokeloh I (17 WP, 359 PZ)</li>
+						<li>Stader SV Team H (24 WP, 497 PZ)</li>
+						<li>Tri Michels Hamburg II (27 WP, 528 PZ)</li>
+						<li>WSV 1921 Wolfenbüttel 1 (32 WP, 550 PZ)</li>
+						<li><div style="background-color: #c10000; color: #ffffff; margin-left: -30px; padding-left: 30px; width: 100%;">Triathlon Team Lüneburg (34 WP, 580 PZ)</div></li>
+						<li>Team Gelting Radshop Brunner (40 WP, 676 PZ)</li>
+						<li>Triathlon Team Braunschweig (42 WP, 580 PZ)</li>
+						<li>TSH Team Bergamont (42 WP, 680 PZ)</li>
+						<li>BKK Mobil Oil Ratzeburger SV (45 WP, 753 PZ)</li>
+						<li>Triabolos Multipower active Team II (52 WP, 825 PZ)</li>
+						<li>Triathlon Team Buxtehude Herren I (53 WP, 801 PZ)</li>
+						<li>TriAs Flensburg (54 WP, 830 PZ)</li>
+						<li>TriAs Hildesheim II (60 WP, 895 PZ)</li>
+						<li>USC Kiel (61 WP, 969 PZ)</li>
+						<li>NTSV Strand 08 Triathlon (71 WP, 1213 PZ)</li>
+						<li>SG Wasserratten Norderstedt H (76 WP, 1366 PZ)</li>
+						<li>Erdinger Alkoholfrei Team Gut Heil Itzehoe (77 WP, 1450 PZ)</li>
+					</ol>
+				</div>
+				<div style="text-align: right; font-size: 9px; padding-bottom: 20px;">(WP = Wertungspunkte, PZ = Platzziffer)</div>
+				<button style="font-size: 0.8em;" onclick="closeModalDialog('ligaTable_reli2011');">Fenster schließen</button>
+			</div>
+		</div>
+
+		
+		<div style="float: right;">
+			<a href="javascript:openModalDialog('ligaTable_reli2011')">Tabelle</a>
+		</div>
+
+		<i><b>Vierlandentriathlon (05.06.2011)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Frank Reimann</td>
+					<td>02:04:12 h</td>
+					<td>7./93</td>
+				</tr>
+				<tr>
+					<td class="member">Julian Radzinski</td>
+					<td>02:11:44 h</td>
+					<td>31./93</td>
+				</tr>
+				<tr>
+					<td class="member">Ralf Plümer</td>
+					<td>02:21:52 h</td>
+					<td>65./93</td>
+				</tr>
+				<tr>
+					<td class="member">Dieter Zielinski</td>
+					<td>02:22:38 h</td>
+					<td>67./93</td>
+				</tr>
+				<tr>
+					<td class="member">Stefan Burmester</td>
+					<td>02:30:04 h</td>
+					<td>82./93</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/>
+		<i><b>Triathlon Itzehoe (26.06.2011)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,5 km - 20 km - 5 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Frank Reimann</td>
+					<td>01:03:13 h</td>
+					<td>18./94</td>
+				</tr>
+				<tr>
+					<td class="member">Hendrik Garbers</td>
+					<td>01:04:56 h</td>
+					<td>24./94</td>
+				</tr>
+				<tr>
+					<td class="member">Jonathan Pargätzi</td>
+					<td>01:04:57 h</td>
+					<td>25./94</td>
+				</tr>
+				<tr>
+					<td class="member">Julian Radzinski</td>
+					<td>01:05:37 h</td>
+					<td>27./94</td>
+				</tr>
+				<tr>
+					<td class="member">Andreas Krohn</td>
+					<td>01:07:37 h</td>
+					<td>37./94</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/>
+		<i><b>Silbersee-Triathlon (24.07.2011)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Jonathan Pargätzi</td>
+					<td>02:03:45 h</td>
+					<td>23./93</td>
+				</tr>
+				<tr>
+					<td class="member">Andreas Krohn</td>
+					<td>02:06:29 h</td>
+					<td>33./93</td>
+				</tr>
+				<tr>
+					<td class="member">Michael Nottebohm</td>
+					<td>02:13:41 h</td>
+					<td>60./93</td>
+				</tr>
+				<tr>
+					<td class="member">Ronny von Bresinski</td>
+					<td>02:16:33 h</td>
+					<td>69./93</td>
+				</tr>
+				<tr>
+					<td class="member">Dieter Zielinski</td>
+					<td>02:16:50 h</td>
+					<td>70./93</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/>
+		<i><b>Güstrower Triathlon (13.08.2011)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Frank Reimann</td>
+					<td>01:57:10 h</td>
+					<td>07./80</td>
+				</tr>
+				<tr>
+					<td class="member">Jonathan Pargätzi</td>
+					<td>02:02:48 h</td>
+					<td>28./80</td>
+				</tr>
+				<tr>
+					<td class="member">Julian Radzinski</td>
+					<td>02:05:31 h</td>
+					<td>40./80</td>
+				</tr>
+				<tr>
+					<td class="member">Hendrik Garbers</td>
+					<td>02:09:55 h</td>
+					<td>56./80</td>
+				</tr>
+				<tr>
+					<td class="member">Dirk Meyer</td>
+					<td>02:17:38 h</td>
+					<td>71./80</td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Bilder</title>
+		<text><![CDATA[
+		<i><b>Team Training (01.05.2011)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2011_05_01-Team_Training-01_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-02_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-03_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-04_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-05_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-06_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-07_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-07_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-08_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-08_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-09_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-09_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-10_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-10_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-11_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-11_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-12_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-12_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-13_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-13_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-14_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-14_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-15_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-15_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-16_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-16_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-17_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-17_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-18_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-18_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-19_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-19_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-20_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-20_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-21_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-21_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_05_01-Team_Training-22_large.jpg" rel="lightbox[Team Training (01.05.2011)]" title="Team Training (01.05.2011)"><img src="pics/liga/2011_05_01-Team_Training-22_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Vierlandentriathlon (05.06.2011)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-01_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-02_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-03_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-04_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-05_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-06_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-07_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-07_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-08_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-08_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-09_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-09_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-10_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-10_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-11_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-11_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-12_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-12_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-13_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-13_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-14_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-14_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-15_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-15_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-16_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-16_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-17_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-17_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-18_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-18_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-19_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-19_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-20_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-20_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-21_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-21_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-22_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-22_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-23_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-23_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-24_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-24_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-25_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-25_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-26_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-26_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-27_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-27_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-28_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-28_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-29_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-29_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-30_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-30_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-31_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-31_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-32_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-32_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-33_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-33_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-34_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-34_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-35_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-35_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-36_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-36_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-37_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-37_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-38_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-38_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-39_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-39_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_05-Vierlanden_Triathlon-40_large.jpg" rel="lightbox[Vierlandentriathlon (05.06.2011)]" title="Vierlandentriathlon (05.06.2011)"><img src="pics/liga/2011_06_05-Vierlanden_Triathlon-40_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Itzehoe (26.06.2011)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2011_06_26-Triathlon_Itzehoe-01_large.jpg" rel="lightbox[Triathlon Itzehoe (26.06.2011)]" title="Triathlon Itzehoe (26.06.2011)"><img src="pics/liga/2011_06_26-Triathlon_Itzehoe-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_06_26-Triathlon_Itzehoe-02_large.jpg" rel="lightbox[Triathlon Itzehoe (26.06.2011)]" title="Triathlon Itzehoe (26.06.2011)"><img src="pics/liga/2011_06_26-Triathlon_Itzehoe-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>		
+		<br/><br/>
+		<i><b>Silbersee-Triathlon (24.07.2011)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2011_07_24-Silbersee-Triathlon-01_large.jpg" rel="lightbox[Silbersee-Triathlon (24.07.2011)]" title="Silbersee-Triathlon (24.07.2011)"><img src="pics/liga/2011_07_24-Silbersee-Triathlon-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2011_07_24-Silbersee-Triathlon-02_large.jpg" rel="lightbox[Silbersee-Triathlon (24.07.2011)]" title="Silbersee-Triathlon (24.07.2011)"><img src="pics/liga/2011_07_24-Silbersee-Triathlon-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>		
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Presse</title>
+		<text><![CDATA[
+		<i><b>Luenesport.de</b></i>
+		<ul>
+			<li>02.06.2011 : <a href="http://luenesport.de/index.php?option=com_content&view=article&id=1425:triathlon-team-lueneburg-startet-erstmals-in-der-regionalliga&catid=40:leichtathletik&Itemid=41" target="_blank">Triathlon Team Lüneburg startet erstmals in der Regionalliga</a></li>
+			<li>07.06.2011 : <a href="http://luenesport.de/index.php?option=com_content&view=article&id=1468:erfolgreicher-auftakt-in-die-regionalliga-fuer-triathlon-team&catid=40:leichtathletik&Itemid=41" target="_blank">Erfolgreicher Auftakt in die Regionalliga für Triathlon Team</a></li>
+			<li>29.06.2011 : <a href="http://luenesport.de/index.php?option=com_content&view=article&id=1552:regionalliga-triathleten-steigern-sich&catid=40:leichtathletik&Itemid=41" target="_blank">Regionalliga-Triathleten steigern sich</a></li>
+			<li>25.07.2011 : <a href="http://luenesport.de/index.php?option=com_content&view=article&id=1627:regionalliga-triathleten-schlagen-sich-ordentlich&catid=40:leichtathletik&Itemid=41" target="_blank">Regionalliga-Triathleten schlagen sich ordentlich</a></li>
+			<li>17.08.2011 : <a href="http://luenesport.de/index.php?option=com_content&view=article&id=1727:triathleten-beenden-erfolgreiche-auftaktsaison-in-der-regionalliga-&catid=40:leichtathletik&Itemid=41" target="_blank">Triathleten beenden erfolgreiche Auftaktsaison in der Regionalliga</a></li>
+		</ul>
+		]]></text>
+	</paragraph>
+</document>

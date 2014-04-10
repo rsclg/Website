@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+	<channel>
+		<title>RSC Lüneburg e.V. | Triathlon Team Lüneburg - News 2013</title>
+		<link>http://www.rsc-lueneburg.de</link>
+		<description>Aktuelle News vom RSC Lüneburg e.V. | Triathlon Team Lüneburg</description>
+		<lastBuildDate>Sun, 11 Nov 2008 00:00:00 GMT</lastBuildDate>
+		<generator>Manual</generator>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<item>
+			<title>Termin für den 3. Bibermann 2013</title>
+			<link>http://www.rsc-lueneburg.de?page=2+topic=21.01.2013</link>
+			<description>
+				Der Termin für den 3. Bibermann steht fest.
+				&lt;br/&gt;&lt;br/&gt;
+				Traditionell wird unser Triathlon wieder am 1. September Wochenende stattfinden, d.h. am 01. September 2013 erwarten wir euch wieder in Bleckede.
+				&lt;br/&gt;&lt;br/&gt;
+				Ansonsten bleibt alles gleich. Die Anmeldung wird wieder Anfang April geöffnet. Wer das nicht verpassen will, meldet sich beim Bibermann Newsletter an.
+				&lt;br/&gt;&lt;br/&gt;
+				Also, seid dabei, wenn der Startschuss zum 3. Bibermann fällt.
+				&lt;br/&gt;&lt;br/&gt;
+				Wir freuen uns auf euch.
+				&lt;br/&gt;&lt;br/&gt;
+				Mehr Infos und alle Details unter: &lt;a href="http://www.bibermann-triathlon.de" target="_blank" title="Webseite zum Bibermann Triathlon"&gt;www.bibermann-triathlon.de&lt;/a&gt;
+			</description>
+			<pubDate>21.01.2013</pubDate>
+		</item>
+		<item>
+			<title>Happy New Year</title>
+			<link>http://www.rsc-lueneburg.de?page=2+topic=02.01.2013</link>
+			<description>
+				Wir wünschen allen Mitglieder, Sponsoren und Besuchern unserer Webseiten eine schönes, erfolgreiches und vor allem gesundes Jahr 2013.
+				&lt;br/&gt;&lt;br/&gt;
+				Euer RSC Lüneburg e.V. | Triathlon Team Lüneburg
+			</description>
+			<pubDate>02.01.2013</pubDate>
+		</item>
+		<item>
+			<title>Newsarchiv</title>
+			<link>http://www.rsc-lueneburg.de?page=2+topic=01.01.2013</link>
+			<description>
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href="?page=305" onclick="showContent(305, null); return false;"&gt;2012&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="?page=304" onclick="showContent(304, null); return false;"&gt;2011&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="?page=303" onclick="showContent(303, null); return false;"&gt;2010&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="?page=302" onclick="showContent(302, null); return false;"&gt;2009&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="?page=301" onclick="showContent(301, null); return false;"&gt;2008&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+			</description>
+			<pubDate>01.01.2013</pubDate>
+		</item>
+	</channel>
+</rss>
