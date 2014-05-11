@@ -4,7 +4,7 @@
 	
 	<!-- Schwimmen SOMMER -->
 	
-	<paragraph_>
+	<paragraph>
 		<title>Schwimmen - Mo - 17:45 Uhr</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -31,7 +31,7 @@
 		<br/><br/>
 		Für diese Trainingseinheit steht 1 Bahn zur Verfügung die nur für das Jugendtraining genutzt wird.
 		<br/><br/>
-		Änderungen und weitere Informationen gibt es im Forum unter <a href="http://www.razyboard.com/system/forum-ttlg-jugend-triathlon-2269306.html" onclick="showContent(14,'http://www.razyboard.com/system/forum-ttlg-jugend-triathlon-2269306.html'); return false;">	Jugend: Triathlon</a>.
+		Änderungen und weitere Informationen gibt es im Forum unter <a href="http://www.razyboard.com/system/forum-ttlg-verein-jugend-2269311.html" onclick="showContent(14,'http://www.razyboard.com/system/forum-ttlg-verein-jugend-2269311.html'); return false;">	Verein: Jugend</a>.
 		<br/><br/>
 		<i><b>Ausrüstung</b></i>
 		<ul>
@@ -54,11 +54,11 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph_>
+	</paragraph>
 	
 	<!-- Schwimmen WINTER -->
 	
-	<paragraph>
+	<paragraph_>
 		<title>Schwimmen - Mo - 17:00 Uhr (Anfänger)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -107,8 +107,8 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph>
-	<paragraph>
+	</paragraph_>
+	<paragraph_>
 		<title>Schwimmen - Do - 19:00 Uhr (Fortgeschrittene)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -157,11 +157,11 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph>
+	</paragraph_>
 	
 	<!-- Laufen SOMMER -->
 	
-	<paragraph_>
+	<paragraph>
 		<title>Laufen - Di - 17:30 Uhr</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -206,11 +206,11 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph_>
+	</paragraph>
 	
 	<!-- Laufen WINTER -->
 	
-	<paragraph>
+	<paragraph_>
 		<title>Laufen - Di - 18:30 Uhr</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -251,7 +251,7 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph>
+	</paragraph_>
 	
 	<!-- Radfahren SOMMER -->
 	
