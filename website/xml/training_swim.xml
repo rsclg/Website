@@ -18,8 +18,8 @@
 	
 	<!-- SOMMER -->
 	
-	<_paragraph>
-		<title>Schwimmen - Mo - 18:45 Uhr (LK 2 / LK 3)</title>
+	<paragraph>
+		<title>Schwimmen - Mo - 18:45 Uhr (LK 3)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
 			<iframe style="border: 2px solid #c10000;" width="300" height="400" border="0" src="http://maps.google.de/maps?saddr=53.240282,10.441934&amp;hl=de&amp;sll=53.239909,10.412911&amp;sspn=0.036111,0.067978&amp;geocode=FdphLAMdzlSfAA&amp;t=h&amp;mra=ls&amp;ie=UTF8&amp;ll=53.240693,10.441926&amp;spn=0.005137,0.006416&amp;z=16&amp;output=embed" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
@@ -39,7 +39,7 @@
 		<br/><br/>
 		<i><b>Trainer</b></i>
 		<br/><br/>
-		<a href="http://www.tri-team-lueneburg.de/pics/team/trainers/cliff.parnitzky.jpg" rel="lightbox" title="Cliff Parnitzky">Cliff Parnitzky</a> (Planverantwortlicher)
+		<a href="http://www.tri-team-lueneburg.de/pics/team/trainers/jonathan.pargaetzi.jpg" rel="lightbox" title="Jonathan Pargätzi">Jonathan Pargätzi</a>, <a href="http://www.tri-team-lueneburg.de/pics/team/trainers/cliff.parnitzky.jpg" rel="lightbox" title="Cliff Parnitzky">Cliff Parnitzky</a>
 		<br/><br/>
 		<i><b>Ablauf</b></i>
 		<br/><br/>
@@ -74,9 +74,9 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</_paragraph>
-	<_paragraph>
-		<title>Schwimmen - Do - 18:00 Uhr (LK 1 / LK 2)</title>
+	</paragraph>
+	<paragraph>
+		<title>Schwimmen - Do - 18:00 Uhr (LK 2)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
 			<iframe style="border: 2px solid #c10000;" width="300" height="400" border="0" src="http://maps.google.de/maps?saddr=53.240282,10.441934&amp;hl=de&amp;sll=53.239909,10.412911&amp;sspn=0.036111,0.067978&amp;geocode=FdphLAMdzlSfAA&amp;t=h&amp;mra=ls&amp;ie=UTF8&amp;ll=53.240693,10.441926&amp;spn=0.005137,0.006416&amp;z=16&amp;output=embed" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
@@ -96,7 +96,7 @@
 		<br/><br/>
 		<i><b>Trainer</b></i>
 		<br/><br/>
-		Lina Fleing
+		<a href="http://www.tri-team-lueneburg.de/pics/team/trainers/gesine.lickfett.jpg" rel="lightbox" title="Gesine Lickfett">Gesine Lickfett</a>
 		<br/><br/>
 		<i><b>Ablauf</b></i>
 		<br/><br/>
@@ -131,9 +131,9 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</_paragraph>
-	<_paragraph>
-		<title>Schwimmen - Do - 19:00 Uhr (LK 1 / LK 2)</title>
+	</paragraph>
+	<paragraph>
+		<title>Schwimmen - Do - 19:00 Uhr (LK 1 / LK 2 / LK 3)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
 			<iframe style="border: 2px solid #c10000;" width="300" height="400" border="0" src="http://maps.google.de/maps?saddr=53.240282,10.441934&amp;hl=de&amp;sll=53.239909,10.412911&amp;sspn=0.036111,0.067978&amp;geocode=FdphLAMdzlSfAA&amp;t=h&amp;mra=ls&amp;ie=UTF8&amp;ll=53.240693,10.441926&amp;spn=0.005137,0.006416&amp;z=16&amp;output=embed" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
@@ -153,11 +153,11 @@
 		<br/><br/>
 		<i><b>Trainer</b></i>
 		<br/><br/>
-		Saskia Döring
+		kein Trainer (freies Training)
 		<br/><br/>
 		<i><b>Ablauf</b></i>
 		<br/><br/>
-		Für die Trainingseinheit steht eine Bahn zur Verfügung (die jeweilige Gruppe hat dabei den Vorrang auf der Bahn). Es kann aber auch neben der Bahn geschwommen werden.
+		Für die Trainingseinheit steht eine Bahn zur Verfügung. Es kann aber auch neben der Bahn geschwommen werden.
 		<br/><br/>
 		Änderungen und weitere Informationen gibt es im Forum unter <a href="http://www.razyboard.com/system/forum-ttlg-training-schwimmen-2113205.html" onclick="showContent(14,'http://www.razyboard.com/system/forum-ttlg-training-schwimmen-2113205.html'); return false;">Training: Schwimmen</a>.
 		<br/><br/>
@@ -188,7 +188,7 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</_paragraph>
+	</paragraph>
 	<paragraph_>
 		<title>Schwimmen - Fr - 18:30 Uhr (LK 1 / LK 2 / LK 3)</title>
 		<text><![CDATA[
@@ -251,7 +251,7 @@
 	
 	<!-- WINTER -->
 	
-	<paragraph>
+	<paragraph_>
 		<title>Schwimmen - Mi - 20:45 Uhr (LK 1 / LK 2 / LK 3)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -299,8 +299,8 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph>
-	<paragraph>
+	</paragraph_>
+	<paragraph_>
 		<title>Schwimmen - Do - 20:00 Uhr (LK 2 / LK 3)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -347,7 +347,7 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph>
+	</paragraph_>
 	<paragraph>
 		<title>Probetraining</title>
 		<text><![CDATA[
