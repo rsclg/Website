@@ -52,14 +52,14 @@
 		Duschen stehen im Schulzentrum Scharnebeck zur Verfügung.
 		]]></text>
 	</paragraph>
-	<paragraph>
+	<paragraph_>
 		<title>Ausschreibung &amp; Anmeldung</title>
 		<text><![CDATA[
 		bei rad-net.de:
 		<br/><br/>
 		<a href="http://www.rad-net.de/modules.php?name=Ausschreibung&ID_Veranstaltung=24265&mode=ascr_detail&typ=i" target="_blank">www.rad-net.de/modules.php?name=Ausschreibung&ID_Veranstaltung=24265&mode=ascr_detail&typ=i</a>
 		]]></text>
-	</paragraph>
+	</paragraph_>
 	<paragraph>
 		<title>Zeitplan &amp; Strecke</title>
 		<text><![CDATA[
@@ -95,18 +95,18 @@
 	<paragraph>
 		<title>Flyer und Plakate</title>
 		<text><![CDATA[
-		Flyer zum Lüneburger Heide Cup 2014 (Vorderseite)
-		<br/><br/>
 		<a href="http://files.rsc-lueneburg.de/LHC_2014_Flyer_vorn.jpg" rel="lightbox[Flyer und Plakate]"><img src="http://files.rsc-lueneburg.de/LHC_2014_Flyer_vorn.jpg" width="100" alt="LHC_2014_Flyer_vorn.jpg" title="Lüneburger Heide Cup 2014 - Flyer (vorn)" /></a>
-		<br/><br/>
-		Flyer zum Lüneburger Heide Cup 2014 (Rückseite)
-		<br/><br/>
 		<a href="http://files.rsc-lueneburg.de/LHC_2014_Flyer_hinten.jpg" rel="lightbox[Flyer und Plakate]"><img src="http://files.rsc-lueneburg.de/LHC_2014_Flyer_hinten.jpg" width="100" alt="LHC_2014_Flyer_hinten.jpg" title="Lüneburger Heide Cup 2014 - Flyer (hinten)" /></a>
-		<br/><br/>
-		Plakat zum Lüneburger Heide Cup 2014
-		<br/><br/>
 		<a href="http://files.rsc-lueneburg.de/LHC_2014_Plakat.jpg" rel="lightbox[Flyer und Plakate]"><img src="http://files.rsc-lueneburg.de/LHC_2014_Plakat.jpg" width="100" alt="LHC_2014_Plakat.jpg" title="Lüneburger Heide Cup 2014 - Plakat" /></a>
 		<br/><br/>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Pesse und Medien</title>
+		<text><![CDATA[
+		<b>Vorberichte:</b>
+		<br/><br/>
+		<a href="http://files.rsc-lueneburg.de/LHC_2014_Ankuendigung_Radio_Zusa.mp3" title="LHC_2014_Ankuendigung_Radio_Zusa.mp3" target="_blank">Ankündigung zum Lüneburger Heide Cup 2014 bei Radio Zusa</a>
 		]]></text>
 	</paragraph>
 	<paragraph>
