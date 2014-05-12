@@ -106,6 +106,7 @@ if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 
 <script type="text/javascript">
 		var baseUrl = "http://<?php echo $_SERVER['SERVER_NAME'];?>/";
+		var isRscPage = <?php echo (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) ? 'false' : 'true';?>;
 
 		<!-- PageEar function call -->
 		//writeObjects();

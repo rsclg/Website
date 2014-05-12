@@ -569,7 +569,14 @@ function homeHandler (parser)
 				teaserTwitterText.style.height=height + "px";
 				teaserTwitterText.style.overflow="hidden";
 				teaserTwitterText.setAttribute("id", "topTwitter");
-				teaserTwitterText.innerHTML='<a style="display: none;" class="twitter-timeline"  href="https://twitter.com/TriTeamLG"  data-widget-id="348014757435027456" height="' + height + '">Tweets von @TriTeamLG</a>';
+				if (isRscPage)
+				{
+					teaserTwitterText.innerHTML='<a style="display: none;" class="twitter-timeline"  href="https://twitter.com/RSC_Lueneburg"  data-widget-id="465832616587841536" height="' + height + '">Tweets vom @RSC_Lueneburg</a>';
+				}
+				else
+				{
+					teaserTwitterText.innerHTML='<a style="display: none;" class="twitter-timeline"  href="https://twitter.com/TriTeamLG"  data-widget-id="348014757435027456" height="' + height + '">Tweets vom @TriTeamLG</a>';
+				}
 				
 				var teaserTwitter = document.createElement("div");
 				teaserTwitter.className="teaserTopTwitter";
