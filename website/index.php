@@ -322,7 +322,7 @@ addContentJs();*/
 						<a href="?page=107" onclick="javascript:showContent(107,null); return false;">Events 2010</a>
 					</div>
 					<div class="topnaventrysubmenuentry">
-						<a href="?page=106" onclick="javascript:showContent(106,null); return false;">Events bis 2009</a>
+						<a href="?page=109" onclick="javascript:showContent(109,null); return false;">Events bis 2009</a>
 					</div>
 				</div>
 			</div>

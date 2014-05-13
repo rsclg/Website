@@ -30,7 +30,7 @@
 		<text><![CDATA[
 		<a href="?page=107" onclick="javascript:showContent(107,null); return false;">&raquo; Events 2010</a>
 		<br/><br/>
-		<a href="?page=106" onclick="javascript:showContent(106,null); return false;">&raquo; Events bis 2009</a>
+		<a href="?page=109" onclick="javascript:showContent(109,null); return false;">&raquo; Events bis 2009</a>
 		]]></text>
 	</paragraph>
 </document>
