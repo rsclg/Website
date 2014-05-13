@@ -61,8 +61,9 @@ pages[102] = "reports_run_2009";
 pages[103] = "results_triathlon_2009";
 pages[104] = "reports_triathlon_2009";
 pages[105] = "results_bike_2009";
+pages[106] = "results_duathlon_2009";
 
-pages[106] = "events_2009";
+pages[109] = "events_2009";
 pages[107] = "events_2010";
 pages[108] = "events_heide_cup";
 
@@ -71,24 +72,28 @@ pages[112] = "reports_run_2010";
 pages[113] = "results_triathlon_2010";
 pages[114] = "reports_triathlon_2010";
 pages[115] = "results_bike_2010";
+pages[116] = "results_duathlon_2010";
 
 pages[121] = "results_run_2011";
 pages[122] = "reports_run_2011";
 pages[123] = "results_triathlon_2011";
 pages[124] = "reports_triathlon_2011";
 pages[125] = "results_bike_2011";
+pages[126] = "results_duathlon_2011";
 
 pages[131] = "results_run_2012";
 pages[132] = "reports_run_2012";
 pages[133] = "results_triathlon_2012";
 pages[134] = "reports_triathlon_2012";
 pages[135] = "results_bike_2012";
+pages[136] = "results_duathlon_2012";
 
 pages[141] = "results_run_2013";
 pages[142] = "reports_run_2013";
 pages[143] = "results_triathlon_2013";
 pages[144] = "reports_triathlon_2013";
 pages[145] = "results_bike_2013";
+pages[146] = "results_duathlon_2013";
 
 pages[201] = "club_tt";
 pages[202] = "club_rtf";
