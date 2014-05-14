@@ -456,7 +456,10 @@ function homeHandler (parser)
 				
 				var text = document.createElement("div");
 				text.className = "homeText";
-				text.innerHTML = parser.result.paragraphs[0].text;
+				if (parser.result.paragraphs.length > 0)
+				{
+					text.innerHTML = parser.result.paragraphs[0].text;
+				}
 
 				var teaserNewsTitleTableTd1 = document.createElement("td");
 				teaserNewsTitleTableTd1.className="teasertitletext";
@@ -1286,11 +1289,13 @@ StandardTextblockXmlResponseParser.prototype = Object.extend(new AbstractRespons
 	this.result.headline = root.getElementsByTagName("headline")[0].firstChild.nodeValue;
 	
 	var paragraphs = new Array();
-	for (var i = 0; i < root.getElementsByTagName("paragraph").length; i++)
+	var elements = getDomElements(root, "paragraph");
+	
+	for (var i = 0; i < elements.length; i++)
 	{
 		var paragraph = new Object();
-		paragraph.title = root.getElementsByTagName("paragraph")[i].getElementsByTagName("title")[0].firstChild.nodeValue;
-		paragraph.text = root.getElementsByTagName("paragraph")[i].getElementsByTagName("text")[0].firstChild.nodeValue;
+		paragraph.title = elements[i].getElementsByTagName("title")[0].firstChild.nodeValue;
+		paragraph.text = elements[i].getElementsByTagName("text")[0].firstChild.nodeValue;
 		paragraphs.push(paragraph);
 	}
 	
@@ -1318,13 +1323,15 @@ NewsDatesXmlResponseParser.prototype = Object.extend(new AbstractResponseParser(
 	this.result.headline = root.getElementsByTagName("title")[0].firstChild.nodeValue.substring("RSC Lüneburg e.V. | Triathlon Team Lüneburg - ".length, root.getElementsByTagName("title")[0].firstChild.nodeValue.length);
 	
 	var paragraphs = new Array();
-	for (var i = 0; i < root.getElementsByTagName("item").length; i++)
+	var elements = getDomElements(root, "item");
+	
+	for (var i = 0; i < elements.length; i++)
 	{
 		var paragraph = new Object();
-		paragraph.title = root.getElementsByTagName("item")[i].getElementsByTagName("title")[0].firstChild.nodeValue;
-		paragraph.pubDate = root.getElementsByTagName("item")[i].getElementsByTagName("pubDate")[0].firstChild.nodeValue;
-		paragraph.text = root.getElementsByTagName("item")[i].getElementsByTagName("description")[0].firstChild.nodeValue;
-		paragraph.link = root.getElementsByTagName("item")[i].getElementsByTagName("link")[0].firstChild.nodeValue;
+		paragraph.title = elements[i].getElementsByTagName("title")[0].firstChild.nodeValue;
+		paragraph.pubDate = elements[i].getElementsByTagName("pubDate")[0].firstChild.nodeValue;
+		paragraph.text = elements[i].getElementsByTagName("description")[0].firstChild.nodeValue;
+		paragraph.link = elements[i].getElementsByTagName("link")[0].firstChild.nodeValue;
 		paragraphs.push(paragraph);
 	}
 	
@@ -1350,13 +1357,15 @@ InActionXmlResponseParser.prototype = Object.extend(new AbstractResponseParser()
   parse: function() {
 	var root = this.content.documentElement;
 	var pictures = new Array();
-	for (var i = 0; i < root.getElementsByTagName("picture").length; i++)
+	var elements = getDomElements(root, "picture");
+	
+	for (var i = 0; i < elements.length; i++)
 	{
 		var picture = new Object();
-		picture.path = root.getElementsByTagName("picture")[i].getElementsByTagName("path")[0].firstChild == null ? "" : root.getElementsByTagName("picture")[i].getElementsByTagName("path")[0].firstChild.nodeValue;
-		picture.title = root.getElementsByTagName("picture")[i].getElementsByTagName("title")[0].firstChild == null ? "" : root.getElementsByTagName("picture")[i].getElementsByTagName("title")[0].firstChild.nodeValue;
-		picture.link = root.getElementsByTagName("picture")[i].getElementsByTagName("link")[0].firstChild == null ? "" : root.getElementsByTagName("picture")[i].getElementsByTagName("link")[0].firstChild.nodeValue;
-		picture.onclick = root.getElementsByTagName("picture")[i].getElementsByTagName("link")[0].firstChild == null ? "" : root.getElementsByTagName("picture")[i].getElementsByTagName("onclick")[0].firstChild.nodeValue;
+		picture.path = elements[i].getElementsByTagName("path")[0].firstChild == null ? "" : elements[i].getElementsByTagName("path")[0].firstChild.nodeValue;
+		picture.title = elements[i].getElementsByTagName("title")[0].firstChild == null ? "" : elements[i].getElementsByTagName("title")[0].firstChild.nodeValue;
+		picture.link = elements[i].getElementsByTagName("link")[0].firstChild == null ? "" : elements[i].getElementsByTagName("link")[0].firstChild.nodeValue;
+		picture.onclick = elements[i].getElementsByTagName("link")[0].firstChild == null ? "" : elements[i].getElementsByTagName("onclick")[0].firstChild.nodeValue;
 		this.pictures.push(picture);
 	}
   }
@@ -1382,11 +1391,13 @@ TeamMemberXmlResponseParser.prototype = Object.extend(new AbstractResponseParser
 	this.result.headline = root.getElementsByTagName("headline")[0].firstChild.nodeValue;
 	
 	var members = new Array();
-	for (var i = 0; i < root.getElementsByTagName("member").length; i++)
+	var elements = getDomElements(root, "member");
+	
+	for (var i = 0; i < elements.length; i++)
 	{
 		var member = new Object();
-		member.id = root.getElementsByTagName("member")[i].getAttribute("id");
-		member.name = root.getElementsByTagName("member")[i].getAttribute("name");
+		member.id = elements[i].getAttribute("id");
+		member.name = elements[i].getAttribute("name");
 		members.push(member);
 	}
 	
@@ -1414,14 +1425,16 @@ SponsorsXmlResponseParser.prototype = Object.extend(new AbstractResponseParser()
 	this.result.headline = root.getElementsByTagName("headline")[0].firstChild.nodeValue;
 	
 	var partners = new Array();
-	for (var i = 0; i < root.getElementsByTagName("partner").length; i++)
+	var elements = getDomElements(root, "partner");
+	
+	for (var i = 0; i < elements.length; i++)
 	{
 		var partner = new Object();
-		partner.name = root.getElementsByTagName("partner")[i].getElementsByTagName("name")[0].firstChild.nodeValue;
-		partner.picture = root.getElementsByTagName("partner")[i].getElementsByTagName("picture")[0].firstChild.nodeValue;
-		partner.link = root.getElementsByTagName("partner")[i].getElementsByTagName("link")[0].firstChild.nodeValue;
-		partner.onclick = root.getElementsByTagName("partner")[i].getElementsByTagName("onclick")[0].firstChild.nodeValue;
-		partner.text = root.getElementsByTagName("partner")[i].getElementsByTagName("text")[0].firstChild.nodeValue;
+		partner.name = elements[i].getElementsByTagName("name")[0].firstChild.nodeValue;
+		partner.picture = elements[i].getElementsByTagName("picture")[0].firstChild.nodeValue;
+		partner.link = elements[i].getElementsByTagName("link")[0].firstChild.nodeValue;
+		partner.onclick = elements[i].getElementsByTagName("onclick")[0].firstChild.nodeValue;
+		partner.text = elements[i].getElementsByTagName("text")[0].firstChild.nodeValue;
 		partners.push(partner);
 	}
 	
@@ -1456,4 +1469,23 @@ function replaceSpecialChars (string) {
 	string = string.replace(/\u00DC/g, 'Ue');
 	string = string.replace(/\u00DF/g, 'ss');
 	return string;
+}
+
+function getDomElements(dom, tagName)
+{
+	var elements = new Array();
+	elements.push.apply(elements, dom.getElementsByTagName(tagName));
+	
+	if (showHidden)
+	{
+		if (showOnlyHidden)
+		{
+			elements = dom.getElementsByTagName(tagName + "_");
+		}
+		else
+		{
+			elements.push.apply(elements, dom.getElementsByTagName(tagName + "_"))
+		}
+	}
+	return elements;
 }

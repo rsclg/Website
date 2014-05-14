@@ -1,15 +1,16 @@
 ﻿<?php
-$mainUrl      = "http://www.rsc-lueneburg.de";
-$mainLogo     = "pics/logo_rsc.png";
-$subUrl       = "http://www.tri-team-lueneburg.de";
-$subLogo      = "pics/logo_ttlg.png";
-$keywords     = "RSC Lüneburg e.V., Lüneburg, Lueneburg, Radsport, Rennrad, MTB, Moutainbike, RSC, Fahrrad, Schwimmen, Radfahren, Laufen, Schwimm-Events, Radfahr-Events, Lauf-Events, Duathlon, Cross Country, MTB-Marathon";
-$description  = "RSC Lüneburg e.V., Radsport - RTF - MTB - Triathlon";
-$favicon      = "pics/rsc/favicon.ico";
-$rssFeedTitle = "Aktuelle News vom RSC Lüneburg e.V.";
-$rssFeedUrl   = "http://www.rsc-lueneburg.de/xml/news.xml";
-$bodyClass    = "rsc";
-$showHidden   = $_GET['showHidden'] == "true" ? true : false;
+$mainUrl        = "http://www.rsc-lueneburg.de";
+$mainLogo       = "pics/logo_rsc.png";
+$subUrl         = "http://www.tri-team-lueneburg.de";
+$subLogo        = "pics/logo_ttlg.png";
+$keywords       = "RSC Lüneburg e.V., Lüneburg, Lueneburg, Radsport, Rennrad, MTB, Moutainbike, RSC, Fahrrad, Schwimmen, Radfahren, Laufen, Schwimm-Events, Radfahr-Events, Lauf-Events, Duathlon, Cross Country, MTB-Marathon";
+$description    = "RSC Lüneburg e.V., Radsport - RTF - MTB - Triathlon";
+$favicon        = "pics/rsc/favicon.ico";
+$rssFeedTitle   = "Aktuelle News vom RSC Lüneburg e.V.";
+$rssFeedUrl     = "http://www.rsc-lueneburg.de/xml/news.xml";
+$bodyClass      = "rsc";
+$showHidden     = $_GET['showHidden'] == "true" ? true : false;
+$showOnlyHidden = $_GET['showOnlyHidden'] == "true" ? true : false;
 
 if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 	// Tri Team mode
@@ -107,6 +108,8 @@ if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 <script type="text/javascript">
 		var baseUrl = "http://<?php echo $_SERVER['SERVER_NAME'];?>/";
 		var isRscPage = <?php echo (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) ? 'false' : 'true';?>;
+		var showHidden = <?php echo $showHidden ? 'true' : 'false'; ?>;
+		var showOnlyHidden = <?php echo $showOnlyHidden ? 'true' : 'false'; ?>;
 
 		<!-- PageEar function call -->
 		//writeObjects();
