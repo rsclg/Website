@@ -405,10 +405,6 @@ addContentJs();*/
 					<div class="topnaventrysubmenuentry">
 						<a href="?page=43" onclick="javascript:showContent(43,null); return false;">Tools</a>
 					</div>
-					<hr/>
-					<div class="topnaventrysubmenuentry">
-						<a href="?page=15" onclick="javascript:showContent(15,null); return false;">Gästebuch</a>
-					</div>
 				</div>
 			</div>
 			<?php if ($showHidden) : ?>

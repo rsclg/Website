@@ -10,7 +10,7 @@ pages[7] = "donate";
 pages[8] = "sponsors";
 pages[13] = "service";
 pages[14] = "forum";
-pages[15] = "guestbook";
+
 pages[16] = "contact";
 pages[17] = "impressum";
 pages[18] = "disclaimer";
@@ -224,7 +224,6 @@ function showContent(pageId, topic)
 		case 4   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){teamMemberHandler(new TeamMemberXmlResponseParser(), topic)});break;
 		case 8   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){sponsorsHandler(new SponsorsXmlResponseParser(), topic)});break;
 		case 14  : forum(topic);break;
-		case 15  : guestbook();break;
 		case 56  : contactForm();break;
 		case 28  :
 		case 301 :
@@ -260,22 +259,6 @@ function forum(topic)
 	iFrame.setAttribute("src", topic);
 	
 	document.getElementById("content").style.overflowY = "hidden";
-	document.getElementById("content").appendChild(iFrame);
-}
-
-function guestbook()
-{
-	document.getElementById("content").style.overflow = "visible";
-	
-	var iFrame = document.createElement("iframe");
-	iFrame.setAttribute("name", "guestbook");
-	iFrame.setAttribute("marginwidth", "0");
-	iFrame.setAttribute("marginheight", "0");
-	iFrame.setAttribute("frameborder", "0");
-	iFrame.setAttribute("height", "100%");
-	iFrame.setAttribute("width", "100%");
-	iFrame.setAttribute("src", "http://123gb.de/gb.php?user=ttlg");
-	
 	document.getElementById("content").appendChild(iFrame);
 }
 

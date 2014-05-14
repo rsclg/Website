@@ -25,12 +25,4 @@
 		<a href="?page=43" onclick="showContent(43,null); return false;">&raquo; Zu den Tools</a>
 		]]></text>
 	</paragraph>
-	<paragraph>
-		<title>Gästebuch</title>
-		<text><![CDATA[
-		Hier gibt es unser Gästebuch, dass sich auf deinen Eintrag freut.
-		<br/><br/>
-		<a href="?page=15" onclick="showContent(15,null); return false;">&raquo; Zum Gästebuch</a>
-		]]></text>
-	</paragraph>
 </document>
