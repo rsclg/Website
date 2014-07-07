@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+	<headline>Triathlon Landesliga 2014</headline>
+	<paragraph>
+		<title>Info</title>
+		<text><![CDATA[
+		Willkommen auf der Seite zur Landesligateilnahme des Triathlon Team Lüneburg im Jahr 2014.
+		<br/><br/>
+		Teamleitung: Frank Reimann
+		<br/><br/>
+		Weitere Infos zur Liga gibt es auf der Webseite des TVN unter: 
+		<a href="http://www.triathlon-niedersachsen.de/index.php?option=com_content&view=category&layout=blog&id=213&Itemid=62" target="_blank">www.triathlon-niedersachsen.de</a>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Kader</title>
+		<text><![CDATA[
+		<a href="pics/liga/team_lali_2014_large.jpg" rel="lightbox[team_2014]" title="Das Landesliga Team 2014 (v.l.): Nils Beeck, Jonas Hempell, Ralf Plümer, Stefan Burmester, Lasse Garbers, Christoph Luedtke<br/>(Es fehlen: Carsten Wittkop, Dieter Zielinski, Hendrik Garbers, Jonathan Pargätzi, Lars Hannöver, Martin Dausend, Olaf Bartz, Ole Hein, Thorleiv Werner)"><img src="pics/liga/team_lali_2014_small.jpg" class="right" title="Zum Vergrößern auf das Bild klicken"/></a>
+		<ul style="float: left;">
+			<li><a href="pics/team/members/carsten.wittkop.jpg" rel="lightbox[team_2014]" title="Carsten Wittkop" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Carsten Wittkop</a></li>
+			<li><a href="pics/team/members/christoph.luedtke.jpg" rel="lightbox[team_2014]" title="Christoph Luedtke" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Christoph Luedtke</a></li>
+			<li><a href="pics/team/members/dieter.zielinski.jpg" rel="lightbox[team_2014]" title="Dieter Zielinski" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Dieter Zielinski</a></li>
+			<li><a href="pics/team/members/hendrik.garbers.jpg" rel="lightbox[team_2014]" title="Hendrik Garbers" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Hendrik Garbers</a></li>
+			<li><a href="pics/team/members/jonas.hempell.jpg" rel="lightbox[team_2014]" title="Jonas Hempell" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Jonas Hempell</a></li>
+			<li><a href="pics/team/members/jonathan.pargaetzi.jpg" rel="lightbox[team_2014]" title="Jonathan Pargätzi" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Jonathan Pargätzi</a></li>
+			<li><a href="pics/team/members/lars.hannoever.jpg" rel="lightbox[team_2014]" title="Lars Hannöver" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Lars Hannöver</a></li>
+			<li><a href="pics/team/members/lasse.garbers.jpg" rel="lightbox[team_2014]" title="Lasse Garbers" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Lasse Garbers</a></li>
+			<li><a href="pics/team/members/martin.dausend.jpg" rel="lightbox[team_2014]" title="Martin Dausend" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Martin Dausend</a></li>
+			<li><a href="pics/team/members/nils.beeck.jpg" rel="lightbox[team_2014]" title="Nils Beeck" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Nils Beeck</a></li>
+			<li><a href="pics/team/members/olaf.bartz.jpg" rel="lightbox[team_2014]" title="Olaf Bartz" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Olaf Bartz</a></li>
+			<li><a href="pics/team/members/ole.heyn.jpg" rel="lightbox[team_2014]" title="Ole Heyn" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Ole Heyn</a></li>
+			<li><a href="pics/team/members/ralf.pluemer.jpg" rel="lightbox[team_2014]" title="Ralf Plümer" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Ralf Plümer</a></li>
+			<li><a href="pics/team/members/stefan.burmester.jpg" rel="lightbox[team_2014]" title="Stefan Burmester" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Stefan Burmester</a></li>
+			<li><a href="pics/team/members/thorleiv.werner.jpg" rel="lightbox[team_2014]" title="Thorleiv Werner" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Thorleiv Werner</a></li>
+		</ul>
+		<div style="float: left; margin-left: 20px; margin-top: 15px; text-align: center; vertical-align: center;">
+			<img id="member_lali_2014" src="pics/team/members/clear.png" style="float: left; max-width: 200px; max-height: 200px;"/>
+		</div>
+		<div style="clear: both;"></div>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Termine</title>
+		<text><![CDATA[
+		<ul>
+			<li class="striked"><b>27.04.2014</b> : Weyhe - Duathlon</li>
+			<li class="striked"><b>31.05.2014</b> : Hannover - SD</li>
+			<li class="striked"><b>15.06.2014</b> : Peine - OD</li>
+			<li class=""><b>26.07.2014</b> : Bokeloh - SD</li>
+			<li class=""><b>09.08.2014</b> : Wilhelmshaven - SD</li>
+			<li class=""><b>30.08.2014</b> : Nordhorn - SD</li>
+		</ul>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>Ergebnisse</title>
+		<text><![CDATA[
+		<div class="modalDialog" style="width: 370px; height: auto;" id="ligaTable_lali2014">
+			<div class="modalDialogHead">Aktuelle Tabelle<a href="javascript:closeModalDialog('ligaTable_lali2014');">X</a></div>
+			<div class="modalDialogBody" style="font-size: 12px;">
+				<div style="text-align: right; font-size: 9px;">Stand 16.07.2014 nach 3 von 6 Rennen</div>
+				<div style="text-align: left; padding-left: 10px;">
+					<ol>
+						<li>LC Nordhorn (337)</li>
+						<li>TuS Blau Weiß Lohne Triathlon (425)</li>
+						<li>Hannover 96 III (447)</li>
+						<li>ESV Eintracht Hameln II (569)</li>
+						<li>SG LindWuRM (628)</li>
+						<li>TV 01 Bohmte (637)</li>
+						<li>SV Germania Helmstedt II (740)</li>
+						<li>Uni Triathlöwen Bremen (740)</li>
+						<li>TRI TEAM UMMEL (822)</li>
+						<li>TSV Anderten (822)</li>
+						<li>SV Aegir 09 Hannover (984)</li>
+						<li>Eintracht Hildesheim (1026)</li>
+						<li>TriAs Hildesheim II (1071)</li>
+						<li>Triathlon Team Buxtehude II (1094)</li>
+						<li>VfL Wolfsburg II (1105)</li>
+						<li>Triathlon Club Bremen (1158)</li>
+						<li>Lehrter SV Triathlon II (1218)</li>
+						<li>Tri Speedys Peine (1272)</li>
+						<li>1. TCO Die Bären (1313)</li>
+						<li>Tri Team Osnabrück (1340)</li>
+						<li>Hannover 96 IV (1495)</li>
+						<li>TSV Victoria Linden (1528)</li>
+						<li><div style="background-color: #c10000; color: #ffffff; margin-left: -30px; padding-left: 30px; width: 100%;">Tri Team Lüneburg (1651)</div></li>
+						<li>Hannover 96 V (1737)</li>
+						<li>KEB Tri-Team Schwarme Mixed (1882)</li>
+						<li>TSR Olympia Wilhelmshaven (1945)</li>
+						<li>TSV Bokeloh II (1956)</li>
+						<li>SG TRI Wolfenbüttel (2126)</li>
+						<li>SG FSH-SCL (2171)</li>
+						<li>LC Hansa Stuhr Tri-Wölfe II (2241)</li>
+						<li>Triathlon Heidekreis (2439)</li>
+						<li>TuS Blau Weiß Lohne Triathlon II (2630)</li>
+					</ol>
+				</div>
+				<button style="font-size: 0.8em;" onclick="closeModalDialog('ligaTable_lali2014');">Fenster schließen</button>
+			</div>
+		</div>
+		
+		<div style="float: right;">
+			<a href="javascript:openModalDialog('ligaTable_lali2014')">Tabelle</a>
+		</div>
+		
+		folgen in Kürze
+		<!--
+		<i><b>Triathlon Bokeloh (25.05.2014)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,7 km - 21,2 km - 5,2 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Dieter Zielinski</td>
+					<td>01:08:57 h</td>
+					<td>21./289</td>
+				</tr>
+				<tr>
+					<td class="member">Cliff Parnitzky</td>
+					<td>01:12:29 h</td>
+					<td>64./289</td>
+				</tr>
+				<tr>
+					<td class="member">Martin Beuss</td>
+					<td>01:14:02 h</td>
+					<td>92./289</td>
+				</tr>
+				<tr>
+					<td class="member">Ralf Plümer</td>
+					<td>01:14:28 h</td>
+					<td>96./289</td>
+				</tr>
+				<tr>
+					<td class="member">Stefan Burmester</td>
+					<td>01:14:54 h</td>
+					<td>105./289</td>
+				</tr>
+				<tr>
+					<td class="member">Ole Heyn</td>
+					<td>01:17:36 h</td>
+					<td>147./289</td>
+				</tr>
+				<tr>
+					<td class="member">Christoph Luedtke</td>
+					<td>01:19:13 h</td>
+					<td>169./289</td>
+				</tr>
+				<tr>
+					<td class="member">Carsten Wittkop</td>
+					<td>01:19:23 h</td>
+					<td>172./289</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<i><b>Triathlon Hannover (01.06.2014)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,75 km - 19 km - 4,6 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Dieter Zielinski</td>
+					<td>01:04:06 h</td>
+					<td>33./259</td>
+				</tr>
+				<tr>
+					<td class="member">Ronny von Bresinski</td>
+					<td>01:05:23 h</td>
+					<td>50./259</td>
+				</tr>
+				<tr>
+					<td class="member">Michael Nottebohm</td>
+					<td>01:05:52 h</td>
+					<td>60./259</td>
+				</tr>
+				<tr>
+					<td class="member">Martin Beuss</td>
+					<td>01:08:32 h</td>
+					<td>106./259</td>
+				</tr>
+				<tr>
+					<td class="member">Ole Heyn</td>
+					<td>01:10:36 h</td>
+					<td>138./259</td>
+				</tr>
+				<tr>
+					<td class="member">Daniel Siedka</td>
+					<td>01:17:28 h</td>
+					<td>214./259</td>
+				</tr>
+				<tr>
+					<td class="member">Peer Kobbel</td>
+					<td>01:27:28 h</td>
+					<td>251./259</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<i><b>Triathlon Peine (16.06.2014)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Dieter Zielinski</td>
+					<td>02:14:09 h</td>
+					<td>30./245</td>
+				</tr>
+				<tr>
+					<td class="member">Ronny von Bresinski</td>
+					<td>02:16:21 h</td>
+					<td>38./245</td>
+				</tr>
+				<tr>
+					<td class="member">Ralf Plümer</td>
+					<td>02:22:49 h</td>
+					<td>88./245</td>
+				</tr>
+				<tr>
+					<td class="member">Falk von Rechenberg</td>
+					<td>02:23:20 h</td>
+					<td>96./245</td>
+				</tr>
+				<tr>
+					<td class="member">Dirk Meyer</td>
+					<td>02:25:21 h</td>
+					<td>116./245</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<i><b>Triathlon Wilhelmshaven (10.08.2014)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,75 km - 20 km - 5 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Dieter Zielinski</td>
+					<td>01:09:49 h</td>
+					<td>54./241</td>
+				</tr>
+				<tr>
+					<td class="member">Ralf Plümer</td>
+					<td>01:10:29 h</td>
+					<td>58./241</td>
+				</tr>
+				<tr>
+					<td class="member">Carsten Wittkop</td>
+					<td>01:12:59 h</td>
+					<td>99./241</td>
+				</tr>
+				<tr>
+					<td class="member">Stefan Burmester</td>
+					<td>01:13:02 h</td>
+					<td>100./241</td>
+				</tr>
+				<tr>
+					<td class="member">Martin Beuss</td>
+					<td>01:13:30 h</td>
+					<td>107./241</td>
+				</tr>
+				<tr>
+					<td class="member">Peer Kobbel</td>
+					<td>01:25:35 h</td>
+					<td>217./241</td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<i><b>Triathlon Nordhorn (31.08.2014)</b></i>
+		<br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,75 km - 20 km - 5 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td class="member">Ralf Plümer</td>
+					<td>01:11:19 h</td>
+					<td>98./231</td>
+				</tr>
+				<tr>
+					<td class="member">Carsten Wittkop</td>
+					<td>01:12:15 h</td>
+					<td>109./231</td>
+				</tr>
+				<tr>
+					<td class="member">Cliff Parnitzky</td>
+					<td>01:13:08 h</td>
+					<td>122./231</td>
+				</tr>
+				<tr>
+					<td class="member">Martin Beuss</td>
+					<td>01:13:29 h</td>
+					<td>126./231</td>
+				</tr>
+				<tr>
+					<td class="member">Christoph Luedtke</td>
+					<td>01:15:50 h</td>
+					<td>153./231</td>
+				</tr>
+			</tbody>
+		</table>
+		-->
+		]]></text>
+	</paragraph>
+	<paragraph_>
+		<title>Bilder</title>
+		<text><![CDATA[
+		<i><b>Triathlon Bokeloh (25.05.2014)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-01_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-02_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-03_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-04_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-05_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-06_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-07_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-07_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-08_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-08_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-09_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-09_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-10_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-10_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-11_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-11_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-12_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-12_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-13_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-13_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-14_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-14_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-15_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-15_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-16_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-16_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-17_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-17_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-18_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-18_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-19_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-19_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-20_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-20_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-21_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-21_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-22_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-22_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-23_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-23_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-24_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-24_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-25_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-25_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-26_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-26_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-27_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-27_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_05_25-Triathlon-Bokeloh-28_large.jpg" rel="lightbox[Triathlon Bokeloh (25.05.2014)]" title="Triathlon Bokeloh (25.05.2014)"><img src="pics/liga/2014_05_25-Triathlon-Bokeloh-28_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Hannover (01.06.2014)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-01_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-02_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-03_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-04_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-05_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-06_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-07_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-07_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-08_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-08_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-09_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-09_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-10_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-10_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_01-Triathlon-Hannover-11_large.jpg" rel="lightbox[Triathlon Hannover (01.06.2014)]" title="Triathlon Hannover (01.06.2014)"><img src="pics/liga/2014_06_01-Triathlon-Hannover-11_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Peine (16.06.2014)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-01_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-02_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-03_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-04_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-05_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-06_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-07_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-07_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-08_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-08_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-09_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-09_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-10_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-10_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-11_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-11_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-12_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-12_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-13_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-13_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-14_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-14_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-15_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-15_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-16_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-16_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-17_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-17_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-18_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-18_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-19_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-19_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-20_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-20_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-21_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-21_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-22_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-22_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-23_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-23_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-24_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-24_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-25_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-25_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-26_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-26_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-27_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-27_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-28_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-28_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-29_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-29_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-30_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-30_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-31_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-31_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-32_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-32_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-33_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-33_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-34_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-34_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_06_16-Triathlon-Peine-35_large.jpg" rel="lightbox[Triathlon Peine (16.06.2014)]" title="Triathlon Peine (16.06.2014)"><img src="pics/liga/2014_06_16-Triathlon-Peine-35_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Wilhelmshaven (10.08.2014)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2014_08_10-Triathlon-Wilhelmshaven-01_large.jpg" rel="lightbox[Triathlon Wilhelmshaven (10.08.2014)]" title="Triathlon Wilhelmshaven (10.08.2014)"><img src="pics/liga/2014_08_10-Triathlon-Wilhelmshaven-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_10-Triathlon-Wilhelmshaven-02_large.jpg" rel="lightbox[Triathlon Wilhelmshaven (10.08.2014)]" title="Triathlon Wilhelmshaven (10.08.2014)"><img src="pics/liga/2014_08_10-Triathlon-Wilhelmshaven-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_10-Triathlon-Wilhelmshaven-03_large.jpg" rel="lightbox[Triathlon Wilhelmshaven (10.08.2014)]" title="Triathlon Wilhelmshaven (10.08.2014)"><img src="pics/liga/2014_08_10-Triathlon-Wilhelmshaven-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_10-Triathlon-Wilhelmshaven-04_large.jpg" rel="lightbox[Triathlon Wilhelmshaven (10.08.2014)]" title="Triathlon Wilhelmshaven (10.08.2014)"><img src="pics/liga/2014_08_10-Triathlon-Wilhelmshaven-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_10-Triathlon-Wilhelmshaven-05_large.jpg" rel="lightbox[Triathlon Wilhelmshaven (10.08.2014)]" title="Triathlon Wilhelmshaven (10.08.2014)"><img src="pics/liga/2014_08_10-Triathlon-Wilhelmshaven-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		<br/><br/>
+		<i><b>Triathlon Nordhorn (31.08.2014)</b></i>
+		<br/>
+		<div style="overflow-y: hidden; overflow-x: scroll; border: 1px solid #c10000;">
+			<table><tr>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-01_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-01_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-02_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-02_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-03_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-03_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-04_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-04_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-05_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-05_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-06_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-06_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-07_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-07_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-08_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-08_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-09_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-09_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-10_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-10_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-11_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-11_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-12_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-12_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-13_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-13_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+				<td><a href="pics/liga/2014_08_31-Triathlon-Nordhorn-14_large.jpg" rel="lightbox[Triathlon Nordhorn (31.08.2014)]" title="Triathlon Nordhorn (31.08.2014)"><img src="pics/liga/2014_08_31-Triathlon-Nordhorn-14_small.jpg" class="left" title="Zum Vergrößern auf das Bild klicken"/></a></td>
+			</tr></table>
+		</div>
+		]]></text>
+	</paragraph_>
+	<paragraph_>
+		<title>Presse</title>
+		<text><![CDATA[
+		<i><b>Luenesport.de</b></i>
+		<ul>
+			<li>18.04.2014 : <a href="http://pressarchive.rsc-lueneburg.de/2014_04_18-LUENESPORT-Triathlon Team Lueneburg ueberzeugt mit einem etwas anderen Formtest in Thomasburg.pdf" target="_blank">Triathlon Team Lüneburg überzeugt mit einem etwas anderen Formtest in Thomasburg [PDF]</a></li>
+			<li>30.05.2014 : <a href="http://pressarchive.rsc-lueneburg.de/2014_05_30-LZ-2. Liga mit 2 Verstaerkungen.pdf" target="_blank">2. Liga mit zwei Verstärkungen [PDF]</a></li>
+			<li>31.05.2014 : <a href="http://pressarchive.rsc-lueneburg.de/2014_05_31-LUENESPORT-Guter Landesligastart fuer Lueneburger Triathleten in Bokeloh.pdf" target="_blank">Guter Landesligastart für Lüneburger Triathleten in Bokeloh [PDF]</a></li>
+			<li>20.06.2014 : <a href="http://pressarchive.rsc-lueneburg.de/2014_06_20_LZ_Geschlossen_gute_Leistung.pdf" target="_blank">Geschlossen gute Leistung [PDF]</a></li>
+			<li>07.09.2014 : <a href="http://pressarchive.rsc-lueneburg.de/2014_09_07-LZ-Saisonverlauf_unbefriedigend.pdf" target="_blank">Saisonverlauf unbefriedigend [PDF]</a></li>
+		</ul>
+		]]></text>
+	</paragraph_>
+</document>

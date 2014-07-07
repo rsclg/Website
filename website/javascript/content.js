@@ -50,6 +50,7 @@ pages[53] = "liga_reli_2013";
 pages[60] = "liga_lali";
 pages[62] = "liga_lali_2012";
 pages[63] = "liga_lali_2013";
+pages[64] = "liga_lali_2014";
 
 pages[70] = "donate_youth";
 pages[71] = "donate_training";

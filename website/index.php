@@ -251,10 +251,12 @@ addContentJs();*/
 					<div class="topnaventrysubmenuentry hassubsubmenu">
 						<a href="?page=50" onclick="javascript:showContent(50,null); return false;">Triathlon Regionalliga</a>
 						<div class="subsubmenu">
+						<?php if ($showHidden) : ?>
 							<div class="subsubmenuentry">
 								<a href="?page=500" onclick="javascript:showContent(500,null); return false;">Aktuelle Tabelle</a>
 							</div>
 							<hr/>
+						<?php endif; ?>
 							<div class="subsubmenuentry">
 								<a href="?page=53" onclick="javascript:showContent(53,null); return false;">Regionalliga 2013</a>
 							</div>
@@ -273,6 +275,9 @@ addContentJs();*/
 								<a href="?page=600" onclick="javascript:showContent(600,null); return false;">Aktuelle Tabelle</a>
 							</div>
 							<hr/>
+							<div class="subsubmenuentry">
+								<a href="?page=64" onclick="javascript:showContent(64,null); return false;">Landesliga 2014</a>
+							</div>
 							<div class="subsubmenuentry">
 								<a href="?page=63" onclick="javascript:showContent(63,null); return false;">Landesliga 2013</a>
 							</div>

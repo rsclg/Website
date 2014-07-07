@@ -30,6 +30,36 @@
 		]]></text>
 	</paragraph>
 	<paragraph>
+		<title>Landesliga 2014</title>
+		<text><![CDATA[
+		Mit folgendem Team wird 2014 in der Landesliga Niedersachsen gestartet:
+		<br/>
+		<a href="pics/liga/team_lali_2014_large.jpg" rel="lightbox[team_2014]" title="Das Landesliga Team 2014 (v.l.): Nils Beeck, Jonas Hempell, Ralf Plümer, Stefan Burmester, Lasse Garbers, Christoph Luedtke<br/>(Es fehlen: Carsten Wittkop, Dieter Zielinski, Hendrik Garbers, Jonathan Pargätzi, Lars Hannöver, Martin Dausend, Olaf Bartz, Ole Hein, Thorleiv Werner)"><img src="pics/liga/team_lali_2014_small.jpg" class="right" title="Zum Vergrößern auf das Bild klicken"/></a>
+		<ul style="float: left;">
+			<li><a href="pics/team/members/carsten.wittkop.jpg" rel="lightbox[team_2014]" title="Carsten Wittkop" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Carsten Wittkop</a></li>
+			<li><a href="pics/team/members/christoph.luedtke.jpg" rel="lightbox[team_2014]" title="Christoph Luedtke" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Christoph Luedtke</a></li>
+			<li><a href="pics/team/members/dieter.zielinski.jpg" rel="lightbox[team_2014]" title="Dieter Zielinski" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Dieter Zielinski</a></li>
+			<li><a href="pics/team/members/hendrik.garbers.jpg" rel="lightbox[team_2014]" title="Hendrik Garbers" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Hendrik Garbers</a></li>
+			<li><a href="pics/team/members/jonas.hempell.jpg" rel="lightbox[team_2014]" title="Jonas Hempell" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Jonas Hempell</a></li>
+			<li><a href="pics/team/members/jonathan.pargaetzi.jpg" rel="lightbox[team_2014]" title="Jonathan Pargätzi" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Jonathan Pargätzi</a></li>
+			<li><a href="pics/team/members/lars.hannoever.jpg" rel="lightbox[team_2014]" title="Lars Hannöver" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Lars Hannöver</a></li>
+			<li><a href="pics/team/members/lasse.garbers.jpg" rel="lightbox[team_2014]" title="Lasse Garbers" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Lasse Garbers</a></li>
+			<li><a href="pics/team/members/martin.dausend.jpg" rel="lightbox[team_2014]" title="Martin Dausend" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Martin Dausend</a></li>
+			<li><a href="pics/team/members/nils.beeck.jpg" rel="lightbox[team_2014]" title="Nils Beeck" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Nils Beeck</a></li>
+			<li><a href="pics/team/members/olaf.bartz.jpg" rel="lightbox[team_2014]" title="Olaf Bartz" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Olaf Bartz</a></li>
+			<li><a href="pics/team/members/ole.heyn.jpg" rel="lightbox[team_2014]" title="Ole Heyn" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Ole Heyn</a></li>
+			<li><a href="pics/team/members/ralf.pluemer.jpg" rel="lightbox[team_2014]" title="Ralf Plümer" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Ralf Plümer</a></li>
+			<li><a href="pics/team/members/stefan.burmester.jpg" rel="lightbox[team_2014]" title="Stefan Burmester" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Stefan Burmester</a></li>
+			<li><a href="pics/team/members/thorleiv.werner.jpg" rel="lightbox[team_2014]" title="Thorleiv Werner" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Thorleiv Werner</a></li>
+		</ul>
+		<div style="float: left; margin-left: 20px; margin-top: 15px; text-align: center; vertical-align: center;">
+			<img id="member_lali_2014" src="pics/team/members/clear.png" style="float: left; max-width: 200px; max-height: 200px;"/>
+		</div>
+		<div style="clear: both;"></div>
+		<a href="?page=64" onclick="showContent(64,null); return false;">Mehr zur Landesligateilnahme 2014</a>
+		]]></text>
+	</paragraph>
+	<paragraph>
 		<title>Landesliga 2013</title>
 		<text><![CDATA[
 		Mit folgendem Team wird 2013 in der Landesliga Niedersachsen gestartet:
