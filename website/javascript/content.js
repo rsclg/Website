@@ -36,8 +36,6 @@ pages[39] = "reports_duathlon";
 pages[40] = "reports_triathlon";
 pages[41] = "competitions";
 pages[43] = "service_tools";
-pages[44] = "results_generator";
-pages[45] = "reports_form";
 pages[55] = "training_youth";
 pages[56] = "contact_form";
 pages[57] = "teams";
@@ -233,8 +231,6 @@ function showContent(pageId, topic)
 		case 304 :
 		case 305 :
 		case 306 : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic)});break;
-		case 44  : results();break;
-		case 45  : reports();break;
 		case 70  : donateYouth();break;
 		case 71  : donateTraining();break;
 		default  : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){standardTextblockHandler(new StandardTextblockXmlResponseParser(), topic)});
@@ -275,38 +271,6 @@ function contactForm()
 	iFrame.setAttribute("height", "100%");
 	iFrame.setAttribute("width", "100%");
 	iFrame.setAttribute("src", "http://cms.rsc-lueneburg.de/website_kontakt.html");
-	
-	document.getElementById("content").appendChild(iFrame);
-}
-
-function results()
-{
-	document.getElementById("content").style.overflow = "visible";
-	
-	var iFrame = document.createElement("iframe");
-	iFrame.setAttribute("name", "results");
-	iFrame.setAttribute("marginwidth", "5");
-	iFrame.setAttribute("marginheight", "5");
-	iFrame.setAttribute("frameborder", "0");
-	iFrame.setAttribute("height", "100%");
-	iFrame.setAttribute("width", "100%");
-	iFrame.setAttribute("src", "http://results.rsc-lueneburg.de");
-	
-	document.getElementById("content").appendChild(iFrame);
-}
-
-function reports()
-{
-	document.getElementById("content").style.overflow = "visible";
-	
-	var iFrame = document.createElement("iframe");
-	iFrame.setAttribute("name", "reports");
-	iFrame.setAttribute("marginwidth", "5");
-	iFrame.setAttribute("marginheight", "5");
-	iFrame.setAttribute("frameborder", "0");
-	iFrame.setAttribute("height", "100%");
-	iFrame.setAttribute("width", "100%");
-	iFrame.setAttribute("src", "http://reports.rsc-lueneburg.de");
 	
 	document.getElementById("content").appendChild(iFrame);
 }

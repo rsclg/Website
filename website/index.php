@@ -359,7 +359,7 @@ addContentJs();*/
 							</div>
 							<hr/>
 							<div class="subsubmenuentry">
-								<a href="?page=44" onclick="javascript:showContent(44,null); return false;">Ergebnisse melden</a>
+								<a href="http://results.rsc-lueneburg.de" target="_blank">Ergebnisse melden</a>
 							</div>
 						</div>
 					</div>
@@ -383,7 +383,7 @@ addContentJs();*/
 							</div>
 							<hr/>
 							<div class="subsubmenuentry">
-								<a href="?page=45" onclick="javascript:showContent(45,null); return false;">Berichte senden</a>
+								<a href="http://reports.rsc-lueneburg.de" target="_blank">Berichte senden</a>
 							</div>
 						</div>
 					</div>
