@@ -59,41 +59,41 @@
 		<div class="modalDialog" style="width: 370px; height: auto;" id="ligaTable_lali2014">
 			<div class="modalDialogHead">Aktuelle Tabelle<a href="javascript:closeModalDialog('ligaTable_lali2014');">X</a></div>
 			<div class="modalDialogBody" style="font-size: 12px;">
-				<div style="text-align: right; font-size: 9px;">Stand 16.07.2014 nach 3 von 6 Rennen</div>
+				<div style="text-align: right; font-size: 9px;">Stand 28.07.2014 nach 4 von 6 Rennen</div>
 				<div style="text-align: left; padding-left: 10px;">
 					<ol>
-						<li>LC Nordhorn (337)</li>
-						<li>TuS Blau Weiß Lohne Triathlon (425)</li>
-						<li>Hannover 96 III (447)</li>
-						<li>ESV Eintracht Hameln II (569)</li>
-						<li>SG LindWuRM (628)</li>
-						<li>TV 01 Bohmte (637)</li>
-						<li>SV Germania Helmstedt II (740)</li>
-						<li>Uni Triathlöwen Bremen (740)</li>
-						<li>TRI TEAM UMMEL (822)</li>
-						<li>TSV Anderten (822)</li>
-						<li>SV Aegir 09 Hannover (984)</li>
-						<li>Eintracht Hildesheim (1026)</li>
-						<li>TriAs Hildesheim II (1071)</li>
-						<li>Triathlon Team Buxtehude II (1094)</li>
-						<li>VfL Wolfsburg II (1105)</li>
-						<li>Triathlon Club Bremen (1158)</li>
-						<li>Lehrter SV Triathlon II (1218)</li>
-						<li>Tri Speedys Peine (1272)</li>
-						<li>1. TCO Die Bären (1313)</li>
-						<li>Tri Team Osnabrück (1340)</li>
-						<li>Hannover 96 IV (1495)</li>
-						<li>TSV Victoria Linden (1528)</li>
-						<li><div style="background-color: #c10000; color: #ffffff; margin-left: -30px; padding-left: 30px; width: 100%;">Tri Team Lüneburg (1651)</div></li>
-						<li>Hannover 96 V (1737)</li>
-						<li>KEB Tri-Team Schwarme Mixed (1882)</li>
-						<li>TSR Olympia Wilhelmshaven (1945)</li>
-						<li>TSV Bokeloh II (1956)</li>
-						<li>SG TRI Wolfenbüttel (2126)</li>
-						<li>SG FSH-SCL (2171)</li>
-						<li>LC Hansa Stuhr Tri-Wölfe II (2241)</li>
-						<li>Triathlon Heidekreis (2439)</li>
-						<li>TuS Blau Weiß Lohne Triathlon II (2630)</li>
+						<li>LC Nordhorn (525)</li>
+						<li>Hannover 96 III (623)</li>
+						<li>TuS Blau Weiß Lohne Triathlon (661)</li>
+						<li>SG LindWuRM (779)</li>
+						<li>TV 01 Bohmte (821)</li>
+						<li>ESV Eintracht Hameln II (908)</li>
+						<li>Uni Triathlöwen Bremen (921)</li>
+						<li>TSV Anderten (953)</li>
+						<li>SV Germania Helmstedt II (1095)</li>
+						<li>TRI TEAM UMMEL (1179)</li>
+						<li>VfL Wolfsburg II (1357)</li>
+						<li>SV Aegir 09 Hannover (1366)</li>
+						<li>Lehrter SV Triathlon II (1523)</li>
+						<li>TriAs Hildesheim II (1567)</li>
+						<li>Triathlon Team Buxtehude II (1646)</li>
+						<li>Tri Speedys Peine (1646)</li>
+						<li>Triathlon Club Bremen (1690)</li>
+						<li>Eintracht Hildesheim (1740)</li>
+						<li>1. TCO Die Bären (1903)</li>
+						<li><div style="background-color: #c10000; color: #ffffff; margin-left: -30px; padding-left: 30px; width: 100%;">Tri Team Lüneburg (1980)</div></li>
+						<li>Hannover 96 IV (1985)</li>
+						<li>Tri Team Osnabrück (2042)</li>
+						<li>TSV Bokeloh II (2290)</li>
+						<li>TSV Victoria Linden (2405)</li>
+						<li>KEB Tri-Team Schwarme Mixed (2441)</li>
+						<li>Hannover 96 V (2677)</li>
+						<li>SG FSH-SCL (2683)</li>
+						<li>SG TRI Wolfenbüttel (2691)</li>
+						<li>TSR Olympia Wilhelmshaven (2830)</li>
+						<li>Triathlon Heidekreis (3081)</li>
+						<li>LC Hansa Stuhr Tri-Wölfe II (3181)</li>
+						<li>TuS Blau Weiß Lohne Triathlon II (3263)</li>
 					</ol>
 				</div>
 				<button style="font-size: 0.8em;" onclick="closeModalDialog('ligaTable_lali2014');">Fenster schließen</button>
