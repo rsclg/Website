@@ -605,47 +605,79 @@
 		<title><![CDATA[
 		Dieter gewinnt beim Wintervolkslauf in Amelinghausen
 		]]></title>
-		<link>?page=38+topic=24.02.2013 : Wintervolkslauf Amelinghausen</link>
-		<onclick>showContent(38,'24.02.2013 : Wintervolkslauf Amelinghausen')</onclick>
+		<link>?page=142+topic=24.02.2013 : Wintervolkslauf Amelinghausen</link>
+		<onclick>showContent(142,'24.02.2013 : Wintervolkslauf Amelinghausen')</onclick>
 	</picture>
 	<picture>
 		<path>pics/inaction/2013_03_03-Internationaler_Ganghoferlauf.jpg</path>
 		<title><![CDATA[
 		Dirk berichtet von seinem Ski-Langlauf Wettbewerb in Leutasch-Tirol
 		]]></title>
-		<link>?page=38+topic=03.03.2013 : Internationaler Ganghoferlauf</link>
-		<onclick>showContent(38,'03.03.2013 : Internationaler Ganghoferlauf')</onclick>
+		<link>?page=142+topic=03.03.2013 : Internationaler Ganghoferlauf</link>
+		<onclick>showContent(142,'03.03.2013 : Internationaler Ganghoferlauf')</onclick>
 	</picture>
 	<picture>
 		<path>pics/inaction/2013_04_21-Hamburg_Marathon.jpg</path>
 		<title><![CDATA[
 		Alexander läuft beim Hamburg Marathon eine neuen persönliche Bestzeit
 		]]></title>
-		<link>?page=38+topic=21.04.2013 : Hamburg Marathon</link>
-		<onclick>showContent(38,'21.04.2013 : Hamburg Marathon')</onclick>
+		<link>?page=142+topic=21.04.2013 : Hamburg Marathon</link>
+		<onclick>showContent(142,'21.04.2013 : Hamburg Marathon')</onclick>
 	</picture>
 	<picture>
 		<path>pics/inaction/2013_05_26-Kiez-Kinder-Triathlon.jpg</path>
 		<title><![CDATA[
 		Matz wird 3. beim Kiez-Kinder-Triathlon
 		]]></title>
-		<link>?page=40+topic=26.05.2013 : Kiez-Kinder-Triathlon</link>
-		<onclick>showContent(40,'26.05.2013 : Kiez-Kinder-Triathlon')</onclick>
+		<link>?page=144+topic=26.05.2013 : Kiez-Kinder-Triathlon</link>
+		<onclick>showContent(144,'26.05.2013 : Kiez-Kinder-Triathlon')</onclick>
 	</picture>
 	<picture>
 		<path>pics/inaction/2013_06_02-Vierlanden_Triathlon.jpg</path>
 		<title><![CDATA[
 		Frank schrammt beim Vierlanden Triathlon nur knapp am Sieg vorbei
 		]]></title>
-		<link>?page=40+topic=02.06.2013 : Vierlanden Triathlon</link>
-		<onclick>showContent(40,'02.06.2013 : Vierlanden Triathlon')</onclick>
+		<link>?page=144+topic=02.06.2013 : Vierlanden Triathlon</link>
+		<onclick>showContent(144,'02.06.2013 : Vierlanden Triathlon')</onclick>
 	</picture>
 	<picture>
 		<path>pics/inaction/2013_06_23-Seepark-Triathlon_Bad_Bodenteich.jpg</path>
 		<title><![CDATA[
 		Frank gewinnt beim Seepark-Triathlon Bad Bodenteich
 		]]></title>
-		<link>?page=40+topic=23.06.2013 : Seepark-Triathlon Bad Bodenteich</link>
-		<onclick>showContent(40,'23.06.2013 : Seepark-Triathlon Bad Bodenteich')</onclick>
+		<link>?page=144+topic=23.06.2013 : Seepark-Triathlon Bad Bodenteich</link>
+		<onclick>showContent(144,'23.06.2013 : Seepark-Triathlon Bad Bodenteich')</onclick>
+	</picture>
+	<picture>
+		<path>pics/inaction/2013_06_29-Sjaelland_Rundt_pa_Cykel.jpg</path>
+		<title><![CDATA[
+		Birger berichtet über seine Teilnahme an Sjaelland Rundt pa Cykel
+		]]></title>
+		<link>?page=37+topic=29.06.2013 : Sjaelland Rundt pa Cykel</link>
+		<onclick>showContent(37,'29.06.2013 : Sjaelland Rundt pa Cykel')</onclick>
+	</picture>
+	<picture>
+		<path>pics/inaction/2014_04_13-Wilhelmsburger_Insellauf.jpg</path>
+		<title><![CDATA[
+		Dieter berichtet vom Wilhelmsburger Insellauf
+		]]></title>
+		<link>?page=38+topic=13.04.2014 : Wilhelmsburger Insellauf</link>
+		<onclick>showContent(38,'13.04.2014 : Wilhelmsburger Insellauf')</onclick>
+	</picture>
+	<picture>
+		<path>pics/inaction/2014_06_28-Wilhelmshavener_Leuchtturmschwimmen.jpg</path>
+		<title><![CDATA[
+		Gesine berichtet vom Wilhelmshavener Leuchtturmschwimmen
+		]]></title>
+		<link>?page=36+topic=28.06.2014 : Wilhelmshavener Leuchtturmschwimmen</link>
+		<onclick>showContent(36,'28.06.2014 : Wilhelmshavener Leuchtturmschwimmen')</onclick>
+	</picture>
+	<picture>
+		<path>pics/inaction/2014_07_27-WakenitzMan.jpg</path>
+		<title><![CDATA[
+		Gesine berichtet vom WakenitzMan (14 km Freiwasserschwimmen)
+		]]></title>
+		<link>?page=36+topic=27.07.2014 : WakenitzMan</link>
+		<onclick>showContent(36,'27.07.2014 : WakenitzMan')</onclick>
 	</picture>
 </pictures>
