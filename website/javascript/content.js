@@ -650,11 +650,29 @@ function inActionHandler (parser)
 				xml = req.responseXML;
 				parser.load(req);
 				
-				var counter = 12;
-				if (parseInt(document.getElementById("topNews").style.height) == 270)
+				var counter = 20;
+				var topNewsHeight = parseInt(document.getElementById("topNews").style.height);
+				if (topNewsHeight < 170)
+				{
+					counter = 10;
+				}
+				else if (topNewsHeight < 230)
+				{
+					counter = 12;
+				}
+				else if (topNewsHeight < 270)
 				{
 					counter = 14;
 				}
+				else if (topNewsHeight < 310)
+				{
+					counter = 16;
+				}
+				else if (topNewsHeight < 420)
+				{
+					counter = 18;
+				}
+				
 				var numbers = new Array(counter);
 				var maxValue = parser.pictures.length-1;
 				
