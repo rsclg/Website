@@ -34,7 +34,7 @@
 		<text><![CDATA[
 		Mit folgendem Team wird 2014 in der Landesliga Niedersachsen gestartet:
 		<br/>
-		<a href="pics/liga/team_lali_2014_large.jpg" rel="lightbox[team_2014]" title="Das Landesliga Team 2014 (v.l.): Nils Beeck, Jonas Hempell, Ralf Plümer, Stefan Burmester, Lasse Garbers, Christoph Luedtke<br/>(Es fehlen: Carsten Wittkop, Dieter Zielinski, Hendrik Garbers, Jonathan Pargätzi, Lars Hannöver, Martin Dausend, Olaf Bartz, Ole Hein, Thorleiv Werner)"><img src="pics/liga/team_lali_2014_small.jpg" class="right" title="Zum Vergrößern auf das Bild klicken"/></a>
+		<a href="pics/liga/team_lali_2014_large.jpg" rel="lightbox[team_2014]" title="Das Landesliga Team 2014 (v.l.): Nils Beeck, Jonas Hempell, Ralf Plümer, Stefan Burmester, Lasse Garbers, Christoph Luedtke<br/>(Es fehlen: Carsten Wittkop, Hendrik Garbers, Jonathan Pargätzi, Lars Hannöver, Martin Dausend, Olaf Bartz, Ole Hein, Thorleiv Werner)"><img src="pics/liga/team_lali_2014_small.jpg" class="right" title="Zum Vergrößern auf das Bild klicken"/></a>
 		<ul style="float: left;">
 			<li><a href="pics/team/members/carsten.wittkop.jpg" rel="lightbox[team_2014]" title="Carsten Wittkop" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Carsten Wittkop</a></li>
 			<li><a href="pics/team/members/christoph.luedtke.jpg" rel="lightbox[team_2014]" title="Christoph Luedtke" onmouseover="document.getElementById('member_lali_2014').src=this.href" onmouseout="document.getElementById('member_lali_2014').src='pics/team/members/clear.png'" >Christoph Luedtke</a></li>
