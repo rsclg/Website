@@ -131,7 +131,7 @@
 			]]></description>
 			<pubDate>18.05.2014</pubDate>
 		</item_>
-		<item>
+		<item_>
 			<title>4. Bibermann Triathlon</title>
 			<link>http://www.rsc-lueneburg.de?page=28+topic=07.09.2014</link>
 			<description><![CDATA[
@@ -140,6 +140,6 @@
 				Alle Infos gibt es unter: <a href="http://www.bibermann-triathlon.de" target="_blank">www.bibermann-triathlon.de</a>
 			]]></description>
 			<pubDate>07.09.2014</pubDate>
-		</item>
+		</item_>
 	</channel>
 </rss>
