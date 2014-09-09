@@ -4,7 +4,7 @@
 	
 	<!-- Schwimmen SOMMER -->
 	
-	<paragraph>
+	<paragraph_>
 		<title>Schwimmen - Mo - 17:45 Uhr</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -54,11 +54,11 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph>
+	</paragraph_>
 	
 	<!-- Schwimmen WINTER -->
 	
-	<paragraph_>
+	<paragraph>
 		<title>Schwimmen - Mo - 17:00 Uhr (Anfänger)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -107,8 +107,8 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph_>
-	<paragraph_>
+	</paragraph>
+	<paragraph>
 		<title>Schwimmen - Do - 19:00 Uhr (Fortgeschrittene)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -157,7 +157,7 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph_>
+	</paragraph>
 	
 	<!-- Laufen SOMMER -->
 	
