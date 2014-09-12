@@ -18,7 +18,7 @@
 	
 	<!-- SOMMER -->
 	
-	<paragraph>
+	<paragraph_>
 		<title>Schwimmen - Mo - 18:45 Uhr (LK 3)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -74,8 +74,8 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph>
-	<paragraph>
+	</paragraph_>
+	<paragraph_>
 		<title>Schwimmen - Do - 18:00 Uhr (LK 2)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -131,8 +131,8 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph>
-	<paragraph>
+	</paragraph_>
+	<paragraph_>
 		<title>Schwimmen - Do - 19:00 Uhr (LK 1 / LK 2 / LK 3)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -188,7 +188,7 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph>
+	</paragraph_>
 	<paragraph_>
 		<title>Schwimmen - Fr - 18:30 Uhr (LK 1 / LK 2 / LK 3)</title>
 		<text><![CDATA[
@@ -251,7 +251,7 @@
 	
 	<!-- WINTER -->
 	
-	<paragraph_>
+	<paragraph>
 		<title>Schwimmen - Mi - 20:45 Uhr (LK 1 / LK 2 / LK 3)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -299,8 +299,8 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph_>
-	<paragraph_>
+	</paragraph>
+	<paragraph>
 		<title>Schwimmen - Do - 20:00 Uhr (LK 2 / LK 3)</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -347,7 +347,7 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph_>
+	</paragraph>
 	<paragraph>
 		<title>Probetraining</title>
 		<text><![CDATA[
