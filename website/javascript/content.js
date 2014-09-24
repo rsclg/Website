@@ -268,11 +268,24 @@ function contactForm()
 	iFrame.setAttribute("marginwidth", "0");
 	iFrame.setAttribute("marginheight", "0");
 	iFrame.setAttribute("frameborder", "0");
-	iFrame.setAttribute("height", "100%");
+	iFrame.setAttribute("height", "95%");
 	iFrame.setAttribute("width", "100%");
 	iFrame.setAttribute("src", "http://cms.rsc-lueneburg.de/website_kontakt.html");
 	
 	document.getElementById("content").appendChild(iFrame);
+	
+	var externLink = document.createElement("a");
+	externLink.setAttribute("href", "http://cms.rsc-lueneburg.de/website_kontakt.html");
+	externLink.setAttribute("target", "_blank");
+	externLink.appendChild(document.createTextNode("Kontaktformular (extern)"));
+	
+	var hint = document.createElement("div");
+	hint.className="teaser";
+	hint.appendChild(document.createTextNode("Falls das Kontaktformular nicht richtig funktioniert dann bitte "));
+	hint.appendChild(externLink);
+	hint.appendChild(document.createTextNode(" nutzen."));
+
+	document.getElementById("content").appendChild(hint);
 }
 
 function donateYouth()

@@ -448,6 +448,9 @@ addContentJs();*/
 					<div class="topnaventrysubmenuentry">
 						<a href="?page=56" onclick="javascript:showContent(56,null); return false;">Kontaktformular</a>
 					</div>
+					<div class="topnaventrysubmenuentry">
+						<a href="http://cms.rsc-lueneburg.de/website_kontakt.html" target="_blank">Kontaktformular (extern)</a>
+					</div>
 				</div>
 			</div>
 		</div>

@@ -26,4 +26,10 @@
 		Zur Kontaktaufnahme bitte das <a href="?page=56" onclick="showContent(56,null); return false;">Kontaktformular</a> nutzen.
 		]]></text>
 	</paragraph>
+	<paragraph>
+		<title>Kontaktformular (extern)</title>
+		<text><![CDATA[
+		Falls das Kontaktformular nicht richtig funktioniert dann bitte <a href="http://cms.rsc-lueneburg.de/website_kontakt.html" target="_blank">Kontaktformular (extern)</a> nutzen.
+		]]></text>
+	</paragraph>
 </document>
