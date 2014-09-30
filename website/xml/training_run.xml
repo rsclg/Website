@@ -4,7 +4,7 @@
 	
 	<!-- SOMMER -->
 	
-	<paragraph>
+	<paragraph_>
 		<title>Laufen - Di - 18:30 Uhr</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -30,6 +30,49 @@
 		<i><b>Trainingsinhalt</b></i>
 		<br/><br/>
 		Lauf-ABC, Übungen zur Laufkraft, Tempotraining, kleine Spiele, Übungen aus dem Rumpf-Stabi-Programm
+		<br/><br/>
+		Änderungen und weitere Informationen gibt es im Forum unter <a href="http://www.razyboard.com/system/forum-ttlg-training-laufen-2085899.html" onclick="showContent(14,'http://www.razyboard.com/system/forum-ttlg-training-laufen-2085899.html'); return false;">Training: Laufen</a>.
+		<br/><br/>
+		<i><b>Ausrüstung</b></i>
+		<ul>
+			<li>witterungsangepasste Sportbekleidung</li>
+		</ul>
+		<i><b>Probetraining</b></i>
+		<br/><br/>
+		<a href="#Probetraining">&raquo; Bitte unbedingt den Hinweis zum Probetraining beachten!!!</a>
+		<br/><br/>
+		<i><b>Haftungsausschluss</b></i>
+		<br/><br/>
+		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
+		]]></text>
+	</paragraph_>
+	
+	<paragraph>
+		<title>Laufen - Di - 17:30 Uhr</title>
+		<text><![CDATA[
+		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
+			<iframe style="border: 2px solid #c10000;" width="300" height="400" border="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4775.431542555477!2d10.410975423281085!3d53.240871180611954!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b1ddd280b165b1%3A0x9287f68092ef972e!2sWilschenbrucher+Weg+57%2C+21335+L%C3%BCneburg!5e0!3m2!1sde!2sde!4v1412084015865" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+			<div style="width: 100%; text-align: center; font-size: 0.7em;"><a href="https://goo.gl/maps/NzLsI" target="_blank">Trainingsort in neuem Fenster anzeigen</a></div>
+		</div>
+		<i><b>Wann</b></i>
+		<br/><br/>
+		dienstags, 17:30 Uhr (Trainingsbeginn !!!)
+		<br/><br/>
+		<i><b>Wo</b></i>
+		<br/><br/>
+		<a href="https://goo.gl/maps/NzLsI" target="_blank">Wilschenbrucher Weg 57</a>
+		<br/><br/>
+		<i><b>Dauer</b></i>
+		<br/><br/>
+		ca. 1 Stunde
+		<br/><br/>
+		<i><b>Trainer</b></i>
+		<br/><br/>
+		<a href="http://www.tri-team-lueneburg.de/pics/team/trainers/hendrik.garbers.jpg" rel="lightbox" title="Hendrik Garbers">Hendrik Garbers</a>
+		<br/><br/>
+		<i><b>Trainingsinhalt</b></i>
+		<br/><br/>
+		Laufen im Wald
 		<br/><br/>
 		Änderungen und weitere Informationen gibt es im Forum unter <a href="http://www.razyboard.com/system/forum-ttlg-training-laufen-2085899.html" onclick="showContent(14,'http://www.razyboard.com/system/forum-ttlg-training-laufen-2085899.html'); return false;">Training: Laufen</a>.
 		<br/><br/>
