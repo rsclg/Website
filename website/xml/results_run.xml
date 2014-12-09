@@ -2,6 +2,44 @@
 <document>
 	<headline>Ergebnisse &amp;raquo; Lauf-Events</headline>
 	<paragraph>
+		<title>03.10.2014 : Köhlbrandbrückenlauf Hamburg</title>
+		<text><![CDATA[
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">12 km</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Frauen</a></td>
+				</tr>
+				<tr>
+					<td class="member">Christiane Frey</td>
+					<td>01:10:28 h</td>
+					<td>324./1225</td>
+					<td>50./186</td>
+				</tr>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Männer</a></td>
+				</tr>
+				<tr>
+					<td class="member">Birger Schröder-Eschbach</td>
+					<td>01:05:55 h</td>
+					<td>1107./2250</td>
+					<td>113./287</td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
 		<title>02.06.2014 : Deichlauf Hohnstorf</title>
 		<text><![CDATA[
 		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">

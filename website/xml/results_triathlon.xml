@@ -2,6 +2,111 @@
 <document>
 	<headline>Ergebnisse &amp;raquo; Triathlon</headline>
 	<paragraph>
+		<title>31.08.2014 : Berlin Man</title>
+		<text><![CDATA[
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">Mitteldistanz (2,2-90-20)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Frauen</a></td>
+				</tr>
+				<tr>
+					<td class="member">Stefanie Tegeler</td>
+					<td>05:24:29 h</td>
+					<td>16./66</td>
+					<td>1./7 <img src="pics/results/medal_gold.png" title="1. Altersklassenplatz"/></td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>24.08.2014 : Celler Triathlon</title>
+		<text><![CDATA[
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">0,6km- 27km-7km</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Frauen</a></td>
+				</tr>
+				<tr>
+					<td class="member">Ingrid Strodel</td>
+					<td>01:46:59 h</td>
+					<td>42./90</td>
+					<td>6./14</td>
+				</tr>
+				<tr>
+					<td class="member">Christiane Frey</td>
+					<td>01:49:48 h</td>
+					<td>50./90</td>
+					<td>9./14</td>
+				</tr>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Männer</a></td>
+				</tr>
+				<tr>
+					<td class="member">Stefan Burmester</td>
+					<td>01:28:13 h</td>
+					<td>35./243</td>
+					<td>8./64</td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>10.08.2014 : Kiel Triathlon</title>
+		<text><![CDATA[
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz Gesamt (M/W)</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Männer</a></td>
+				</tr>
+				<tr>
+					<td class="member">Ole Heidelk</td>
+					<td>02:19:20 h</td>
+					<td>15./198</td>
+				</tr>
+				<tr>
+					<td class="member">Matthias Huch</td>
+					<td>02:37:03 h</td>
+					<td>72./198</td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
 		<title>10.08.2014 : IM 70.3 Wiesbaden</title>
 		<text><![CDATA[
 		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
@@ -158,6 +263,41 @@
 					<td class="member">Thorleiv Werner</td>
 					<td>01:24:57 h</td>
 					<td>202./374</td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>20.07.2014 : Challenge Roth</title>
+		<text><![CDATA[
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">LD (3,8 km - 180 km - 42,2 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Männer</a></td>
+				</tr>
+				<tr>
+					<td class="member">Andreas Krohn</td>
+					<td>10:57:27 h</td>
+					<td>562./2226</td>
+					<td>118./384</td>
+				</tr>
+				<tr>
+					<td class="member">Alexander Temmen</td>
+					<td>13:00:21 h</td>
+					<td>1795./2226</td>
+					<td>407./482</td>
 				</tr>
 			</tbody>
 		</table>
@@ -514,6 +654,139 @@
 					<td>02:43:22 h</td>
 					<td>26./39</td>
 					<td>5./6</td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>22.06.2014 : Seepark-Triathlon Bad Bodenteich</title>
+		<text><![CDATA[
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">Sprint (0,6-30-5)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Frauen</a></td>
+				</tr>
+				<tr>
+					<td class="member">Lena Eileen Schlag</td>
+					<td>01:32:13 h</td>
+					<td>4./58</td>
+					<td>1./12 <img src="pics/results/medal_gold.png" title="1. Altersklassenplatz"/></td>
+				</tr>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Männer</a></td>
+				</tr>
+				<tr>
+					<td class="member">Martin Dausend</td>
+					<td>01:22:05 h</td>
+					<td>5./127</td>
+					<td>3./9 <img src="pics/results/medal_bronze.png" title="3. Altersklassenplatz"/></td>
+				</tr>
+				<tr>
+					<td class="member">Stefan Burmester</td>
+					<td>01:28:39 h</td>
+					<td>16./127</td>
+					<td>3./29 <img src="pics/results/medal_bronze.png" title="3. Altersklassenplatz"/></td>
+				</tr>
+				<tr>
+					<td class="member">Marcus-Andree Schoene</td>
+					<td>01:40:40 h</td>
+					<td>59./127</td>
+					<td>12./29</td>
+				</tr>
+				<tr>
+					<td class="member">Jürgen Archut</td>
+					<td>01:47:26 h</td>
+					<td>93./127</td>
+					<td>2./5 <img src="pics/results/medal_silver.png" title="2. Altersklassenplatz"/></td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">Bodenteicher Distanz (1,5-60-10)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Frauen</a></td>
+				</tr>
+				<tr>
+					<td class="member">Stefanie Tegeler</td>
+					<td>03:20:06 h</td>
+					<td>4./35</td>
+					<td>1./4 <img src="pics/results/medal_gold.png" title="1. Altersklassenplatz"/></td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">Mitteldistanz (2-90-21)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Frauen</a></td>
+				</tr>
+				<tr>
+					<td class="member">Beeke Kriech</td>
+					<td>05:22:55 h</td>
+					<td>8./32</td>
+					<td>2./2 <img src="pics/results/medal_silver.png" title="2. Altersklassenplatz"/></td>
+				</tr>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Männer</a></td>
+				</tr>
+				<tr>
+					<td class="member">Frank Reimann</td>
+					<td>04:13:16 h</td>
+					<td>2./170 <img src="pics/results/trophy_silver.png" title="2. Gesamtplatz"/></td>
+					<td>1./24 <img src="pics/results/medal_gold.png" title="1. Altersklassenplatz"/></td>
+				</tr>
+				<tr>
+					<td class="member">Jonathan Pargätzi</td>
+					<td>04:18:52 h</td>
+					<td>4./170</td>
+					<td>1./14 <img src="pics/results/medal_gold.png" title="1. Altersklassenplatz"/></td>
+				</tr>
+				<tr>
+					<td class="member">Gabriel Schaefer</td>
+					<td>05:05:27 h</td>
+					<td>68./170</td>
+					<td>16./43</td>
+				</tr>
+				<tr>
+					<td class="member">Thomas Pöthe</td>
+					<td>05:16:34 h</td>
+					<td>95./170</td>
+					<td>28./43</td>
 				</tr>
 			</tbody>
 		</table>
