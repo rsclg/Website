@@ -168,6 +168,46 @@
 				</tr>
 			</tbody>
 		</table>
+		<br/><br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">LD Staffel (3,8 km - 180 km - 42,2 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz Gesamt (M/W)</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Mixed</a></td>
+				</tr>
+				<tr>
+					<td class="member"><i>Stefanie Tegeler</i><br/><i>Björn-Olde Backhaus</i><br/><i>Maike Möhring</i></td>
+					<td>10:52:01 h</td>
+					<td colspan="2">49./114</td>
+				</tr>
+				<tr>
+					<td class="member"><i>Hanna Otto</i><br/><i>Woeste</i><br/><i>Dargel</i></td>
+					<td>10:56:51 h</td>
+					<td colspan="2">53./114</td>
+				</tr>
+				<tr>
+					<td class="member"><i>Oliver Lukas</i><br/><i>Oliver Lukas</i><br/><i>Sandra Stolt</i></td>
+					<td>12:18:30 h</td>
+					<td colspan="2">101./114</td>
+				</tr>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Männer</a></td>
+				</tr>
+					<td class="member"><i>Ralf Stolt</i><br/><i>Detlef Barber</i><br/><i>Thorleiv Werner</i></td>
+					<td>11:12:42 h</td>
+					<td colspan="2">100./156</td>
+				</tr>
+			</tbody>
+		</table>
 		]]></text>
 	</paragraph>
 	<paragraph>
