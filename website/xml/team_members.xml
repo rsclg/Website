@@ -4,14 +4,11 @@
 	<member name="Alexander Frost" id="alexander.frost" />
 	<member name="Alexander Kottisch" id="alexander.kottisch" />
 	<member name="Alexander Temmen" id="alexander.temmen" />
-	<member name="Andreas Binder" id="andreas.binder" />
 	<member name="Andreas Buschmann" id="andreas.buschmann" />
 	<member name="Andreas Krohn" id="andreas.krohn" />
-	<member name="Andreas Petsch" id="andreas.petsch" />
 	<member name="Antonia Koch" id="antonia.koch" />
 	<member name="Arne Rievel" id="arne.rievel" />
 	<member name="Arne Schmidt" id="arne.schmidt" />
-	<member name="Axel Montkowski" id="axel.montkowski" />
 	<member name="Bärbel Rievel" id="baerbel.rievel" />
 	<member name="Beeke Kriech" id="beeke.kriech" />
 	<member name="Benjamin Pfeiffer" id="benjamin.pfeiffer" />
@@ -23,7 +20,6 @@
 	<member name="Björn-Olde Backhaus" id="bjoern-olde.backhaus" />
 	<member name="Burkhard Brust" id="burkhard.brust" />
 	<member name="Carola Gaedtke" id="carola.gaedtke" />
-	<member name="Carsten Fraszczak" id="carsten.fraszczak" />
 	<member name="Carsten Meyer" id="carsten.meyer" />
 	<member name="Carsten Wittkop" id="carsten.wittkop" />
 	<member name="Christian Fischer" id="christian.fischer" />
@@ -37,7 +33,6 @@
 	<member name="David Pyrrek" id="david.pyrrek" />
 	<member name="Detlef Barber" id="detlef.barber" />
 	<member name="Detlef Trochemowitz" id="detlef.trochemowitz" />
-	<member name="Dieter Zielinski" id="dieter.zielinski" />
 	<member name="Dirk Bruns" id="dirk.bruns" />
 	<member name="Dirk Fehrentz" id="dirk.fehrentz" />
 	<member name="Dirk Meyer" id="dirk.meyer" />
@@ -51,21 +46,16 @@
 	<member name="Ferdinand Janaschek" id="ferdinand.janaschek" />
 	<member name="Frank Meyer" id="frank.meyer" />
 	<member name="Frank Reimann" id="frank.reimann" />
-	<member name="Gabriel Kolb" id="gabriel.kolb" />
 	<member name="Gabriel Schaefer" id="gabriel.schaefer" />
 	<member name="Gerald Janik" id="gerald.janik" />
 	<member name="Gesine Lickfett" id="gesine.lickfett" />
 	<member name="Hanna Otto" id="hanna.otto" />
 	<member name="Hannah Luedtke" id="hannah.luedtke" />
-	<member name="Hans Petersen" id="hans.petersen" />
 	<member name="Hendrik Garbers" id="hendrik.garbers" />
 	<member name="Henrik Bardowicks" id="henrik.bardowicks" />
-	<member name="Hilke Westedt" id="hilke.westedt" />
 	<member name="Hinrich Bonin" id="hinrich.bonin" />
 	<member name="Ilka Judernatz" id="ilka.judernatz" />
 	<member name="Ingrid Strodel" id="ingrid.strodel" />
-	<member name="Jannis Roll" id="jannis.roll" />
-	<member name="Jaqueline Bungert" id="jaqueline.bungert" />
 	<member name="Jenny Frenzel" id="jenny.frenzel" />
 	<member name="Joachim Bodendieck" id="joachim.bodendieck" />
 	<member name="Johannes Aechter" id="johannes.aechter" />
@@ -77,20 +67,17 @@
 	<member name="Julian Radzinski" id="julian.radzinski" />
 	<member name="Jürgen Archut" id="juergen.archut" />
 	<member name="Kai Uwe Schlichting" id="kai.uwe.schlichting" />
-	<member name="Karsten Busse" id="karsten.busse" />
 	<member name="Kay Lübke" id="kay.luebke" />
 	<member name="Katja Böttge" id="katja.boettge" />
 	<member name="Katja Werschkull" id="katja.werschkull" />
 	<member name="Klaus-Dieter Stein" id="klaus-dieter.stein" />
 	<member name="Kord Bätge" id="kord.baetge" />
 	<member name="Lars Hannöver" id="lars.hannoever" />
-	<member name="Lars Jampe" id="lars.jampe" />
 	<member name="Lasse Garbers" id="lasse.garbers" />
 	<member name="Lena Eileen Schlag" id="lena.eileen.schlag" />
 	<member name="Leonhard Eberle" id="leonhard.eberle" />
 	<member name="Leonie Lange" id="leonie.lange" />
 	<member name="Lia Knifka" id="lia.knifka" />
-	<member name="Lina Petsch" id="lina.petsch" />
 	<member name="Lukas Henze" id="lukas.henze" />
 	<member name="Lukas Kloodt" id="lukas.kloodt" />
 	<member name="Maike Möhring" id="maike.moehring" />
@@ -109,9 +96,7 @@
 	<member name="Michael Hempell" id="michael.hempell" />
 	<member name="Michael Lege" id="michael.lege" />
 	<member name="Michael Nottebohm" id="michael.nottebohm" />
-	<member name="Michael Tiemann" id="michael.tiemann" />
 	<member name="Miriam Frey" id="miriam.frey" />
-	<member name="Moritz Henseleit" id="moritz.henseleit" />
 	<member name="Moritz Pöthe" id="moritz.poethe" />
 	<member name="Nancy Olschewski" id="nancy.olschewski" />
 	<member name="Niklas Worthmann" id="niklas.worthmann" />
@@ -120,7 +105,6 @@
 	<member name="Olaf Bartz" id="olaf.bartz" />
 	<member name="Olaf Kurbach" id="olaf.kurbach" />
 	<member name="Ole Heidelk" id="ole.heidelk" />
-	<member name="Ole Heyn" id="ole.heyn" />
 	<member name="Oliver Lukas" id="oliver.lukas" />
 	<member name="Patrick Meid" id="patrick.meid" />
 	<member name="Paul Lauer" id="paul.lauer" />
@@ -155,7 +139,6 @@
 	<member name="Till Hellmund" id="till.hellmund" />
 	<member name="Tim Gutmann" id="tim.gutmann" />
 	<member name="Tjark Schoonbergen" id="tjark.schoonbergen" />
-	<member name="Tobias Friedrich" id="tobias.friedrich" />
 	<member name="Tom Seack" id="tom.seack" />
 	<member name="Torsten Wärmer" id="torsten.waermer" />
 	<member name="Ulf Will" id="ulf.will" />
