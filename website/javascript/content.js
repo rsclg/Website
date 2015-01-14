@@ -270,12 +270,12 @@ function contactForm()
 	iFrame.setAttribute("frameborder", "0");
 	iFrame.setAttribute("height", "95%");
 	iFrame.setAttribute("width", "100%");
-	iFrame.setAttribute("src", "http://cms.rsc-lueneburg.de/website_kontakt.html");
+	iFrame.setAttribute("src", "http://external.rsc-lueneburg.de/contact.html");
 	
 	document.getElementById("content").appendChild(iFrame);
 	
 	var externLink = document.createElement("a");
-	externLink.setAttribute("href", "http://cms.rsc-lueneburg.de/website_kontakt.html");
+	externLink.setAttribute("href", "http://external.rsc-lueneburg.de/contact.html");
 	externLink.setAttribute("target", "_blank");
 	externLink.appendChild(document.createTextNode("Kontaktformular (extern)"));
 	
