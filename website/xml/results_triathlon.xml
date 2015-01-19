@@ -31,6 +31,78 @@
 		]]></text>
 	</paragraph>
 	<paragraph>
+		<title>30.08.2014 : Grafschafter Triathlon Nordhorn</title>
+		<text><![CDATA[
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,75 km - 20 km - 5 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Frauen</a></td>
+				</tr>
+				<tr>
+					<td class="member">Lena Eileen Schlag</td>
+					<td>01:17:21 h</td>
+					<td>2./29 <img src="pics/results/trophy_silver.png" title="2. Gesamtplatz"/></td>
+					<td>2./6 <img src="pics/results/medal_silver.png" title="2. Altersklassenplatz"/></td>
+				</tr>
+			</tbody>
+		</table>
+		<br/><br/>
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">Landesliga SD (0,75 km - 20 km - 5 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz Gesamt (M/W)</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Männer</a></td>
+				</tr>
+				<tr>
+					<td class="member">Martin Dausend</td>
+					<td>01:08:09 h</td>
+					<td>29./211</td>
+				</tr>
+				<tr>
+					<td class="member">Nils Beeck</td>
+					<td>01:14:09 h</td>
+					<td>127./211</td>
+				</tr>
+				<tr>
+					<td class="member">Lasse Garbers</td>
+					<td>01:14:32 h</td>
+					<td>132./211</td>
+				</tr>
+				<tr>
+					<td class="member">Lars Hannöver</td>
+					<td>01:21:26 h</td>
+					<td>180./211</td>
+				</tr>
+				<tr>
+					<td class="member">Jonas Hempell</td>
+					<td>01:26:30 h</td>
+					<td>200./211</td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
 		<title>24.08.2014 : Celler Triathlon</title>
 		<text><![CDATA[
 		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
@@ -130,6 +202,53 @@
 					<td>05:22:09 h</td>
 					<td>430./2000</td>
 					<td>27./180</td>
+				</tr>
+			</tbody>
+		</table>
+		]]></text>
+	</paragraph>
+	<paragraph>
+		<title>09.08.2014 : Nordseeman Wilhelmshaven</title>
+		<text><![CDATA[
+		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
+			<thead>
+				<tr style="font-size: 1.1em; text-align: center;">
+					<td colspan="5" style="border-bottom: 1px solid #000000;">Landesliga SD (0,75 km - 20 km - 5 km)</td>
+				</tr>
+				<tr>
+					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
+					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
+					<td style="border-bottom: 1px solid #000000;" width="40%">Platz Gesamt (M/W)</td>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td colspan="5" style="font-style: italic;">Männer</a></td>
+				</tr>
+				<tr>
+					<td class="member">Olaf Bartz</td>
+					<td>01:11:31 h</td>
+					<td>49./196</td>
+				</tr>
+				<tr>
+					<td class="member">Ralf Plümer</td>
+					<td>01:12:01 h</td>
+					<td>58./196</td>
+				</tr>
+				<tr>
+					<td class="member">Martin Dausend</td>
+					<td>01:13:21 h</td>
+					<td>76./196</td>
+				</tr>
+				<tr>
+					<td class="member">Nils Beeck</td>
+					<td>01:18:40 h</td>
+					<td>139./196</td>
+				</tr>
+				<tr>
+					<td class="member">Thorleiv Werner</td>
+					<td>01:25:11 h</td>
+					<td>172./196</td>
 				</tr>
 			</tbody>
 		</table>
