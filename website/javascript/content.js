@@ -65,6 +65,7 @@ pages[106] = "results_duathlon_2009";
 pages[109] = "events_2009";
 pages[107] = "events_2010";
 pages[108] = "events_heide_cup";
+pages[110] = "events_triteam_serie";
 
 pages[111] = "results_run_2010";
 pages[112] = "reports_run_2010";

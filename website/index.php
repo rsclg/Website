@@ -327,6 +327,10 @@ addContentJs();*/
 					</div>
 					<hr/>
 					<div class="topnaventrysubmenuentry">
+						<a href="?page=110" onclick="javascript:showContent(110,null); return false;">TriTeam Serie</a>
+					</div>
+					<hr/>
+					<div class="topnaventrysubmenuentry">
 						<a href="?page=107" onclick="javascript:showContent(107,null); return false;">Events 2010</a>
 					</div>
 					<div class="topnaventrysubmenuentry">
@@ -490,7 +494,5 @@ addContentJs();*/
 			<a href="?page=16" onclick="javascript:showContent(16,null); return false;">Kontakt</a>
 		</div>
 	</div>
-	
-
 </body>
 </html>
