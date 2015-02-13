@@ -93,7 +93,7 @@ if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 <!-- script src="pageear/laufladen/pageear.js" type="text/javascript"> </script -->
 
 <script type="text/javascript" src="javascript/blogger-mod.js" language="JavaScript"></script>
-<script type="text/javascript" src="javascript/prototype.js"></script>
+<script type="text/javascript" src="javascript/prototype-1.7.2.js"></script>
 <script type="text/javascript" src="javascript/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="javascript/lightbox.js"></script>
 <script type="text/javascript" src="javascript/tools.js" language="JavaScript"></script>
