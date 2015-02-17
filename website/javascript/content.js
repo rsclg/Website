@@ -23,11 +23,11 @@ pages[25] = "service_download";
 pages[26] = "service_links";
 pages[28] = "dates";
 pages[29] = "results";
-pages[30] = "results_swim";
-pages[31] = "results_bike";
-pages[32] = "results_run";
-pages[33] = "results_duathlon";
-pages[34] = "results_triathlon";
+pages[30] = "http://external.rsc-lueneburg.de/results/2015/swim.html";
+pages[31] = "http://external.rsc-lueneburg.de/results/2015/bike.html";
+pages[32] = "http://external.rsc-lueneburg.de/results/2015/run.html";
+pages[33] = "http://external.rsc-lueneburg.de/results/2015/duathlon.html";
+pages[34] = "http://external.rsc-lueneburg.de/results/2015/triathlon.html";
 pages[35] = "reports";
 pages[36] = "reports_swim";
 pages[37] = "reports_bike";
@@ -94,6 +94,11 @@ pages[143] = "results_triathlon_2013";
 pages[144] = "reports_triathlon_2013";
 pages[145] = "results_bike_2013";
 pages[146] = "results_duathlon_2013";
+
+pages[152] = "results_bike_2014";
+pages[153] = "results_run_2014";
+pages[154] = "results_duathlon_2014";
+pages[155] = "results_triathlon_2014";
 
 pages[201] = "club_tt";
 pages[202] = "club_rtf";
@@ -234,6 +239,11 @@ function showContent(pageId, topic)
 		case 306 : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic)});break;
 		case 70  : donateYouth();break;
 		case 71  : donateTraining();break;
+		case 30  :
+		case 31  :
+		case 32  :
+		case 33  :
+		case 34  : showInFrame(actPageNr);break;
 		default  : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){standardTextblockHandler(new StandardTextblockXmlResponseParser(), topic)});
 	}
 }
@@ -317,6 +327,22 @@ function donateTraining()
 	iFrame.setAttribute("height", "100%");
 	iFrame.setAttribute("width", "100%");
 	iFrame.setAttribute("src", "https://altruja.de/neues-spendenformular-800/spende");
+	
+	document.getElementById("content").appendChild(iFrame);
+}
+
+function showInFrame(actPageNr)
+{
+	document.getElementById("content").style.overflow = "visible";
+	
+	var iFrame = document.createElement("iframe");
+	iFrame.setAttribute("name", "showInFrame");
+	iFrame.setAttribute("marginwidth", "5");
+	iFrame.setAttribute("marginheight", "5");
+	iFrame.setAttribute("frameborder", "0");
+	iFrame.setAttribute("height", "100%");
+	iFrame.setAttribute("width", "100%");
+	iFrame.setAttribute("src", pages[actPageNr]);
 	
 	document.getElementById("content").appendChild(iFrame);
 }
