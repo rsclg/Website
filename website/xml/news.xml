@@ -8,48 +8,11 @@
 		<generator>Manual</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<item>
-			<title>Anmeldung zum 4. Bibermann offiziell geöffnet</title>
-			<link>http://www.rsc-lueneburg.de?page=2+topic=20.05.2014</link>
-			<description>
-				Nun ist es endlich geschafft. Die Anmeldung zum 4. Bibermann ist nun offziell geöffnet.
-				&lt;br/&gt;&lt;br/&gt;
-				Und wir haben eine Überraschung:
-				&lt;br/&gt;&lt;br/&gt;
-				Neu in diesem Jahr ist für die Jüngeren der &lt;a href="http://www.bibermann-triathlon.de/bibermann_jr.html" target="_blank"&gt;Schüler- und Jugendduathlon&lt;/a&gt; und für die ambitionierten Triathleten die &lt;a href="http://www.bibermann-triathlon.de/bibermann_od.html" target="_blank"&gt;Olympische Distanz&lt;/a&gt;.
-				&lt;br/&gt;&lt;br/&gt;
-				Ansonsten bleibt alles wie bisher. Also, schnell anmelden!!!
-				&lt;br/&gt;&lt;br/&gt;
-				Alle Infos unter: &lt;a href="http://www.bibermann-triathlon.de/" target="_blank"&gt;www.bibermann-triathlon.de&lt;/a&gt;
-			</description>
-			<pubDate>20.05.2014</pubDate>
-		</item>
-		<item>
-			<title>5. Lüneburg Heide Cup</title>
-			<link>http://www.rsc-lueneburg.de?page=2+topic=01.04.2014</link>
-			<description>
-				Nach 7 Jahren Pause richtet der RSC Lüneburg e.V. wieder ein MTB XC-Rennen aus.
-				&lt;br/&gt;&lt;br/&gt;
-				Die Website und Ausschreibung zum Lüneburger Heide Cup sind jetzt online und die Anmeldung ist freigeschaltet.
-				&lt;br/&gt;&lt;br/&gt;
-				Details unter: &lt;a href="http://heide-cup.rsc-lueneburg.de" target="_blank"&gt;heide-cup.rsc-lueneburg.de&lt;/a&gt;
-			</description>
-			<pubDate>01.04.2014</pubDate>
-		</item>
-		<item>
-			<title>Happy New Year</title>
-			<link>http://www.rsc-lueneburg.de?page=2+topic=02.01.2014</link>
-			<description>
-				Wir wünschen allen Mitglieder, Sponsoren und Besuchern unserer Webseiten eine schönes, erfolgreiches und vor allem gesundes Jahr 2014.
-				&lt;br/&gt;&lt;br/&gt;
-				Euer RSC Lüneburg e.V. | Triathlon Team Lüneburg
-			</description>
-			<pubDate>02.01.2014</pubDate>
-		</item>
-		<item>
 			<title>Newsarchiv</title>
 			<link>http://www.rsc-lueneburg.de?page=2+topic=01.01.2014</link>
 			<description>
 				&lt;ul&gt;
+					&lt;li&gt;&lt;a href="?page=307" onclick="showContent(307, null); return false;"&gt;2014&lt;/a&gt;&lt;/li&gt;
 					&lt;li&gt;&lt;a href="?page=306" onclick="showContent(306, null); return false;"&gt;2013&lt;/a&gt;&lt;/li&gt;
 					&lt;li&gt;&lt;a href="?page=305" onclick="showContent(305, null); return false;"&gt;2012&lt;/a&gt;&lt;/li&gt;
 					&lt;li&gt;&lt;a href="?page=304" onclick="showContent(304, null); return false;"&gt;2011&lt;/a&gt;&lt;/li&gt;

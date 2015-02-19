@@ -111,6 +111,7 @@ pages[303] = "news_2010";
 pages[304] = "news_2011";
 pages[305] = "news_2012";
 pages[306] = "news_2013";
+pages[307] = "news_2014";
 
 pages[500] = "liga_reli_table";
 pages[600] = "liga_lali_table";
