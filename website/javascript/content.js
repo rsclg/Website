@@ -28,6 +28,7 @@ pages[31] = "http://external.rsc-lueneburg.de/results/2015/bike.html";
 pages[32] = "http://external.rsc-lueneburg.de/results/2015/run.html";
 pages[33] = "http://external.rsc-lueneburg.de/results/2015/duathlon.html";
 pages[34] = "http://external.rsc-lueneburg.de/results/2015/triathlon.html";
+pages[341] = "http://external.rsc-lueneburg.de/results/2015/others.html";
 pages[35] = "reports";
 pages[36] = "reports_swim";
 pages[37] = "reports_bike";
@@ -244,7 +245,8 @@ function showContent(pageId, topic)
 		case 31  :
 		case 32  :
 		case 33  :
-		case 34  : showInFrame(actPageNr);break;
+		case 34  :
+		case 341 : showInFrame(actPageNr);break;
 		default  : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){standardTextblockHandler(new StandardTextblockXmlResponseParser(), topic)});
 	}
 }

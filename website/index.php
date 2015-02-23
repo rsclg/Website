@@ -361,6 +361,9 @@ addContentJs();*/
 							<div class="subsubmenuentry">
 								<a href="?page=34" onclick="javascript:showContent(34,null); return false;">Triathlon</a>
 							</div>
+							<div class="subsubmenuentry">
+								<a href="?page=341" onclick="javascript:showContent(341,null); return false;">Sonstige</a>
+							</div>
 							<hr/>
 							<div class="subsubmenuentry">
 								<a href="http://results.rsc-lueneburg.de" target="_blank">Ergebnisse melden</a>
