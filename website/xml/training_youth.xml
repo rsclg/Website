@@ -208,7 +208,7 @@
 		]]></text>
 	</paragraph_>
 	
-		<paragraph>
+	<paragraph_>
 		<title>Laufen - Di - 17:30 Uhr</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -253,11 +253,11 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph>
+	</paragraph_>
 	
 	<!-- Laufen WINTER -->
 	
-	<paragraph_>
+	<paragraph>
 		<title>Laufen - Di - 18:30 Uhr</title>
 		<text><![CDATA[
 		<div style="float: right; margin-left: 30px; margin-bottom: 20px;">
@@ -278,17 +278,20 @@
 		<br/><br/>
 		<i><b>Trainer</b></i>
 		<br/><br/>
-		<a href="http://www.tri-team-lueneburg.de/pics/team/trainers/hendrik.garbers.jpg" rel="lightbox" title="Hendrik Garbers">Hendrik Garbers</a>
+		<a href="http://www.tri-team-lueneburg.de/pics/team/trainers/hendrik.garbers.jpg" rel="lightbox" title="Hendrik Garbers">Hendrik Garbers</a>, <a href="http://www.tri-team-lueneburg.de/pics/team/trainers/jonathan.pargaetzi.jpg" rel="lightbox" title="Jonathan Pargätzi">Jonathan Pargätzi</a>
 		<br/><br/>
 		<i><b>Ablauf</b></i>
 		<br/><br/>
 		Dieses Training findet als kombinierte Einheit statt. Neben Lauf-ABC, Zirkeltraining und allgemeine Laufübungen werden auch Athletikübungen durchgeführt.
 		<br/><br/>
-		Änderungen und weitere Informationen gibt es im Forum unter <a href="http://www.razyboard.com/system/forum-ttlg-verein-jugend-2269311.html" onclick="showContent(14,'http://www.razyboard.com/system/forum-ttlg-verein-jugend-2269311.html'); return false;">	Verein: Jugend</a>.
+		Das Training ist offen für Jugendliche ab 14 Jahren und alle Erwachsenen.
+		<br/><br/>
+		Änderungen und weitere Informationen gibt es im Forum unter <a href="http://www.razyboard.com/system/forum-ttlg-training-laufen-2085899.html" onclick="showContent(14,'http://www.razyboard.com/system/forum-ttlg-training-laufen-2085899.html'); return false;">Training: Laufen</a>.
 		<br/><br/>
 		<i><b>Ausrüstung</b></i>
 		<ul>
 			<li>Sportbekleidung für die Halle</li>
+			<li>Outdoor-Laufkleidung (um ggf. nach draußen ausweichen zu können)</li>
 		</ul>
 		<i><b>Probetraining</b></i>
 		<br/><br/>
@@ -298,7 +301,7 @@
 		<br/><br/>
 		<a href="#Haftungsausschluss">&raquo; Bitte den Haftungsausschluss beachten!!!</a>
 		]]></text>
-	</paragraph_>
+	</paragraph>
 	
 	<!-- Radfahren SOMMER -->
 	
