@@ -8,21 +8,21 @@
 		]]></text>
 	</paragraph>
 	<paragraph>
-		<title>Schwimm-Events</title>
+		<title>Schwimmen</title>
 		<text><![CDATA[
-		Zu den Ergebnissen von Schwimm-Events geht es hier entlang: <a href="?page=30" onclick="showContent(30,null); return false;">klick</a>.
+		Zu den Ergebnissen von Schwimmen geht es hier entlang: <a href="?page=30" onclick="showContent(30,null); return false;">klick</a>.
 		]]></text>
 	</paragraph>
 	<paragraph>
-		<title>Radfahr-Events</title>
+		<title>Radfahren</title>
 		<text><![CDATA[
-		Zu den Ergebnissen von Radfahr-Events geht es hier entlang: <a href="?page=31" onclick="showContent(31,null); return false;">klick</a>.
+		Zu den Ergebnissen von Radfahren geht es hier entlang: <a href="?page=31" onclick="showContent(31,null); return false;">klick</a>.
 		]]></text>
 	</paragraph>
 	<paragraph>
-		<title>Lauf-Events</title>
+		<title>Laufen</title>
 		<text><![CDATA[
-		Zu den Ergebnissen von Lauf-Events geht es hier entlang: <a href="?page=32" onclick="showContent(32,null); return false;">klick</a>.
+		Zu den Ergebnissen von Laufen geht es hier entlang: <a href="?page=32" onclick="showContent(32,null); return false;">klick</a>.
 		]]></text>
 	</paragraph>
 	<paragraph>

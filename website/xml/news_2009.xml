@@ -46,7 +46,7 @@
 				in ihren Altersklassen.
 				&lt;br/&gt;&lt;br/&gt;
 				Die komplette Ergebnisliste gibt es unter
-				&lt;a href="?page=32+topic=13.09.2009 : Tiergarten-Volkslauf Lüneburg" onclick="showContent(32,'13.09.2009 : Tiergarten-Volkslauf Lüneburg'); return false;"&gt;Wettkämpfe &amp;raquo; Ergebnisse &amp;raquo; Lauf-Events &amp;raquo; 13.09.2009 : Tiergarten-Volkslauf Lüneburg&lt;/a&gt;.
+				&lt;a href="?page=32+topic=13.09.2009 : Tiergarten-Volkslauf Lüneburg" onclick="showContent(32,'13.09.2009 : Tiergarten-Volkslauf Lüneburg'); return false;"&gt;Wettkämpfe &amp;raquo; Ergebnisse &amp;raquo; Laufen &amp;raquo; 13.09.2009 : Tiergarten-Volkslauf Lüneburg&lt;/a&gt;.
 				&lt;br/&gt;&lt;br/&gt;
 				Glückwünsche gehen an alle Athleten.
 			</description>
@@ -245,8 +245,8 @@
 				&lt;br/&gt;&lt;br/&gt;
 				Herzliche Glückwünsche an Peggy zu diesen tollen Ergebnissen.
 				&lt;br/&gt;&lt;br/&gt;
-				Die genauen Ergebnisse gibt es unter &lt;a href="?page=32" onclick="showContent(32,null); return false;"&gt;Wettkämpfe &amp;raquo; Ergebnisse &amp;raquo; Lauf-Events&lt;/a&gt; und die Wettkampfberichte
-				zu allen 3 Veranstaltungen unter &lt;a href="?page=38" onclick="showContent(38,null); return false;"&gt;Wettkämpfe &amp;raquo; Berichte &amp;raquo; Lauf-Events&lt;/a&gt;.
+				Die genauen Ergebnisse gibt es unter &lt;a href="?page=32" onclick="showContent(32,null); return false;"&gt;Wettkämpfe &amp;raquo; Ergebnisse &amp;raquo; Laufen&lt;/a&gt; und die Wettkampfberichte
+				zu allen 3 Veranstaltungen unter &lt;a href="?page=38" onclick="showContent(38,null); return false;"&gt;Wettkämpfe &amp;raquo; Berichte &amp;raquo; Laufen&lt;/a&gt;.
 			</description>
 			<pubDate>10.05.2009</pubDate>
 		</item>

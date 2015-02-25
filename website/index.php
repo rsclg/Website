@@ -347,13 +347,13 @@ addContentJs();*/
 						<a href="?page=29" onclick="javascript:showContent(29,null); return false;">Ergebnisse</a>
 						<div class="subsubmenu">
 							<div class="subsubmenuentry">
-								<a href="?page=30" onclick="javascript:showContent(30,null); return false;">Schwimm-Events</a>
+								<a href="?page=30" onclick="javascript:showContent(30,null); return false;">Schwimmen</a>
 							</div>
 							<div class="subsubmenuentry">
-								<a href="?page=31" onclick="javascript:showContent(31,null); return false;">Radfahr-Events</a>
+								<a href="?page=31" onclick="javascript:showContent(31,null); return false;">Radfahren</a>
 							</div>
 							<div class="subsubmenuentry">
-								<a href="?page=32" onclick="javascript:showContent(32,null); return false;">Lauf-Events</a>
+								<a href="?page=32" onclick="javascript:showContent(32,null); return false;">Laufen</a>
 							</div>
 							<div class="subsubmenuentry">
 								<a href="?page=33" onclick="javascript:showContent(33,null); return false;">Duathlon</a>
@@ -374,13 +374,13 @@ addContentJs();*/
 						<a href="?page=35" onclick="javascript:showContent(35,null); return false;">Berichte</a>
 						<div class="subsubmenu">
 							<div class="subsubmenuentry">
-								<a href="?page=36" onclick="javascript:showContent(36,null); return false;">Schwimm-Events</a>
+								<a href="?page=36" onclick="javascript:showContent(36,null); return false;">Schwimmen</a>
 							</div>
 							<div class="subsubmenuentry">
-								<a href="?page=37" onclick="javascript:showContent(37,null); return false;">Radfahr-Events</a>
+								<a href="?page=37" onclick="javascript:showContent(37,null); return false;">Radfahren</a>
 							</div>
 							<div class="subsubmenuentry">
-								<a href="?page=38" onclick="javascript:showContent(38,null); return false;">Lauf-Events</a>
+								<a href="?page=38" onclick="javascript:showContent(38,null); return false;">Laufen</a>
 							</div>
 							<div class="subsubmenuentry">
 								<a href="?page=39" onclick="javascript:showContent(39,null); return false;">Duathlon</a>
