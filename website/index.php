@@ -6,8 +6,6 @@ $subLogo        = "pics/logo_ttlg.png";
 $keywords       = "RSC Lüneburg e.V., Lüneburg, Lueneburg, Radsport, Rennrad, MTB, Moutainbike, RSC, Fahrrad, Schwimmen, Radfahren, Laufen, Schwimm-Events, Radfahr-Events, Lauf-Events, Duathlon, Cross Country, MTB-Marathon";
 $description    = "RSC Lüneburg e.V., Radsport - RTF - MTB - Triathlon";
 $favicon        = "pics/rsc/favicon.ico";
-$rssFeedTitle   = "Aktuelle News vom RSC Lüneburg e.V.";
-$rssFeedUrl     = "http://www.rsc-lueneburg.de/xml/news.xml";
 $bodyClass      = "rsc";
 $showHidden     = $_GET['showHidden'] == "true" ? true : false;
 $showOnlyHidden = $_GET['showOnlyHidden'] == "true" ? true : false;
@@ -21,8 +19,6 @@ if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 	$keywords     = "Triathlon, Lüneburg, Lueneburg, Rennrad, MTB, Moutainbike, RSC, Fahrrad, Schwimmen, Radfahren, Laufen, Schwimm-Events, Radfahr-Events, Lauf-Events, Duathlon";
 	$description  = "Triathlon Team Lüneburg, Schwimmen - Radfahren - Laufen - Duathlon - Triathlon";
 	$favicon      = "pics/ttlg/favicon.ico";
-	$rssFeedTitle = "Aktuelle News vom Triathlon Team Lüneburg";
-	$rssFeedUrl   = "http://www.tri-team-lueneburg.de/xml/news.xml";
 	$bodyClass    = "ttlg";
 }
 ?>
@@ -100,7 +96,8 @@ if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 
 <script type="text/javascript" src="javascript/content.js?<?php echo date('Ymd'); ?>" language="JavaScript"></script>
 
-<link rel="alternate" type="application/rss+xml" title="<?php echo $rssFeedTitle; ?>" href="<?php echo $rssFeedUrl; ?>" />
+<link rel="alternate" type="application/rss+xml" title="Neuigkeiten vom RSC Lüneburg e.V. | Triathlon Team Lüneburg" href="http://www.rsc-lueneburg.de/share/news.xml" />
+<link rel="alternate" type="application/rss+xml" title="Termine vom RSC Lüneburg e.V. | Triathlon Team Lüneburg" href="http://www.rsc-lueneburg.de/xml/dates.xml" />
 
 </head>
 <body onload="initPage();" id="home">

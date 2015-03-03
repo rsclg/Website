@@ -1,7 +1,7 @@
 var pages = new Array();
 pages[0] = "home";
 pages[1] = "club";
-pages[2] = "news";
+pages[2] = "share/news.xml";
 pages[3] = "team";
 pages[4] = "team_members";
 pages[5] = "news_archive";
@@ -227,12 +227,12 @@ function showContent(pageId, topic)
 	switch (actPageNr)
 	{
 		case 0   : doAjaxRequest("xml/" + pages[actPageNr] + specific + ".xml", null, function handleAjax(){homeHandler(new StandardTextblockXmlResponseParser())});break;
-		case 2   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic)});break;
+		case 2   : doAjaxRequest(pages[actPageNr], null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic)});break;
 		case 4   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){teamMemberHandler(new TeamMemberXmlResponseParser(), topic)});break;
 		case 8   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){sponsorsHandler(new SponsorsXmlResponseParser(), topic)});break;
 		case 14  : forum(topic);break;
 		case 56  : contactForm();break;
-		case 28  :
+		case 28  : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "DATES")});break;
 		case 301 :
 		case 302 :
 		case 303 :
@@ -779,7 +779,7 @@ function inActionHandler (parser)
 				
 				document.getElementById("inAction").appendChild(select);
 				
-				doAjaxRequest("xml/news.xml", null, function handleAjax(){topNewsHandler(new NewsDatesXmlResponseParser())});
+				doAjaxRequest("share/news.xml", null, function handleAjax(){topNewsHandler(new NewsDatesXmlResponseParser())});
 			}
 			break;
 		default: return false; break;
@@ -815,7 +815,7 @@ function topNewsHandler (parser)
 				for (var i = 0; i < max; i++)
 				{
 					var link = document.createElement("a");
-					link.setAttribute("href", parser.result.paragraphs[i].link);
+					link.setAttribute("href", baseUrl + "?page=2+topic=" + parser.result.paragraphs[i].pubDate);
 					link.setAttribute("onclick", "showContent(2,\"" + parser.result.paragraphs[i].pubDate + "\"); return false;");
 					link.appendChild(document.createTextNode(parser.result.paragraphs[i].pubDate));
 					
@@ -854,7 +854,7 @@ function topDatesHandler (parser)
 			else
 			{
 				xml = req.responseXML;
-				parser.load(req);
+				parser.load(req, "DATES");
 				
 				var max = 10;
 				
@@ -868,7 +868,7 @@ function topDatesHandler (parser)
 				for (var i = 0; i < max; i++)
 				{
 					var link = document.createElement("a");
-					link.setAttribute("href", parser.result.paragraphs[i].link);
+					link.setAttribute("href", baseUrl + "?page=28+topic=" + parser.result.paragraphs[i].pubDate);
 					link.setAttribute("onclick", "showContent(28,\"" + parser.result.paragraphs[i].pubDate + "\"); return false;");
 					link.appendChild(document.createTextNode(parser.result.paragraphs[i].pubDate));
 					
@@ -893,7 +893,7 @@ function topDatesHandler (parser)
 /**
  * Handler for news
  */
-function newsHandler (parser, topic)
+function newsHandler (parser, topic, source)
 {
 	switch(req.readyState)
 	{
@@ -905,7 +905,7 @@ function newsHandler (parser, topic)
 			else
 			{
 				xml = req.responseXML;
-				parser.load(req);
+				parser.load(req, source);
 				
 				createContentHeader(parser.result.headline);
 				
@@ -1338,15 +1338,15 @@ NewsDatesXmlResponseParser.prototype = Object.extend(new AbstractResponseParser(
     this.type = "xml";
   },
 
-  load: function(request) {
+  load: function(request, source) {
     this.content = request.responseXML;
-    this.parse();
+    this.parse(source);
   },
 
-  parse: function() {
+  parse: function(source) {
 	var root = this.content.documentElement;
 	this.result = new Object();
-	this.result.headline = root.getElementsByTagName("title")[0].firstChild.nodeValue.substring("RSC Lüneburg e.V. | Triathlon Team Lüneburg - ".length, root.getElementsByTagName("title")[0].firstChild.nodeValue.length);
+	this.result.headline = "News";
 	
 	var paragraphs = new Array();
 	var elements = getDomElements(root, "item");
@@ -1355,8 +1355,16 @@ NewsDatesXmlResponseParser.prototype = Object.extend(new AbstractResponseParser(
 	{
 		var paragraph = new Object();
 		paragraph.title = elements[i].getElementsByTagName("title")[0].firstChild.nodeValue;
-		paragraph.pubDate = elements[i].getElementsByTagName("pubDate")[0].firstChild.nodeValue;
-		paragraph.text = elements[i].getElementsByTagName("description")[0].firstChild.nodeValue;
+		if (source == "DATES")
+		{
+			paragraph.pubDate = elements[i].getElementsByTagName("pubDate")[0].firstChild.nodeValue;
+		}
+		else
+		{
+			var pubDate = new Date(Date.parse(elements[i].getElementsByTagName("pubDate")[0].firstChild.nodeValue));
+			paragraph.pubDate = pubDate.toLocaleFormat('%d.%m.%Y');
+		}
+		paragraph.text = elements[i].getElementsByTagName("description")[0].firstChild.nodeValue.replace(/href/g, 'target="_blank" href');
 		paragraph.link = elements[i].getElementsByTagName("link")[0].firstChild.nodeValue;
 		paragraphs.push(paragraph);
 	}

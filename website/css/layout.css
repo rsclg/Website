@@ -692,3 +692,7 @@ li.striked {
 .ligatable tbody td#tri_team_lueneburg {
 	background-image: url("../pics/liga/clubs/tri_team_lueneburg.png");
 }
+
+.float_right {
+    float: right;
+}
