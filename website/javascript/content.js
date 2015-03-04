@@ -227,18 +227,18 @@ function showContent(pageId, topic)
 	switch (actPageNr)
 	{
 		case 0   : doAjaxRequest("xml/" + pages[actPageNr] + specific + ".xml", null, function handleAjax(){homeHandler(new StandardTextblockXmlResponseParser())});break;
-		case 2   : doAjaxRequest(pages[actPageNr], null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic)});break;
+		case 2   : doAjaxRequest(pages[actPageNr], null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "NEWS")});break;
 		case 4   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){teamMemberHandler(new TeamMemberXmlResponseParser(), topic)});break;
 		case 8   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){sponsorsHandler(new SponsorsXmlResponseParser(), topic)});break;
 		case 14  : forum(topic);break;
 		case 56  : contactForm();break;
-		case 28  : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "DATES")});break;
+		case 28  :
 		case 301 :
 		case 302 :
 		case 303 :
 		case 304 :
 		case 305 :
-		case 306 : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic)});break;
+		case 306 : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "DATES")});break;
 		case 70  : donateYouth();break;
 		case 71  : donateTraining();break;
 		case 30  :
@@ -801,7 +801,7 @@ function topNewsHandler (parser)
 			else
 			{
 				xml = req.responseXML;
-				parser.load(req);
+				parser.load(req, "NEWS");
 				
 				var max = 10;
 				
@@ -1329,6 +1329,10 @@ StandardTextblockXmlResponseParser.prototype = Object.extend(new AbstractRespons
   }
 });
 
+Date.prototype.toLocaleFormat = Date.prototype.toLocaleFormat || function(pattern) {
+    return pattern.replace(/%Y/g, this.getFullYear()).replace(/%m/g, (this.getMonth() + 1)).replace(/%d/g, this.getDate());
+};
+
 /**
  * Parser for the xml response.
  */
@@ -1362,6 +1366,7 @@ NewsDatesXmlResponseParser.prototype = Object.extend(new AbstractResponseParser(
 		else
 		{
 			var pubDate = new Date(Date.parse(elements[i].getElementsByTagName("pubDate")[0].firstChild.nodeValue));
+			console.log(pubDate);
 			paragraph.pubDate = pubDate.toLocaleFormat('%d.%m.%Y');
 		}
 		paragraph.text = elements[i].getElementsByTagName("description")[0].firstChild.nodeValue.replace(/href/g, 'target="_blank" href');
