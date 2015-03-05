@@ -268,10 +268,12 @@ addContentJs();*/
 					<div class="topnaventrysubmenuentry hassubsubmenu">
 						<a href="?page=60" onclick="javascript:showContent(60,null); return false;">Triathlon Landesliga</a>
 						<div class="subsubmenu">
+						<?php if ($showHidden) : ?>
 							<div class="subsubmenuentry">
 								<a href="?page=600" onclick="javascript:showContent(600,null); return false;">Aktuelle Tabelle</a>
 							</div>
 							<hr/>
+							<?php endif; ?>
 							<div class="subsubmenuentry">
 								<a href="?page=64" onclick="javascript:showContent(64,null); return false;">Landesliga 2014</a>
 							</div>
