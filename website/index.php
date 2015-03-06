@@ -398,12 +398,7 @@ addContentJs();*/
 			<div class="topnaventryseparator">
 			</div>
 			<div class="topnaventry">
-				<a href="?page=14" onclick="javascript:showContent(14,null); return false;">Forum</a>
-				<div class="topnaventrysubmenu">
-					<div class="topnaventrysubmenuentry">
-						<a href="http://www.razyboard.com/system/user_ttlg.html" target="_blank">Forum (extern)</a>
-					</div>
-				</div>
+				<a href="http://www.razyboard.com/system/user_ttlg.html" target="_blank">Forum</a>
 			</div>
 			<div class="topnaventryseparator">
 			</div>
@@ -453,9 +448,6 @@ addContentJs();*/
 				<div class="topnaventrysubmenu">
 					<div class="topnaventrysubmenuentry">
 						<a href="?page=56" onclick="javascript:showContent(56,null); return false;">Kontaktformular</a>
-					</div>
-					<div class="topnaventrysubmenuentry">
-						<a href="http://external.rsc-lueneburg.de/contact.html" target="_blank">Kontaktformular (extern)</a>
 					</div>
 				</div>
 			</div>

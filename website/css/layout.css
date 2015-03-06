@@ -1,3 +1,7 @@
+html, body#home {
+    min-height: 100%;
+}
+
 body
 {
 	font-family: verdana;
@@ -7,6 +11,14 @@ body
 body#home
 {
 	margin: 0px;
+    background-color:#fff;
+    background:-moz-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+    background:-webkit-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+    background:-o-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+    background:-ms-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+    background:linear-gradient(180deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+    -pie-background:linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+    behavior:url('css/PIE.htc');
 }
 
 *::-moz-selection 
@@ -39,15 +51,13 @@ img
 div#site
 {
 	margin: auto;
-	border: 2px solid #c10000;
 	width: 99%;
 	min-width: 950px;
 }
 
 div#header
 {
-	background-color: #c10000;
-	height: 130px;
+	height: 160px;
 	width: 100%;
 }
 
@@ -56,6 +66,7 @@ div#header table td#left
 	width: 50%;
 	padding-left: 40px;
 	padding-right: 20px;
+	padding-top: 35px;
 }
 
 div#header table td#right
@@ -63,15 +74,16 @@ div#header table td#right
 	width: 50%;
 	padding-right: 40px; /* without pageear*/
 	/*padding-right: 140px; /* with pageear*/
+	padding-top: 35px;
 }
 
 div#topnav
 {
-	background-color: #c1c1c1;
 	height: 25px;
-	width: 100%;
 	text-align: center;
 	padding-top: 3px;
+	float: right;
+	padding-bottom: 15px;
 }
 
 div.topnaventry
@@ -80,6 +92,7 @@ div.topnaventry
 	height: 100%;
 	font-size: 0.9em;
 	color: #555555;
+	margin-right: 5px;
 }
 
 div.topnaventry a
@@ -93,17 +106,18 @@ div.topnaventry a
 	height: 23px;
 }
 
+div.topnaventry > a {
+    border-bottom: 2px solid #c10000;
+    color: #c10000;
+    font-weight: bold;
+}
+
 div.topnaventryseparator
 {
 	float: left;
 	border-right: 1px solid #555555;
 	height: 100%;
-}
-
-div.topnaventry:hover
-{
-	background-color: #ebebeb;
-	color: #555555;
+	display: none;
 }
 
 div.topnaventrysubmenu
@@ -154,30 +168,16 @@ div.topnaventrysubmenuentry:hover a
     float: right;
 }
 
-div#content
-{
-	min-height: 400px;
-	width: 100%;
-	overflow-y: scroll;
-	overflow-x: hidden;
-	background-repeat:no-repeat;
-	background-attachment:fixed;
-	background-position: center center;
-}
-
-div.ttlg
-{
-	background-image:url(../pics/watermark_ttlg.png);
-}
-
-div.rsc
-{
-	background-image:url(../pics/watermark_rsc.png);
+div#content {
+    clear: both;
+    height: auto !important;
+    overflow: hidden !important;
+    width: 100%;
 }
 
 div.headline
 {
-	font-size: 1.1em;
+	font-size: 1.4em;
 	font-weight: bold;
 	padding: 5px;
 	padding-bottom: 20px;
@@ -189,6 +189,7 @@ div.metanavigation
 	float: right;
 	font-size: 0.6em;
 	padding: 3px;
+	margin-top: 5px;
 }
 
 div.contentSeparator
@@ -257,10 +258,9 @@ div.topNewsDiv, div.topDatesDiv, div.topTwitterDiv
 {
 	font-size: 0.9em;
 	text-align: justify;
-	border: 2px solid #c1c1c1;
 	padding: 5px;
 	overflow-x: hidden;
-	overflow-y: scroll;
+	overflow-y: auto;
 }
 
 div.topNewsEntry, div.topDatesEntry, div.topTwitterEntry
@@ -347,24 +347,24 @@ table.teasertitle
 
 td.teasertitletext
 {
-	font-size: 0.9em;
+	color: #505050;
+	font-size: 1.1em;
 	font-weight: bold;
-	background-color: #c1c1c1;
 	padding: 5px;
-	width: 45%;
+	width: 95%;
+	border-bottom: 1px solid #505050;
 }
 
 td.teasertitletoplink
 {
 	text-align: right;
-	width: 55%;
+	border-bottom: 1px solid #505050;
 }
 
 div.teasertext
 {
 	font-size: 0.9em;
 	text-align: justify;
-	border: 2px solid #c1c1c1;
 	padding: 5px;
 }
 
@@ -378,18 +378,19 @@ div#noscript
 
 div#footer
 {
-	background-color: #c10000;
 	height: 15px;
 	width: 100%;
 	text-align: center;
-	color: #ffffff;
-	font-size: 0.8em;
+	color: #aaaaaa;
+	font-size: 9px;
+	margin-bottom: 10px;
 }
 
 div#footer a
 {
 	text-decoration: none;
-	color: #ffffff;
+	color: #aaaaaa;
+	font-size: 9px;
 }
 
 div#footer a:hover
@@ -416,6 +417,10 @@ ul.contentTable
 	padding-top: 0px;
 	margin-top: 0px;
 	padding-bottom: 20px;
+}
+
+ul.contentTable li, ul.contentTable a {
+    font-size: 12px;
 }
 
 div.contentTableDiv
@@ -639,7 +644,7 @@ li.striked {
 	text-align: center;
 	vertical-align: middle;
 	left: 400px;
-	top: 175px;
+	top: 195px;
 	position: absolute;
 }
 

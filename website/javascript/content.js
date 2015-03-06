@@ -9,7 +9,6 @@ pages[6] = "events";
 pages[7] = "donate";
 pages[8] = "sponsors";
 pages[13] = "service";
-pages[14] = "forum";
 
 pages[16] = "contact";
 pages[17] = "impressum";
@@ -230,7 +229,6 @@ function showContent(pageId, topic)
 		case 2   : doAjaxRequest(pages[actPageNr], null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "NEWS")});break;
 		case 4   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){teamMemberHandler(new TeamMemberXmlResponseParser(), topic)});break;
 		case 8   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){sponsorsHandler(new SponsorsXmlResponseParser(), topic)});break;
-		case 14  : forum(topic);break;
 		case 56  : contactForm();break;
 		case 28  :
 		case 301 :
@@ -251,28 +249,6 @@ function showContent(pageId, topic)
 	}
 }
 
-function forum(topic)
-{
-	if (topic == null || topic == "" || topic.length < 1)
-	{
-		topic = "http://www.razyboard.com/system/user_ttlg.html?allowChat=false";
-	}
-	
-	document.getElementById("content").style.overflow = "visible";
-	
-	var iFrame = document.createElement("iframe");
-	iFrame.setAttribute("name", "forum");
-	iFrame.setAttribute("marginwidth", "0");
-	iFrame.setAttribute("marginheight", "0");
-	iFrame.setAttribute("frameborder", "0");
-	iFrame.setAttribute("height", "100%");
-	iFrame.setAttribute("width", "100%");
-	iFrame.setAttribute("src", topic);
-	
-	document.getElementById("content").style.overflowY = "hidden";
-	document.getElementById("content").appendChild(iFrame);
-}
-
 function contactForm()
 {
 	document.getElementById("content").style.overflow = "visible";
@@ -282,7 +258,7 @@ function contactForm()
 	iFrame.setAttribute("marginwidth", "0");
 	iFrame.setAttribute("marginheight", "0");
 	iFrame.setAttribute("frameborder", "0");
-	iFrame.setAttribute("height", "95%");
+	iFrame.setAttribute("height", "670px");
 	iFrame.setAttribute("width", "100%");
 	iFrame.setAttribute("src", "http://external.rsc-lueneburg.de/contact.html");
 	
@@ -343,7 +319,7 @@ function showInFrame(actPageNr)
 	iFrame.setAttribute("marginwidth", "5");
 	iFrame.setAttribute("marginheight", "5");
 	iFrame.setAttribute("frameborder", "0");
-	iFrame.setAttribute("height", "100%");
+	iFrame.setAttribute("height", "700px");
 	iFrame.setAttribute("width", "100%");
 	iFrame.setAttribute("src", pages[actPageNr]);
 	
@@ -393,7 +369,7 @@ function standardTextblockHandler (parser, topic)
 
 					var teaserTopLink = document.createElement("a");
 					teaserTopLink.className="teasertoplink";
-					teaserTopLink.setAttribute("href", "#top");
+					teaserTopLink.setAttribute("href", "#home");
 					teaserTopLink.appendChild(teaserTopLinkImg);
 
 					var teaserTitleTableTd1 = document.createElement("td");
@@ -916,7 +892,7 @@ function newsHandler (parser, topic, source)
 
 					var teaserTopLink = document.createElement("a");
 					teaserTopLink.className="teasertoplink";
-					teaserTopLink.setAttribute("href", "#top");
+					teaserTopLink.setAttribute("href", "#home");
 					teaserTopLink.appendChild(teaserTopLinkImg);
 
 					var teaserTitleTableTd1 = document.createElement("td");
@@ -1085,7 +1061,7 @@ function sponsorsHandler (parser, topic)
 
 					var teaserTopLink = document.createElement("a");
 					teaserTopLink.className="teasertoplink";
-					teaserTopLink.setAttribute("href", "#top");
+					teaserTopLink.setAttribute("href", "#home");
 					teaserTopLink.appendChild(teaserTopLinkImg);
 
 					var teaserTitleTableTd1 = document.createElement("td");
