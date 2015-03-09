@@ -361,7 +361,7 @@
 		<br/><br/>
 		Das Probetraining dient <u>nicht</u> der Leistungsfeststellung seitens des Vereins. Es soll lediglich die Möglichkeit bieten, sich einen Eindruck vom Training zu verschaffen.
 		<br/><br/>
-		<a href="?page=56" onclick="showContent(56, null); return false;">&raquo; Zum Kontaktformular</a>
+		<a href="?page=16+topic=Kontaktformular" onclick="showContent(16, 'Kontaktformular'); return false;">&raquo; Zum Kontaktformular</a>
 		]]></text>
 	</paragraph>
 	<paragraph>

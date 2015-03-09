@@ -101,9 +101,9 @@
 	<paragraph>
 		<title>Was muss ich nun tun?</title>
 		<text><![CDATA[
-		Du bist Athlet/in und möchtest dich uns anschließen, dann nutze bitte unser <a href="?page=56" onclick="showContent(56,null); return false;">Kontaktformular</a>.
+		Du bist Athlet/in und möchtest dich uns anschließen, dann nutze bitte unser <a href="?page=16+topic=Kontaktformular" onclick="showContent(16,'Kontaktformular'); return false;">Kontaktformular</a>.
 		<br/><br/>
-		Sie wollen uns in unserem Vorhaben unterstützen, ggf. sogar als Partner auftreten, dann nutzten Sie bitte unser <a href="?page=56" onclick="showContent(56,null); return false;">Kontaktformular</a>.
+		Sie wollen uns in unserem Vorhaben unterstützen, ggf. sogar als Partner auftreten, dann nutzten Sie bitte unser <a href="?page=16+topic=Kontaktformular" onclick="showContent(16,'Kontaktformular'); return false;">Kontaktformular</a>.
 		]]></text>
 	</paragraph>
 </document>

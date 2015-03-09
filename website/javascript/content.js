@@ -37,7 +37,6 @@ pages[40] = "reports_triathlon";
 pages[41] = "competitions";
 pages[43] = "service_tools";
 pages[55] = "training_youth";
-pages[56] = "contact_form";
 pages[57] = "teams";
 pages[58] = "youth";
 
@@ -124,9 +123,10 @@ var sponsorsPicturePath = "pics/sponsors/";
 
 function resetContent()
 {
-	document.getElementById("content").innerHTML = "";
-	document.getElementById("content").style.overflowY = "scroll";
-	document.getElementById("content").style.overflowX = "hidden";
+	if (document.getElementById("content") != null)
+	{
+		document.getElementById("content").innerHTML = "";
+	}
 }
 
 function initPage()
@@ -229,7 +229,6 @@ function showContent(pageId, topic)
 		case 2   : doAjaxRequest(pages[actPageNr], null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "NEWS")});break;
 		case 4   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){teamMemberHandler(new TeamMemberXmlResponseParser(), topic)});break;
 		case 8   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){sponsorsHandler(new SponsorsXmlResponseParser(), topic)});break;
-		case 56  : contactForm();break;
 		case 28  :
 		case 301 :
 		case 302 :
@@ -247,35 +246,6 @@ function showContent(pageId, topic)
 		case 341 : showInFrame(actPageNr);break;
 		default  : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){standardTextblockHandler(new StandardTextblockXmlResponseParser(), topic)});
 	}
-}
-
-function contactForm()
-{
-	document.getElementById("content").style.overflow = "visible";
-	
-	var iFrame = document.createElement("iframe");
-	iFrame.setAttribute("name", "contactForm");
-	iFrame.setAttribute("marginwidth", "0");
-	iFrame.setAttribute("marginheight", "0");
-	iFrame.setAttribute("frameborder", "0");
-	iFrame.setAttribute("height", "670px");
-	iFrame.setAttribute("width", "100%");
-	iFrame.setAttribute("src", "http://external.rsc-lueneburg.de/contact.html");
-	
-	document.getElementById("content").appendChild(iFrame);
-	
-	var externLink = document.createElement("a");
-	externLink.setAttribute("href", "http://external.rsc-lueneburg.de/contact.html");
-	externLink.setAttribute("target", "_blank");
-	externLink.appendChild(document.createTextNode("Kontaktformular (extern)"));
-	
-	var hint = document.createElement("div");
-	hint.className="teaser";
-	hint.appendChild(document.createTextNode("Falls das Kontaktformular nicht richtig funktioniert dann bitte "));
-	hint.appendChild(externLink);
-	hint.appendChild(document.createTextNode(" nutzen."));
-
-	document.getElementById("content").appendChild(hint);
 }
 
 function donateYouth()
