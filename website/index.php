@@ -1,25 +1,29 @@
 ﻿<?php
 $mainUrl        = "http://www.rsc-lueneburg.de";
-$mainLogo       = "pics/logo_rsc.png";
+$mainLogo       = "pics/Logo_RSCLueneburg.png";
 $subUrl         = "http://www.tri-team-lueneburg.de";
-$subLogo        = "pics/logo_ttlg.png";
+$subLogo        = "pics/Logo_TriTeamLueneburg.png";
 $keywords       = "RSC Lüneburg e.V., Lüneburg, Lueneburg, Radsport, Rennrad, MTB, Moutainbike, RSC, Fahrrad, Schwimmen, Radfahren, Laufen, Schwimm-Events, Radfahr-Events, Lauf-Events, Duathlon, Cross Country, MTB-Marathon";
 $description    = "RSC Lüneburg e.V., Radsport - RTF - MTB - Triathlon";
 $favicon        = "pics/rsc/favicon.ico";
 $bodyClass      = "rsc";
 $showHidden     = $_GET['showHidden'] == "true" ? true : false;
 $showOnlyHidden = $_GET['showOnlyHidden'] == "true" ? true : false;
+$twitterTitle   = "Folge dem RSC Lüneburg e.V. auf Twitter";
+$twitterAccount = "RSC_Lueneburg";
 
 if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 	// Tri Team mode
 	$mainUrl      = "http://www.tri-team-lueneburg.de";
-	$mainLogo     = "pics/logo_ttlg.png";
+	$mainLogo     = "pics/Logo_TriTeamLueneburg.png";
 	$subUrl       = "http://www.rsc-lueneburg.de";
-	$subLogo      = "pics/logo_rsc.png";
+	$subLogo      = "pics/Logo_RSCLueneburg.png";
 	$keywords     = "Triathlon, Lüneburg, Lueneburg, Rennrad, MTB, Moutainbike, RSC, Fahrrad, Schwimmen, Radfahren, Laufen, Schwimm-Events, Radfahr-Events, Lauf-Events, Duathlon";
 	$description  = "Triathlon Team Lüneburg, Schwimmen - Radfahren - Laufen - Duathlon - Triathlon";
 	$favicon      = "pics/ttlg/favicon.ico";
 	$bodyClass    = "ttlg";
+	$twitterTitle   = "Folge dem RSC Lüneburg e.V. auf Twitter";
+	$twitterAccount = "TriTeamLG";
 }
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -178,6 +182,17 @@ addContentJs();*/
 					</td>
 					<td align="right" id="right">
 						<a href="<?php echo $subUrl; ?>" target="_blank"><img src="<?php echo $subLogo; ?>"/></a>
+						<div id="headerlinks">
+							<a title="Erfahre das Neueste vom RSC Lüneburg e.V. | Triathlon Team Lüneburg per RSS Feed" href="http://www.rsc-lueneburg.de/share/news.xml" target="_blank">
+									<img src="pics/icon_48x48_rss-feed.png" alt="RSS Feed">
+							</a>
+							<a href="?page=16" onclick="javascript:showContent(16,null); return false;" title="Kontakt">
+									<img src="pics/icon_48x48_contact.png" alt="Kontakt">
+							</a>
+							<a title="<?php echo $twitterTitle; ?>" href="http://twitter.com/<?php echo $twitterAccount; ?>" target="_blank">
+									<img alt="Twitter" src="pics/icon_48x48_twitter.png">
+							</a>
+					</div>
 					</td>
 				</tr>
 			</table>
@@ -441,16 +456,6 @@ addContentJs();*/
 				</div>
 			</div>
 			<?php endif; ?>
-			<div class="topnaventryseparator">
-			</div>
-			<div class="topnaventry">
-				<a href="?page=16" onclick="javascript:showContent(16,null); return false;">Kontakt</a>
-				<div class="topnaventrysubmenu">
-					<div class="topnaventrysubmenuentry">
-						<a href="?page=56" onclick="javascript:showContent(56,null); return false;">Kontaktformular</a>
-					</div>
-				</div>
-			</div>
 		</div>
 
 		<noscript>

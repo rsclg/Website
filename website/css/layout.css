@@ -18,7 +18,7 @@ body#home
     background:-ms-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
     background:linear-gradient(180deg,#c10000 0%,#e10000 85px,#ffffff 150px);
     -pie-background:linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
-    behavior:url('css/PIE.htc');
+    behavior:url("http://external.rsc-lueneburg.de/assets/css3pie/1.0.0/PIE.htc")
 }
 
 *::-moz-selection 
@@ -72,10 +72,20 @@ div#header table td#left
 div#header table td#right
 {
 	width: 50%;
-	padding-right: 40px; /* without pageear*/
-	/*padding-right: 140px; /* with pageear*/
-	padding-top: 35px;
+	padding-right: 60px;
 }
+
+div#header table td#right img
+{
+	height: 80px;
+	width: auto;
+}
+
+#header a {
+	outline: none; 
+}
+
+div#headerlinks{right:5px;top:0;position:absolute;padding-top:3px}#header div#headerlinks a{float:right;clear:right}#header table td#right div#headerlinks img{width:35px;height:35px}#header table td#right div#headerlinks img:hover{width:48px;height:48px}#header div#headerlinks img,#header div#headerlinks img:hover{-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
 
 div#topnav
 {
@@ -103,7 +113,7 @@ div.topnaventry a
 	padding-top: 2px;
 	padding-left: 10px;
 	padding-right: 10px;
-	height: 23px;
+	height: 30px;
 }
 
 div.topnaventry > a {
@@ -111,6 +121,10 @@ div.topnaventry > a {
     color: #c10000;
     font-weight: bold;
 }
+
+div.topnaventry > a:hover{height:28px;border-bottom:4px solid #c10000}
+
+div.topnaventry > a,div.topnaventry > a:hover{-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
 
 div.topnaventryseparator
 {
@@ -173,6 +187,7 @@ div#content {
     height: auto !important;
     overflow: hidden !important;
     width: 100%;
+    min-height: 500px;
 }
 
 div.headline
