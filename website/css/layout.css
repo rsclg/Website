@@ -1,4 +1,4 @@
-html, body#home {
+html, body, div.forum {
     min-height: 100%;
 }
 
@@ -8,7 +8,7 @@ body
 	font-size: 1.0em;
 }
 
-body#home
+body, div.forum
 {
 	margin: 0px;
     background-color:#fff;
@@ -75,17 +75,17 @@ div#header table td#right
 	padding-right: 60px;
 }
 
-div#header table td#right img
+div#header table td#right > a  img
 {
 	height: 80px;
 	width: auto;
 }
 
-#header a {
-	outline: none; 
+#header a, div#headerlinks a {
+	outline: none;
 }
 
-div#headerlinks{right:5px;top:0;position:absolute;padding-top:3px}#header div#headerlinks a{float:right;clear:right}#header table td#right div#headerlinks img{width:35px;height:35px}#header table td#right div#headerlinks img:hover{width:48px;height:48px}#header div#headerlinks img,#header div#headerlinks img:hover{-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
+div#headerlinks{right:5px;top:0;position:absolute;padding-top:3px}div#headerlinks a{float:right;clear:right}div#headerlinks img{width:35px;height:35px}div#headerlinks img:hover{width:48px;height:48px}div#headerlinks img,div#headerlinks img:hover{-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
 
 div#topnav
 {
@@ -543,17 +543,71 @@ div.modalDialogBody img
 	border: 0px;
 }
 
-td.forummenu
-{
-	background-color: #717171;
-	font-size: 0.9em;
-	text-align:center;
-	padding: 0px;
+
+div.forum {
+    padding: 0 1%;
+    width: 98%;
+	min-width: 950px;
 }
 
-td.forummenu:hover
+.forum #rsc_logo
 {
-	background-color: #efefef;
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    display: inline-block;
+    left: 33px;
+    top: 35px;
+    position: absolute;
+	outline: none;
+}
+
+.forum #ttlg_logo
+{
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    display: inline-block;
+	right: 60px;
+    top: 43px;
+	position: absolute;
+	outline: none;
+}
+
+.forum #ttlg_logo img
+{
+	height: 80px;
+    width: auto;
+}
+
+.forum #headerlinks a
+{
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+	padding-bottom: 4px;
+}
+
+div.forum table:nth-child(4) {
+    float: left;
+    margin-left: 330px;
+    margin-top: 32px;
+    width: auto;
+}
+
+div.forum table:nth-child(4) td {
+    color: #ffffff;
+}
+
+div.forum table:nth-child(14) {
+    display: none;
+}
+
+#menu
+{
+	float: right;
+	width: auto;
+	margin-top: 75px;
+}
+
+td.forummenu
+{
+	font-size: 0.9em;
+	padding-right: 5px;
 }
 
 td.forummenu a,
@@ -563,16 +617,25 @@ td.forummenu a:focus,
 td.forummenu a:active,
 td.forummenu a:hover
 {
-	color: #efefef;
+	color: #c10000;
 	display: block;
 	text-decoration: none;
-	height: 100%;
-	padding: 4px;
+	height: 30px;
+	padding: 0 10px;
+	border-bottom: 2px solid #c10000;
+	font-weight: bold;
 }
 
 td.forummenu a:hover
 {
-	color: #717171;
+    border-bottom: 4px solid #c10000;
+    height: 28px;
+}
+
+td.forummenu a, td.forummenu a:hover {-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
+
+table#menu a img {
+	display: none !important;
 }
 
 div#newentries a
