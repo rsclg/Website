@@ -11,14 +11,14 @@ body
 body, div.forum
 {
 	margin: 0px;
-    background-color:#fff;
-    background:-moz-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
-    background:-webkit-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
-    background:-o-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
-    background:-ms-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
-    background:linear-gradient(180deg,#c10000 0%,#e10000 85px,#ffffff 150px);
-    -pie-background:linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
-    behavior:url("http://external.rsc-lueneburg.de/assets/css3pie/1.0.0/PIE.htc")
+	background-color:#fff;
+	background:-moz-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+	background:-webkit-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+	background:-o-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+	background:-ms-linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+	background:linear-gradient(180deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+	-pie-background:linear-gradient(270deg,#c10000 0%,#e10000 85px,#ffffff 150px);
+	behavior:url("http://www.rsc-lueneburg.de/css/PIE.php");
 }
 
 *::-moz-selection 

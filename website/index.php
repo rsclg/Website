@@ -92,19 +92,12 @@ if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 <!-- script src="pageear/laufladen/AC_OETags.js" language="javascript"></script -->
 <!-- script src="pageear/laufladen/pageear.js" type="text/javascript"> </script -->
 
+<script type="text/javascript" src="css/PIE.js" language="JavaScript"></script>
 <script type="text/javascript" src="javascript/blogger-mod.js" language="JavaScript"></script>
 <script type="text/javascript" src="javascript/prototype-1.7.2.js"></script>
 <script type="text/javascript" src="javascript/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="javascript/lightbox.js"></script>
 <script type="text/javascript" src="javascript/tools.js" language="JavaScript"></script>
-
-<script type="text/javascript" src="javascript/content.js?<?php echo date('Ymd'); ?>" language="JavaScript"></script>
-
-<link rel="alternate" type="application/rss+xml" title="Neuigkeiten vom RSC Lüneburg e.V. | Triathlon Team Lüneburg" href="http://www.rsc-lueneburg.de/share/news.xml" />
-<link rel="alternate" type="application/rss+xml" title="Termine vom RSC Lüneburg e.V. | Triathlon Team Lüneburg" href="http://www.rsc-lueneburg.de/xml/dates.xml" />
-
-</head>
-<body onload="initPage();" id="home">
 
 <script type="text/javascript">
 		var baseUrl = "http://<?php echo $_SERVER['SERVER_NAME'];?>/";
@@ -115,6 +108,14 @@ if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 		<!-- PageEar function call -->
 		//writeObjects();
 </script>
+
+<script type="text/javascript" src="javascript/content.js?<?php echo date('Ymd'); ?>" language="JavaScript"></script>
+
+<link rel="alternate" type="application/rss+xml" title="Neuigkeiten vom RSC Lüneburg e.V. | Triathlon Team Lüneburg" href="http://www.rsc-lueneburg.de/share/news.xml" />
+<link rel="alternate" type="application/rss+xml" title="Termine vom RSC Lüneburg e.V. | Triathlon Team Lüneburg" href="http://www.rsc-lueneburg.de/xml/dates.xml" />
+
+</head>
+<body onload="initPage();" id="home">
 
 <script type="text/javascript">
 <!--
