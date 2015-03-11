@@ -18,12 +18,16 @@
 				</td>
 			</tr>
 		</table>
-		<div style="margin-top: 20px; text-align: center;">
-			<!-- a href="http://www.bikeday-lueneburg.de/" target="_blank" title='BikeDay Lüneburg'><img src="pics/events/home_events_2012_bikeday.jpg" /></a -->
-			<!-- a href="http://rtf.rsc-lueneburg.de" target="_blank" title='RTF "Rund um Lüneburg"'><img src="pics/events/home_events_2011_rtf.jpg" /></a -->
-			<!-- a href="http://bibermann.tri-team-lueneburg.de" target="_blank" title="Bibermann Triathlon"><img src="pics/events/home_events_2011_bibermann.jpg" /></a -->
-		</div>
-		<div style="margin-top: 20px;"></div>
+		<table width="100%" border="0" style="margin: 20px 0;">
+			<tr>
+				<td class="teasertitletext" colspan="3">Besuche auch unsere anderen Webseiten</td>
+			</tr>
+			<tr>
+				<td width="33%" align="center" valign="middle"><a target="_blank" href="http://www.rtf-lueneburg.de" title="Besuche die Webseite der RTF Rund um Lüneburg"><img src="pics/Logo_RTFLueneburg.png" alt="RTF Rund um Lüneburg" /></a></td>
+				<td width="33%" align="center" valign="middle"><a target="_blank" href="http://www.bibermann-triathlon.de/" title="Besuche die Webseite des Bibermann Triathlon"><img src="pics/Logo_Bibermann.png" alt="Bibermann Triathlon" /></a></td>
+				<td width="33%" align="center" valign="middle"><a target="_blank" href="http://liga.tri-team-lueneburg.de/" title="Besuche die Webseite der Liga Teams des Triathlon Team Lüneburg"><img src="pics/Logo_LigaTriTeamLueneburg.png" alt="Liga Teams des Triathlon Team Lüneburg" /></a></td>
+			<tr>
+		</table>
 		]]></text>
 	</paragraph>
 </document>
