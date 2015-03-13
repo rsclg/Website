@@ -187,6 +187,7 @@ div#content {
     width: 100%;
     min-height: 500px;
 		padding-top: 40px;
+		position: relative;
 }
 
 div.headline
@@ -385,6 +386,11 @@ div.teasertext
 	font-size: 0.9em;
 	text-align: justify;
 	padding: 5px;
+}
+
+div.teasertext td
+{
+	text-align: left;
 }
 
 div#noscript

@@ -235,7 +235,8 @@ function showContent(pageId, topic)
 		case 303 :
 		case 304 :
 		case 305 :
-		case 306 : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "DATES")});break;
+		case 306 :
+		case 307 : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "DATES")});break;
 		case 70  : donateYouth();break;
 		case 71  : donateTraining();break;
 		case 30  :
@@ -1297,6 +1298,10 @@ NewsDatesXmlResponseParser.prototype = Object.extend(new AbstractResponseParser(
 	var root = this.content.documentElement;
 	this.result = new Object();
 	this.result.headline = "News";
+	if (source == "DATES")
+	{
+		this.result.headline = root.getElementsByTagName("title")[0].firstChild.nodeValue.substring("RSC Lüneburg e.V. | Triathlon Team Lüneburg - ".length, root.getElementsByTagName("title")[0].firstChild.nodeValue.length);
+	}
 	
 	var paragraphs = new Array();
 	var elements = getDomElements(root, "item");
