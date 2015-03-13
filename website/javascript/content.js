@@ -1312,7 +1312,6 @@ NewsDatesXmlResponseParser.prototype = Object.extend(new AbstractResponseParser(
 		else
 		{
 			var pubDate = new Date(Date.parse(elements[i].getElementsByTagName("pubDate")[0].firstChild.nodeValue));
-			console.log(pubDate);
 			paragraph.pubDate = pubDate.toLocaleFormat('%d.%m.%Y');
 		}
 		paragraph.text = elements[i].getElementsByTagName("description")[0].firstChild.nodeValue.replace(/href/g, 'target="_blank" href');

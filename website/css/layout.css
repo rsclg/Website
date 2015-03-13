@@ -51,49 +51,47 @@ img
 div#site
 {
 	margin: auto;
-	width: 99%;
-	min-width: 950px;
+	width: 1140px;
 }
 
 div#header
 {
-	height: 160px;
-	width: 100%;
+	height: 200px;
+	position: relative;
 }
 
-div#header table td#left
+div#header #logo_left
 {
-	width: 50%;
-	padding-left: 40px;
-	padding-right: 20px;
-	padding-top: 35px;
+	float: left;
+	margin-top: 44px;
 }
 
-div#header table td#right
+div#header #logo_right
 {
-	width: 50%;
-	padding-right: 60px;
+	margin-right: 60px;
+	margin-top: 30px;
+	clear: right;
+	float: right;
 }
 
-div#header table td#right > a  img
+div#header #logo_right  img
 {
-	height: 80px;
+	height: 110px;
+	margin-top: -5px;
 	width: auto;
 }
 
-#header a, div#headerlinks a {
+#header a {
 	outline: none;
 }
 
-div#headerlinks{right:5px;top:0;position:absolute;padding-top:3px}div#headerlinks a{float:right;clear:right}div#headerlinks img{width:35px;height:35px}div#headerlinks img:hover{width:48px;height:48px}div#headerlinks img,div#headerlinks img:hover{-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
+div#headerlinks{right:5px;top:0;position:absolute;padding-top:3px}div#headerlinks a{float:right;clear:right;font: 0.75em verdana;}div#headerlinks img{width:35px;height:35px}div#headerlinks img:hover{width:48px;height:48px}div#headerlinks img,div#headerlinks img:hover{-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
 
 div#topnav
 {
-	height: 25px;
-	text-align: center;
-	padding-top: 3px;
-	float: right;
-	padding-bottom: 15px;
+	bottom: 10px;
+	position: absolute;
+	right: 0;
 }
 
 div.topnaventry
@@ -114,6 +112,7 @@ div.topnaventry a
 	padding-left: 10px;
 	padding-right: 10px;
 	height: 30px;
+	white-space: nowrap;
 }
 
 div.topnaventry > a {
@@ -123,8 +122,6 @@ div.topnaventry > a {
 }
 
 div.topnaventry > a:hover{height:28px;border-bottom:4px solid #c10000}
-
-div.topnaventry > a,div.topnaventry > a:hover{-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
 
 div.topnaventryseparator
 {
@@ -140,12 +137,13 @@ div.topnaventrysubmenu
 	z-index: 10;
 	background-color: #ebebeb;
 	display: none;
-	width: 200px;
+	max-width: 200px;
 }
 
 div.topnaventrysubmenu hr
 {
 	margin: 0;
+	max-width: 200px;
 }
 
 div.topnaventry:hover div.topnaventrysubmenu
@@ -168,8 +166,7 @@ div.topnaventrysubmenuentry a
 	display: block;
 	text-decoration: none;
 	color: #555555;
-	padding: 5px;
-	padding-left: 10px;
+	padding: 5px 10px;
 }
 
 div.topnaventrysubmenuentry:hover a
@@ -177,9 +174,10 @@ div.topnaventrysubmenuentry:hover a
 	color: #ebebeb;
 }
 
-.hassubsubmenu > a:after {
+.hassubsubmenu > a::before {
     content: "➤";
     float: right;
+    padding-left: 5px;
 }
 
 div#content {
@@ -188,6 +186,7 @@ div#content {
     overflow: hidden !important;
     width: 100%;
     min-height: 500px;
+		padding-top: 40px;
 }
 
 div.headline
@@ -251,9 +250,14 @@ div.homePoweredBy
 
 div.homeHeadline
 {
+	border-bottom: 1px solid #505050;
+	color: #505050;
+	font-size: 12px;
 	font-weight: bold;
-	font-size: 0.8em;
-	padding-bottom: 5px;
+	margin-bottom: 5px;
+	margin-top: 0;
+	padding-bottom: 3px;
+	text-align: left;
 }
 
 div.poweredByPhoto, div.poweredByPhoto a, div.poweredByPhoto a img
@@ -572,8 +576,9 @@ div.forum {
 
 .forum #ttlg_logo img
 {
-	height: 80px;
-    width: auto;
+	height: 110px;
+  width: auto;
+	margin-top: -18px;
 }
 
 .forum #headerlinks a
@@ -583,7 +588,7 @@ div.forum {
 }
 
 div.forum table:nth-child(4) {
-    float: left;
+    position: absolute;
     margin-top: 32px;
 }
 
@@ -601,7 +606,7 @@ div.forum table:nth-child(4) td:nth-child(2) {
     width: 99% !important;
 }
 
-div.forum table:nth-child(14) {
+div.forum table:nth-child(15), div.forum br:nth-child(14), div.forum br:nth-child(16), div.forum br:nth-child(17) {
     display: none;
 }
 
@@ -609,7 +614,7 @@ div.forum table:nth-child(14) {
 {
 	float: right;
 	width: auto;
-	margin-top: 75px;
+	margin-top: 135px;
 }
 
 td.forummenu
@@ -640,8 +645,6 @@ td.forummenu a:hover
     height: 28px;
 }
 
-td.forummenu a, td.forummenu a:hover {-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
-
 table#menu a img {
 	display: none !important;
 }
@@ -658,9 +661,8 @@ div.subsubmenu
 	z-index: 10;
 	background-color: #ebebeb;
 	display: none;
-	width: 150px;
-	left: 200px;
-	margin-top: -33px;
+	left: 100%;
+	margin-top: -40px;
 }
 
 div.topnaventrysubmenuentry:hover div.subsubmenu
