@@ -294,50 +294,6 @@
 		]]></text>
 	</paragraph>
 	<paragraph>
-		<title>13.08.2011 : Güstrower Triathlon</title>
-		<text><![CDATA[
-		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
-			<thead>
-				<tr style="font-size: 1.1em; text-align: center;">
-					<td colspan="5" style="border-bottom: 1px solid #000000;">Regionalliga OD (1,5 km - 40 km - 10 km)</td>
-				</tr>
-				<tr>
-					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
-					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td class="member">Frank Reimann</td>
-					<td>01:57:10 h</td>
-					<td>07./80</td>
-				</tr>
-				<tr>
-					<td class="member">Jonathan Pargätzi</td>
-					<td>02:02:48 h</td>
-					<td>28./80</td>
-				</tr>
-				<tr>
-					<td class="member">Julian Radzinski</td>
-					<td>02:05:31 h</td>
-					<td>40./80</td>
-				</tr>
-				<tr>
-					<td class="member">Hendrik Garbers</td>
-					<td>02:09:55 h</td>
-					<td>56./80</td>
-				</tr>
-				<tr>
-					<td class="member">Dirk Meyer</td>
-					<td>02:17:38 h</td>
-					<td>71./80</td>
-				</tr>
-			</tbody>
-		</table>
-		]]></text>
-	</paragraph>
-	<paragraph>
 		<title>07.08.2011 : Ironman Regensburg</title>
 		<text><![CDATA[
 		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
@@ -433,50 +389,6 @@
 		</table>
 		]]></text>
 	</paragraph>
-	<paragraph>
-		<title>24.07.2011 : Silbersee-Triathlon</title>
-		<text><![CDATA[
-		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
-			<thead>
-				<tr style="font-size: 1.1em; text-align: center;">
-					<td colspan="5" style="border-bottom: 1px solid #000000;">Regionalliga OD (1,5 km - 40 km - 10 km)</td>
-				</tr>
-				<tr>
-					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
-					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td class="member">Jonathan Pargätzi</td>
-					<td>02:03:45 h</td>
-					<td>23./93</td>
-				</tr>
-				<tr>
-					<td class="member">Andreas Krohn</td>
-					<td>02:06:29 h</td>
-					<td>33./93</td>
-				</tr>
-				<tr>
-					<td class="member">Michael Nottebohm</td>
-					<td>02:13:41 h</td>
-					<td>60./93</td>
-				</tr>
-				<tr>
-					<td class="member">Ronny von Bresinski</td>
-					<td>02:16:33 h</td>
-					<td>69./93</td>
-				</tr>
-				<tr>
-					<td class="member">Dieter Zielinski</td>
-					<td>02:16:50 h</td>
-					<td>70./93</td>
-				</tr>
-			</tbody>
-		</table>
-		]]></text>
-	</paragraph>	
 	<paragraph>
 		<title>17.07.2011 : Hamburg Triathlon</title>
 		<text><![CDATA[
@@ -1048,50 +960,6 @@
 		]]></text>
 	</paragraph>
 	<paragraph>
-		<title>26.06.2011 : SCI Triathlon Itzehoe</title>
-		<text><![CDATA[
-		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
-			<thead>
-				<tr style="font-size: 1.1em; text-align: center;">
-					<td colspan="5" style="border-bottom: 1px solid #000000;">Regionalliga Jagdrennen (0,5 km - 20 km - 5 km)</td>
-				</tr>
-				<tr>
-					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
-					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td class="member">Frank Reimann</td>
-					<td>01:03:13 h</td>
-					<td>18./94</td>
-				</tr>
-				<tr>
-					<td class="member">Hendrik Garbers</td>
-					<td>01:04:56 h</td>
-					<td>24./94</td>
-				</tr>
-				<tr>
-					<td class="member">Jonathan Pargätzi</td>
-					<td>01:04:57 h</td>
-					<td>25./94</td>
-				</tr>
-				<tr>
-					<td class="member">Julian Radzinski</td>
-					<td>01:05:37 h</td>
-					<td>27./94</td>
-				</tr>
-				<tr>
-					<td class="member">Andreas Krohn</td>
-					<td>01:07:37 h</td>
-					<td>37./94</td>
-				</tr>
-			</tbody>
-		</table>
-		]]></text>
-	</paragraph>
-	<paragraph>
 		<title>18.06.2011 : Harz Triathlon</title>
 		<text><![CDATA[
 		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
@@ -1491,118 +1359,6 @@
 					<td>05:26:36 h</td>
 					<td>708./1341</td>
 					<td>156./286</td>
-				</tr>
-			</tbody>
-		</table>
-		]]></text>
-	</paragraph>
-	<paragraph>
-		<title>05.06.2011 : Vierlanden Triathlon</title>
-		<text><![CDATA[
-		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
-			<thead>
-				<tr style="font-size: 1.1em; text-align: center;">
-					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,5 km - 20 km - 5 km)</td>
-				</tr>
-				<tr>
-					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td colspan="5" style="font-style: italic;">Männer</a></td>
-				</tr>
-				<tr>
-					<td class="member">Dirk Bruns</td>
-					<td>01:19:07 h</td>
-					<td>88./207</td>
-					<td>17./41</td>
-				</tr>
-			</tbody>
-		</table>
-		<br/><br/>
-		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
-			<thead>
-				<tr style="font-size: 1.1em; text-align: center;">
-					<td colspan="5" style="border-bottom: 1px solid #000000;">MD (2 km - 80 km - 20 km)</td>
-				</tr>
-				<tr>
-					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td colspan="5" style="font-style: italic;">Männer</a></td>
-				</tr>
-				<tr>
-					<td class="member">Ronny von Bresinski</td>
-					<td>04:26:24 h</td>
-					<td>8./117</td>
-					<td>2./16 <img src="pics/results/medal_silver.png" title="2. Altersklassenplatz"/></td>
-				</tr>
-				<tr>
-					<td class="member">Kai Uwe Schlichting</td>
-					<td>04:39:29 h</td>
-					<td>26./117</td>
-					<td>4./16</td>
-				</tr>
-				<tr>
-					<td class="member">Dirk Meyer</td>
-					<td>04:43:24 h</td>
-					<td>38./117</td>
-					<td>13./35</td>
-				</tr>
-				<tr>
-					<td class="member">Christian Pyrrek</td>
-					<td>05:07:33 h</td>
-					<td>76./117</td>
-					<td>16./16</td>
-				</tr>
-			</tbody>
-		</table>
-		<br/><br/>
-		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
-			<thead>
-				<tr style="font-size: 1.1em; text-align: center;">
-					<td colspan="5" style="border-bottom: 1px solid #000000;">Regionalliga OD (1,5 km - 40 km - 10 km)</td>
-				</tr>
-				<tr>
-					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
-					<td style="border-bottom: 1px solid #000000;" width="40%">Platz</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td class="member">Frank Reimann</td>
-					<td>02:04:12 h</td>
-					<td>7./93</td>
-				</tr>
-				<tr>
-					<td class="member">Julian Radzinski</td>
-					<td>02:11:44 h</td>
-					<td>31./93</td>
-				</tr>
-				<tr>
-					<td class="member">Ralf Plümer</td>
-					<td>02:21:52 h</td>
-					<td>65./93</td>
-				</tr>
-				<tr>
-					<td class="member">Dieter Zielinski</td>
-					<td>02:22:38 h</td>
-					<td>67./93</td>
-				</tr>
-				<tr>
-					<td class="member">Stefan Burmester</td>
-					<td>02:30:04 h</td>
-					<td>82./93</td>
 				</tr>
 			</tbody>
 		</table>
