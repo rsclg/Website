@@ -613,7 +613,7 @@ div.forum table:nth-child(4) td:nth-child(2) {
 }
 
 div.forum table:nth-child(15), div.forum br:nth-child(14), div.forum br:nth-child(16), div.forum br:nth-child(17) {
-    display: none;
+    /*display: none;*/
 }
 
 #menu
