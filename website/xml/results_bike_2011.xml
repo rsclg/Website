@@ -216,8 +216,6 @@
 	<paragraph>
 		<title>Archiv</title>
 		<text><![CDATA[
-		<a href="?page=115" onclick="showContent(115,null); return false;">&raquo; Ergebnisse 2010</a>
-		<br/>
 		<a href="?page=105" onclick="showContent(105,null); return false;">&raquo; Ergebnisse 2009</a>
 		]]></text>
 	</paragraph>
