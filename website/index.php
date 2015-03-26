@@ -316,7 +316,7 @@ addContentJs();*/
 				<div class="topnaventryseparator">
 				</div>
 				<div class="topnaventry">
-					<a href="?page=6" onclick="javascript:showContent(6,null); return false;">Events</a>
+					<a href="?page=6" onclick="javascript:showContent(6,null); return false;">Unsere<br>Events</a>
 					<div class="topnaventrysubmenu">
 						<!--div class="topnaventrysubmenuentry">
 							<a href="http://www.bikeday-lueneburg.de" target="_blank">Bike Day Lüneburg</a>
@@ -346,7 +346,7 @@ addContentJs();*/
 				<div class="topnaventryseparator">
 				</div>
 				<div class="topnaventry">
-				<a href="?page=41" onclick="javascript:showContent(41,null); return false;">Wettkämpfe</a>
+				<a href="?page=41" onclick="javascript:showContent(41,null); return false;">Ergebnisse /<br>Berichte</a>
 					<div class="topnaventrysubmenu">
 						<div class="topnaventrysubmenuentry hassubsubmenu">
 							<a href="?page=29" onclick="javascript:showContent(29,null); return false;">Ergebnisse</a>

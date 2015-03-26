@@ -89,7 +89,7 @@ div#headerlinks{right:5px;top:0;position:absolute;padding-top:3px}div#headerlink
 
 div#topnav
 {
-	bottom: 10px;
+	bottom: 5px;
 	position: absolute;
 	right: 0;
 }
@@ -119,9 +119,11 @@ div.topnaventry > a {
     border-bottom: 2px solid #c10000;
     color: #c10000;
     font-weight: bold;
+    height: 42px;
+    text-align: center;
 }
 
-div.topnaventry > a:hover{height:28px;border-bottom:4px solid #c10000}
+div.topnaventry > a:hover{height:40px;border-bottom:4px solid #c10000}
 
 div.topnaventryseparator
 {
@@ -557,7 +559,7 @@ div.modalDialogBody img
 div.forum {
     padding: 0 1%;
     width: 98%;
-	min-width: 950px;
+	min-width: 1140px;
 }
 
 .forum #rsc_logo
@@ -620,7 +622,7 @@ div.forum table:nth-child(15), div.forum br:nth-child(14), div.forum br:nth-chil
 {
 	float: right;
 	width: auto;
-	margin-top: 135px;
+	margin-top: 133px;
 }
 
 td.forummenu
@@ -639,16 +641,17 @@ td.forummenu a:hover
 	color: #c10000;
 	display: block;
 	text-decoration: none;
-	height: 30px;
+	height: 42px;
 	padding: 0 10px;
 	border-bottom: 2px solid #c10000;
 	font-weight: bold;
+	text-align: center;
 }
 
 td.forummenu a:hover
 {
     border-bottom: 4px solid #c10000;
-    height: 28px;
+    height: 40px;
 }
 
 table#menu a img {
