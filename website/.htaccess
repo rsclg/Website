@@ -100,14 +100,6 @@
   # Redirect subdomains
   ##
 
-  # Regionalliga
-  RewriteCond %{HTTP_HOST} ^regionalliga.tri-team-lueneburg\.de$ [NC]
-  RewriteRule ^(.*)$ http://tri-team-lueneburg.de?page=50 [L,R=301]
-  
-  # Landesliga
-  RewriteCond %{HTTP_HOST} ^landesliga.tri-team-lueneburg\.de$ [NC]
-  RewriteRule ^(.*)$ http://tri-team-lueneburg.de?page=60 [L,R=301]
-  
   # RTF
   RewriteCond %{HTTP_HOST} ^rtf-lueneburg\.de$ [NC]
   RewriteRule ^(.*)$ http://www.rtf-lueneburg.de/$1 [L,R=301]

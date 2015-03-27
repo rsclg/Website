@@ -248,53 +248,6 @@ addContentJs();*/
 				</div>
 				<div class="topnaventryseparator">
 				</div>
-				<?php if ($showHidden) : ?>
-				<div class="topnaventry">
-					<a href="?page=57" onclick="javascript:showContent(57,null); return false;">Teams</a>
-					<div class="topnaventrysubmenu">
-						<div class="topnaventrysubmenuentry hassubsubmenu">
-							<a href="?page=50" onclick="javascript:showContent(50,null); return false;">Triathlon Regionalliga</a>
-							<div class="subsubmenu">
-								<div class="subsubmenuentry">
-									<a href="?page=500" onclick="javascript:showContent(500,null); return false;">Aktuelle Tabelle</a>
-								</div>
-								<hr/>
-								<div class="subsubmenuentry">
-									<a href="?page=53" onclick="javascript:showContent(53,null); return false;">Regionalliga 2013</a>
-								</div>
-								<div class="subsubmenuentry">
-									<a href="?page=52" onclick="javascript:showContent(52,null); return false;">Regionalliga 2012</a>
-								</div>
-								<div class="subsubmenuentry">
-									<a href="?page=51" onclick="javascript:showContent(51,null); return false;">Regionalliga 2011</a>
-								</div>
-							</div>
-						</div>
-						<div class="topnaventrysubmenuentry hassubsubmenu">
-							<a href="?page=60" onclick="javascript:showContent(60,null); return false;">Triathlon Landesliga</a>
-							<div class="subsubmenu">
-							<?php if ($showHidden) : ?>
-								<div class="subsubmenuentry">
-									<a href="?page=600" onclick="javascript:showContent(600,null); return false;">Aktuelle Tabelle</a>
-								</div>
-								<hr/>
-								<?php endif; ?>
-								<div class="subsubmenuentry">
-									<a href="?page=64" onclick="javascript:showContent(64,null); return false;">Landesliga 2014</a>
-								</div>
-								<div class="subsubmenuentry">
-									<a href="?page=63" onclick="javascript:showContent(63,null); return false;">Landesliga 2013</a>
-								</div>
-								<div class="subsubmenuentry">
-									<a href="?page=62" onclick="javascript:showContent(62,null); return false;">Landesliga 2012</a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<?php endif; ?>
-				<div class="topnaventryseparator">
-				</div>
 				<div class="topnaventry">
 					<a href="?page=21" onclick="javascript:showContent(21,null); return false;">Training</a>
 					<div class="topnaventrysubmenu">

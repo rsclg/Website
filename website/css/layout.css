@@ -727,10 +727,6 @@ img.right
 	width: 400px;
 }
 
-div#ligaTable li:hover {
-	background-color: #cfcfcf;
-}
-
 li.striked {
 	text-decoration: line-through;
 }
@@ -743,56 +739,6 @@ li.striked {
 	left: 400px;
 	top: 195px;
 	position: absolute;
-}
-
-.ligatable {
-	margin: 0 auto;
-	width: 800px;
-}
-
-.ligatable td {
-	padding: 3px 5px 3px 5px;
-}
-
-.ligatable tbody tr:hover td {
-	background-color: #D8D8D8;
-}
-
-.ligatable thead td {
-	font-weight: bold;
-	border-bottom: 1px solid #afafaf;
-}
-
-.ligatable tbody tr.ownteam  td {
-	background-color: #c10000;
-	color: #ffffff;
-}
-
-.ligatable tbody td.team img {
-	float: right;
-	margin: 0 15px;
-}
-
-.ligatable td.points {
-	text-align: center;
-}
-
-.ligatable tfoot td {
-	padding-top: 10px;
-	text-align: center;
-	font-size: 9px;
-	border-top: 1px solid #afafaf;
-}
-
-.ligatable tbody td.club {
-	background-repeat: no-repeat;
-	background-position: center left;
-	background-color: transparent;
-	padding-left: 80px;
-}
-
-.ligatable tbody td#tri_team_lueneburg {
-	background-image: url("../pics/liga/clubs/tri_team_lueneburg.png");
 }
 
 .float_right {

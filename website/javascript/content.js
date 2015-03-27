@@ -37,17 +37,7 @@ pages[40] = "reports_triathlon";
 pages[41] = "competitions";
 pages[43] = "service_tools";
 pages[55] = "training_youth";
-pages[57] = "teams";
 pages[58] = "youth";
-
-pages[50] = "liga_reli";
-pages[51] = "liga_reli_2011";
-pages[52] = "liga_reli_2012";
-pages[53] = "liga_reli_2013";
-pages[60] = "liga_lali";
-pages[62] = "liga_lali_2012";
-pages[63] = "liga_lali_2013";
-pages[64] = "liga_lali_2014";
 
 pages[70] = "donate_youth";
 pages[71] = "donate_training";
@@ -112,9 +102,6 @@ pages[304] = "news_2011";
 pages[305] = "news_2012";
 pages[306] = "news_2013";
 pages[307] = "news_2014";
-
-pages[500] = "liga_reli_table";
-pages[600] = "liga_lali_table";
 
 var actPageNr = 0;
 var req = null;
