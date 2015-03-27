@@ -88,7 +88,6 @@ pages[152] = "results_bike_2013";
 pages[153] = "results_run_2013";
 pages[154] = "results_duathlon_2013";
 pages[155] = "results_triathlon_2013";
-pages[156] = "results_triathlon_2014";
 
 pages[201] = "club_tt";
 pages[202] = "club_rtf";
