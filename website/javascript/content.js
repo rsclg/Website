@@ -1264,7 +1264,7 @@ StandardTextblockXmlResponseParser.prototype = Object.extend(new AbstractRespons
 });
 
 Date.prototype.toLocaleFormat = Date.prototype.toLocaleFormat || function(pattern) {
-    return pattern.replace(/%Y/g, this.getFullYear()).replace(/%m/g, (this.getMonth() + 1)).replace(/%d/g, this.getDate());
+    return pattern.replace(/%Y/g, this.getFullYear()).replace(/%m/g, ("0" + (this.getMonth() + 1)).slice(-2)).replace(/%d/g, ("0" + this.getDate()).slice(-2));
 };
 
 /**
