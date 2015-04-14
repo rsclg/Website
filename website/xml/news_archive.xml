@@ -2,11 +2,9 @@
 <document>
 	<headline>Newsarchiv</headline>
 	<paragraph>
-		<title>2008-2014</title>
+		<title>2008-2012</title>
 		<text><![CDATA[
 		<ul>
-			<li><a href="?page=307" onclick="showContent(307, null); return false;">2014</a></li>
-			<li><a href="?page=306" onclick="showContent(306, null); return false;">2013</a></li>
 			<li><a href="?page=305" onclick="showContent(305, null); return false;">2012</a></li>
 			<li><a href="?page=304" onclick="showContent(304, null); return false;">2011</a></li>
 			<li><a href="?page=303" onclick="showContent(303, null); return false;">2010</a></li>

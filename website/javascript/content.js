@@ -99,8 +99,6 @@ pages[302] = "news_2009";
 pages[303] = "news_2010";
 pages[304] = "news_2011";
 pages[305] = "news_2012";
-pages[306] = "news_2013";
-pages[307] = "news_2014";
 
 var actPageNr = 0;
 var req = null;
@@ -221,9 +219,7 @@ function showContent(pageId, topic)
 		case 302 :
 		case 303 :
 		case 304 :
-		case 305 :
-		case 306 :
-		case 307 : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "DATES")});break;
+		case 305 : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "DATES")});break;
 		case 70  : donateYouth();break;
 		case 71  : donateTraining();break;
 		case 30  :
