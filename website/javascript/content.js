@@ -16,8 +16,8 @@ pages[18] = "disclaimer";
 pages[20] = "news_rssfeed";
 pages[21] = "training";
 pages[22] = "http://external.rsc-lueneburg.de/training/schwimmen.html";
-pages[23] = "training_bike";
-pages[24] = "training_run";
+pages[23] = "http://external.rsc-lueneburg.de/training/radfahren.html";
+pages[24] = "http://external.rsc-lueneburg.de/training/laufen.html";
 pages[25] = "service_download";
 pages[26] = "service_links";
 pages[28] = "dates";
@@ -223,6 +223,8 @@ function showContent(pageId, topic)
 		case 70  : donateYouth();break;
 		case 71  : donateTraining();break;
 		case 22  :
+		case 23  :
+		case 24  :
 		case 30  :
 		case 31  :
 		case 32  :
