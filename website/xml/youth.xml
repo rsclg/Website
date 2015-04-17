@@ -4,7 +4,12 @@
 	<paragraph>
 		<title>Training</title>
 		<text><![CDATA[
-		Die aktuellen Trainingszeiten gibt es <a href="?page=55" onclick="javascript:showContent(55,null); return false;">hier</a>.
+		Die aktuellen Trainingszeiten gibt es hier:
+		<ul>
+			<li><a href="?page=55" onclick="javascript:showContent(55,null); return false;">Training &raquo; Schwimmen</a></li>
+			<li><a href="?page=56" onclick="javascript:showContent(56,null); return false;">Training &raquo; Radfahren</a></li>
+			<li><a href="?page=57" onclick="javascript:showContent(57,null); return false;">Training &raquo; Laufen</a></li>
+		</ul>
 		]]></text>
 	</paragraph>
 </document>

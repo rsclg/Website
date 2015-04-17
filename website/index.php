@@ -242,7 +242,13 @@ addContentJs();*/
 					<a href="?page=21" onclick="javascript:showContent(58,null); return false;">Jugend</a>
 					<div class="topnaventrysubmenu">
 						<div class="topnaventrysubmenuentry">
-							<a href="?page=55" onclick="javascript:showContent(55,null); return false;">Training</a>
+							<a href="?page=55" onclick="javascript:showContent(55,null); return false;">Training &raquo; Schwimmen</a>
+						</div>
+						<div class="topnaventrysubmenuentry">
+							<a href="?page=56" onclick="javascript:showContent(56,null); return false;">Training &raquo; Radfahren</a>
+						</div>
+						<div class="topnaventrysubmenuentry">
+							<a href="?page=57" onclick="javascript:showContent(57,null); return false;">Training &raquo; Laufen</a>
 						</div>
 					</div>
 				</div>
@@ -262,7 +268,13 @@ addContentJs();*/
 						</div>
 						<hr/>
 						<div class="topnaventrysubmenuentry">
-							<a href="?page=55" onclick="javascript:showContent(55,null); return false;">Jugend</a>
+							<a href="?page=55" onclick="javascript:showContent(55,null); return false;">Jugend &raquo; Schwimmen</a>
+						</div>
+						<div class="topnaventrysubmenuentry">
+							<a href="?page=56" onclick="javascript:showContent(56,null); return false;">Jugend &raquo; Radfahren</a>
+						</div>
+						<div class="topnaventrysubmenuentry">
+							<a href="?page=57" onclick="javascript:showContent(57,null); return false;">Jugend &raquo; Laufen</a>
 						</div>
 					</div>
 				</div>

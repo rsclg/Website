@@ -36,7 +36,9 @@ pages[39] = "reports_duathlon";
 pages[40] = "reports_triathlon";
 pages[41] = "competitions";
 pages[43] = "service_tools";
-pages[55] = "training_youth";
+pages[55] = "http://external.rsc-lueneburg.de/training/jugend/schwimmen.html";
+pages[56] = "http://external.rsc-lueneburg.de/training/jugend/radfahren.html";
+pages[57] = "http://external.rsc-lueneburg.de/training/jugend/laufen.html";
 pages[58] = "youth";
 
 pages[70] = "donate_youth";
@@ -230,6 +232,9 @@ function showContent(pageId, topic)
 		case 32  :
 		case 33  :
 		case 34  :
+		case 55  :
+		case 56  :
+		case 57  :
 		case 341 : showInFrame(actPageNr);break;
 		default  : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){standardTextblockHandler(new StandardTextblockXmlResponseParser(), topic)});
 	}
