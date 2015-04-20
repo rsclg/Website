@@ -744,3 +744,28 @@ li.striked {
 .float_right {
     float: right;
 }
+
+.float_left {
+    float: left;
+}
+
+.ce_gallery ul {
+    margin: 0;
+    padding: 0;
+}
+.ce_gallery li {
+    float: left;
+    list-style: outside none none;
+    margin: 0 4px 4px 0;
+    padding: 0;
+}
+.ce_gallery figure {
+    height: 275px;
+    margin: 0;
+    padding: 0;
+}
+.ce_gallery ul ~ p {
+    clear: both;
+    height: 0;
+    visibility: hidden;
+}
