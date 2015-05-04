@@ -239,7 +239,7 @@ addContentJs();*/
 				<div class="topnaventryseparator">
 				</div>
 				<div class="topnaventry">
-					<a href="?page=21" onclick="javascript:showContent(58,null); return false;">Jugend</a>
+					<a href="?page=58" onclick="javascript:showContent(58,null); return false;">Jugend</a>
 					<div class="topnaventrysubmenu">
 						<div class="topnaventrysubmenuentry">
 							<a href="?page=55" onclick="javascript:showContent(55,null); return false;">Training &raquo; Schwimmen</a>
