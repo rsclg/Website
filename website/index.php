@@ -362,6 +362,9 @@ addContentJs();*/
 								<div class="subsubmenuentry">
 									<a href="http://reports.rsc-lueneburg.de" target="_blank">Berichte senden</a>
 								</div>
+								<div class="subsubmenuentry">
+									<a href="http://interview.rsc-lueneburg.de" target="_blank">Interview senden</a>
+								</div>
 							</div>
 						</div>
 					</div>
