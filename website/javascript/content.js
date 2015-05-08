@@ -14,7 +14,7 @@ pages[16] = "contact";
 pages[17] = "impressum";
 pages[18] = "disclaimer";
 pages[20] = "news_rssfeed";
-pages[21] = "training";
+pages[21] = "http://external.rsc-lueneburg.de/training.html";
 pages[22] = "http://external.rsc-lueneburg.de/training/schwimmen.html";
 pages[23] = "http://external.rsc-lueneburg.de/training/radfahren.html";
 pages[24] = "http://external.rsc-lueneburg.de/training/laufen.html";
@@ -224,6 +224,7 @@ function showContent(pageId, topic)
 		case 305 : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "DATES")});break;
 		case 70  : donateYouth();break;
 		case 71  : donateTraining();break;
+		case 21  :
 		case 22  :
 		case 23  :
 		case 24  :
