@@ -39,7 +39,7 @@ pages[43] = "service_tools";
 pages[55] = "http://external.rsc-lueneburg.de/training/jugend/schwimmen.html";
 pages[56] = "http://external.rsc-lueneburg.de/training/jugend/radfahren.html";
 pages[57] = "http://external.rsc-lueneburg.de/training/jugend/laufen.html";
-pages[58] = "youth";
+pages[58] = "http://external.rsc-lueneburg.de/jugend.html";
 
 pages[70] = "donate_youth";
 pages[71] = "donate_training";
@@ -235,6 +235,7 @@ function showContent(pageId, topic)
 		case 55  :
 		case 56  :
 		case 57  :
+		case 58  :
 		case 341 : showInFrame(actPageNr);break;
 		default  : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){standardTextblockHandler(new StandardTextblockXmlResponseParser(), topic)});
 	}
@@ -281,7 +282,7 @@ function showInFrame(actPageNr)
 	iFrame.setAttribute("marginwidth", "5");
 	iFrame.setAttribute("marginheight", "5");
 	iFrame.setAttribute("frameborder", "0");
-	iFrame.setAttribute("height", "700px");
+	iFrame.setAttribute("height", "900px");
 	iFrame.setAttribute("width", "100%");
 	iFrame.setAttribute("src", pages[actPageNr]);
 	
