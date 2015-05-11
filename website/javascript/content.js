@@ -3,7 +3,7 @@ pages[0] = "home";
 pages[1] = "club";
 pages[2] = "share/news.xml";
 pages[3] = "team";
-pages[4] = "team_members";
+pages[4] = "http://external.rsc-lueneburg.de/verein/mitglieder.html";
 pages[5] = "news_archive";
 pages[6] = "events";
 pages[7] = "donate";
@@ -214,7 +214,6 @@ function showContent(pageId, topic)
 	{
 		case 0   : doAjaxRequest("xml/" + pages[actPageNr] + specific + ".xml", null, function handleAjax(){homeHandler(new StandardTextblockXmlResponseParser())});break;
 		case 2   : doAjaxRequest(pages[actPageNr], null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "NEWS")});break;
-		case 4   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){teamMemberHandler(new TeamMemberXmlResponseParser(), topic)});break;
 		case 8   : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){sponsorsHandler(new SponsorsXmlResponseParser(), topic)});break;
 		case 28  :
 		case 301 :
@@ -224,6 +223,7 @@ function showContent(pageId, topic)
 		case 305 : doAjaxRequest("xml/" + pages[actPageNr] + ".xml", null, function handleAjax(){newsHandler(new NewsDatesXmlResponseParser(), topic, "DATES")});break;
 		case 70  : donateYouth();break;
 		case 71  : donateTraining();break;
+		case 4   :
 		case 21  :
 		case 22  :
 		case 23  :
@@ -906,72 +906,6 @@ function newsHandler (parser, topic, source)
 }
 
 /**
- * Handler for team members
- */
-function teamMemberHandler (parser, topic)
-{
-	switch(req.readyState)
-	{
-		case 4:
-			if(req.status!=200)
-			{
-				alert("Error: "+req.status + "\n" + req.statusText);
-			}
-			else
-			{
-				xml = req.responseXML;
-				parser.load(req);
-				
-				createContentHeader(parser.result.headline);
-				
-				// Adding preview container
-				previewBorder = document.createElement("img");
-				previewBorder.src="pics/icon/big_magnifier.png";
-				
-				previewDiv = document.createElement("div");
-				previewDiv.id="memberpreview";
-				previewDiv.appendChild(previewBorder);
-				document.getElementById("content").appendChild(previewDiv);
-				
-				// Adding list of members
-				contentTableDiv = document.createElement("div");
-				contentTableDiv.className="contentTableDiv";
-				contentTable = document.createElement("ul");
-				contentTable.className="contentTable";
-				
-				for (var i = 0; i < parser.result.members.length; i++)
-				{
-					var photo = "pics/team/members/" + parser.result.members[i].id + ".jpg";
-					
-					var link = document.createElement("a");
-					link.setAttribute("href", photo);
-					link.setAttribute("id", parser.result.members[i].id);
-					link.setAttribute("rel", "lightbox[members]");
-					link.setAttribute("title", parser.result.members[i].name);
-					link.onmouseover = function() {document.getElementById('memberpreview').style.backgroundImage='url(' + this.href + ')';};
-					link.onmouseout = function() {document.getElementById('memberpreview').style.backgroundImage='url(pics/team/members/clear.png)';};
-					link.appendChild(document.createTextNode(parser.result.members[i].name));
-
-					var li = document.createElement("li");
-					li.appendChild(link);
-					
-					contentTable.appendChild(li);
-				}
-				
-				contentTableDiv.appendChild(contentTable);
-				document.getElementById("content").appendChild(contentTableDiv);
-				
-				if (topic != null && document.getElementById(topic) != null)
-				{
-					document.getElementById(topic).scrollIntoView(true);
-				}
-			}
-			break;
-		default: return false; break;
-	}
-}
-
-/**
  * Handler for team partners
  */
 function sponsorsHandler (parser, topic)
@@ -1350,40 +1284,6 @@ InActionXmlResponseParser.prototype = Object.extend(new AbstractResponseParser()
 		picture.onclick = elements[i].getElementsByTagName("link")[0].firstChild == null ? "" : elements[i].getElementsByTagName("onclick")[0].firstChild.nodeValue;
 		this.pictures.push(picture);
 	}
-  }
-});
-
-/**
- * Parser for the xml response.
- */
-TeamMemberXmlResponseParser = Class.create();
-TeamMemberXmlResponseParser.prototype = Object.extend(new AbstractResponseParser(), {
-  initialize: function() {
-    this.type = "xml";
-  },
-
-  load: function(request) {
-    this.content = request.responseXML;
-    this.parse();
-  },
-
-  parse: function() {
-	var root = this.content.documentElement;
-	this.result = new Object();
-	this.result.headline = root.getElementsByTagName("headline")[0].firstChild.nodeValue;
-	
-	var members = new Array();
-	var elements = getDomElements(root, "member");
-	
-	for (var i = 0; i < elements.length; i++)
-	{
-		var member = new Object();
-		member.id = elements[i].getAttribute("id");
-		member.name = elements[i].getAttribute("name");
-		members.push(member);
-	}
-	
-	this.result.members = members;
   }
 });
 
