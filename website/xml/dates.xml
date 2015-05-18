@@ -131,17 +131,7 @@
 			]]></description>
 			<pubDate>18.04.2015</pubDate>
 		</item_>
-		<item>
-			<title>2. WK der TriTeam Serie (Weyher Duathlon)</title>
-			<link>http://www.rsc-lueneburg.de?page=28+topic=26.04.2015</link>
-			<description><![CDATA[
-				<b>Datum:</b> <u>Sonntag</u> 26.04.2015
-				<br/><br/>
-				Weitere Infos zur TriTeam Serie gibt es unter: <a href="http://triteam-serie.rsc-lueneburg.de" target="_blank">triteam-serie.rsc-lueneburg.de</a>
-			]]></description>
-			<pubDate>26.04.2015</pubDate>
-		</item>
-		<item>
+		<item_>
 			<title>MTB Einsteigerseminar</title>
 			<link>http://www.rsc-lueneburg.de?page=28+topic=09.05.2015</link>
 			<description><![CDATA[
@@ -154,8 +144,8 @@
 				Alle Infos im Forum unter: <a href="http://www.razyboard.com/system/morethread-09052015-mtb-einsteigerseminar-ttlg-2152198-6327550-0.html" target="_blank">Verein: RTF / Straße / MTB &raquo; 09.05.2015 - MTB Einsteigerseminar</a>
 			]]></description>
 			<pubDate>09.05.2015</pubDate>
-		</item>
-		<item>
+		</item_>
+		<item_>
 			<title>10. RTF Rund um Lüneburg</title>
 			<link>http://www.rsc-lueneburg.de?page=28+topic=17.05.2015</link>
 			<description><![CDATA[
@@ -164,6 +154,16 @@
 				Alle Infos gibt es unter: <a href="http://www.rtf-lueneburg.de" target="_blank">www.rtf-lueneburg.de</a>
 			]]></description>
 			<pubDate>17.05.2015</pubDate>
+		</item_>
+		<item>
+			<title>3. WK der TriTeam Serie (Bergzeitfahren)</title>
+			<link>http://www.rsc-lueneburg.de?page=28+topic=21.05.2015</link>
+			<description><![CDATA[
+				<b>Datum:</b> <u>Donnerstag</u> 21.05.2015
+				<br/><br/>
+				Genaue Infos und die Ausschreibung wurden ausschließlich per E-Mail an die Vereinsmitglieder versand.
+			]]></description>
+			<pubDate>21.05.2015</pubDate>
 		</item>
 		<item>
 			<title>5. Bibermann Triathlon</title>
