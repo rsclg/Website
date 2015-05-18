@@ -383,9 +383,6 @@ addContentJs();*/
 							<a href="?page=25" onclick="javascript:showContent(25,null); return false;">Download</a>
 						</div>
 						<div class="topnaventrysubmenuentry">
-							<a href="?page=26" onclick="javascript:showContent(26,null); return false;">Links</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
 							<a href="?page=43" onclick="javascript:showContent(43,null); return false;">Tools</a>
 						</div>
 					</div>

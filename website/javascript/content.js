@@ -19,7 +19,6 @@ pages[22] = "http://external.rsc-lueneburg.de/training/schwimmen.html";
 pages[23] = "http://external.rsc-lueneburg.de/training/radfahren.html";
 pages[24] = "http://external.rsc-lueneburg.de/training/laufen.html";
 pages[25] = "service_download";
-pages[26] = "service_links";
 pages[28] = "dates";
 pages[29] = "results";
 pages[30] = "http://external.rsc-lueneburg.de/results/2015/swim.html";

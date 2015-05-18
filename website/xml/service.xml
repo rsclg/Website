@@ -10,14 +10,6 @@
 		]]></text>
 	</paragraph>
 	<paragraph>
-		<title>Links</title>
-		<text><![CDATA[
-		Interessante Links, Webseiten von Athleten oder Online-Services, alles das gibt es hier.
-		<br/><br/>
-		<a href="?page=26" onclick="showContent(26,null); return false;">&raquo; Zu den Links</a>
-		]]></text>
-	</paragraph>
-	<paragraph>
 		<title>Tools</title>
 		<text><![CDATA[
 		Nützliche Online Tools sind hier zu finden.
