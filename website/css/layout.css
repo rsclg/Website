@@ -769,3 +769,12 @@ li.striked {
     height: 0;
     visibility: hidden;
 }
+
+table.bordered {
+    border:1px solid #afafaf;
+    border-spacing:0px;
+}
+table.bordered td {
+    padding:10px;
+    border:1px solid #afafaf;
+}
