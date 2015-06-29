@@ -88,10 +88,6 @@ if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 <![endif]-->
 <link rel="shortcut icon" href="<?php echo $favicon; ?>" />
 
-<!-- include PageEar -->
-<!-- script src="pageear/laufladen/AC_OETags.js" language="javascript"></script -->
-<!-- script src="pageear/laufladen/pageear.js" type="text/javascript"> </script -->
-
 <script type="text/javascript" src="css/PIE.js" language="JavaScript"></script>
 <script type="text/javascript" src="javascript/blogger-mod.js" language="JavaScript"></script>
 <script type="text/javascript" src="javascript/prototype-1.7.2.js"></script>
@@ -104,9 +100,6 @@ if (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) {
 		var isRscPage = <?php echo (substr_count($_SERVER['SERVER_NAME'], "rsc-", 0) == 0) ? 'false' : 'true';?>;
 		var showHidden = <?php echo $showHidden ? 'true' : 'false'; ?>;
 		var showOnlyHidden = <?php echo $showOnlyHidden ? 'true' : 'false'; ?>;
-
-		<!-- PageEar function call -->
-		//writeObjects();
 </script>
 
 <script type="text/javascript" src="javascript/content.js?<?php echo date('Ymd'); ?>" language="JavaScript"></script>
