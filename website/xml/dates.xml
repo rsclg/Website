@@ -165,7 +165,7 @@
 			]]></description>
 			<pubDate>21.05.2015</pubDate>
 		</item_>
-		<item>
+		<item_>
 			<title>5. Bibermann Triathlon</title>
 			<link>http://www.rsc-lueneburg.de?page=28+topic=06.09.2015</link>
 			<description><![CDATA[
@@ -174,6 +174,6 @@
 				Alle Infos gibt es unter: <a href="http://www.bibermann-triathlon.de" target="_blank">www.bibermann-triathlon.de</a>
 			]]></description>
 			<pubDate>06.09.2015</pubDate>
-		</item>
+		</item_>
 	</channel>
 </rss>
