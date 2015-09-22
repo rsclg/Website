@@ -2,68 +2,6 @@
 <document>
 	<headline>Ergebnisse &amp;raquo; Triathlon 2012</headline>
 	<paragraph>
-		<title>26.08.2012 : Ratzeburger Inseltriathlon</title>
-		<text><![CDATA[
-		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
-			<thead>
-				<tr style="font-size: 1.1em; text-align: center;">
-					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
-				</tr>
-				<tr>
-					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
-					<td style="border-bottom: 1px solid #000000;" width="40%">Platz Gesamt (M/W)</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td colspan="5" style="font-style: italic;">Männer</a></td>
-				</tr>
-				<tr>
-					<td class="member">Stefan Burmester</td>
-					<td>02:22:44 h</td>
-					<td>leider keine Wertung wg. technischer Probleme</td>
-				</tr>
-				<tr>
-					<td class="member">Kord Bätge</td>
-					<td>02:42:57 h</td>
-					<td>leider keine Wertung wg. technischer Probleme</td>
-				</tr>
-				<tr>
-					<td class="member">Bernhard Salomon</td>
-					<td>02:54:20 h</td>
-					<td>leider keine Wertung wg. technischer Probleme</td>
-				</tr>
-			</tbody>
-		</table>
-		<br/><br/>
-		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
-			<thead>
-				<tr style="font-size: 1.1em; text-align: center;">
-					<td colspan="5" style="border-bottom: 1px solid #000000;">MD (2 km - 80 km - 20 km)</td>
-				</tr>
-				<tr>
-					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td colspan="5" style="font-style: italic;">Männer</a></td>
-				</tr>
-				<tr>
-					<td class="member">Dieter Zielinski</td>
-					<td>04:28:06 h</td>
-					<td>28./218</td>
-					<td>10./52</td>
-				</tr>
-			</tbody>
-		</table>
-		]]></text>
-	</paragraph>
-	<paragraph>
 		<title>19.08.2012 : Celler Triathlon</title>
 		<text><![CDATA[
 		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
@@ -217,69 +155,6 @@
 					<td>05:59:15 h</td>
 					<td>777./1382</td>
 					<td>127./225</td>
-				</tr>
-			</tbody>
-		</table>
-		]]></text>
-	</paragraph>
-	<paragraph>
-		<title>12.08.2012 : Elbe Triathlon Hamburg</title>
-		<text><![CDATA[
-		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
-			<thead>
-				<tr style="font-size: 1.1em; text-align: center;">
-					<td colspan="5" style="border-bottom: 1px solid #000000;">SD (0,5 km - 20 km - 5 km)</td>
-				</tr>
-				<tr>
-					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td colspan="5" style="font-style: italic;">Frauen</a></td>
-				</tr>
-				<tr>
-					<td class="member">Hannah Luedtke</td>
-					<td>01:29:36 h</td>
-					<td>24./47</td>
-					<td>7./10</td>
-				</tr>
-				<tr>
-					<td colspan="5" style="font-style: italic;">Männer</a></td>
-				</tr>
-				<tr>
-					<td class="member">Andreas Krohn</td>
-					<td>01:07:35 h</td>
-					<td>7./137</td>
-					<td>2./23 <img src="pics/results/medal_silver.png" title="2. Altersklassenplatz"/></td>
-				</tr>
-			</tbody>
-		</table>
-		<br/><br/>
-		<table class="resultTable" border="0" cellpadding="5" cellspacing="0" width="100%">
-			<thead>
-				<tr style="font-size: 1.1em; text-align: center;">
-					<td colspan="5" style="border-bottom: 1px solid #000000;">OD (1,5 km - 40 km - 10 km)</td>
-				</tr>
-				<tr>
-					<td style="border-bottom: 1px solid #000000;">Teilnehmer</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Zeit</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Gesamt (M/W)</td>
-					<td style="border-bottom: 1px solid #000000;" width="20%">Platz Altersklasse</td>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td colspan="5" style="font-style: italic;">Männer</a></td>
-				</tr>
-				<tr>
-					<td class="member">Olaf Bartz</td>
-					<td>02:18:01 h</td>
-					<td>37./105</td>
-					<td>5./15</td>
 				</tr>
 			</tbody>
 		</table>
