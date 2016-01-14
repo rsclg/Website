@@ -85,7 +85,7 @@ div#header #logo_right  img
 	outline: none;
 }
 
-div#headerlinks{right:5px;top:0;position:absolute;padding-top:3px}div#headerlinks a{float:right;clear:right;font: 0.75em verdana;}div#headerlinks img{width:35px;height:35px}div#headerlinks img:hover{width:48px;height:48px}div#headerlinks img,div#headerlinks img:hover{-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
+div#headerlinks{right:5px;top:0;position:absolute;padding-top:3px}div#headerlinks a{float:right;clear:right;font: 0.75em verdana;}div#headerlinks img{width:32px;height:32px}div#headerlinks img:hover{width:48px;height:48px}div#headerlinks img,div#headerlinks img:hover{-webkit-transition: all 0.2s linear 0s;     -moz-transition: all 0.2s linear 0s;               transition: all 0.2s linear 0s}
 
 div#topnav
 {

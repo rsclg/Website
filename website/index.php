@@ -182,6 +182,9 @@ addContentJs();*/
 				<a title="<?php echo $twitterTitle; ?>" href="http://twitter.com/<?php echo $twitterAccount; ?>" target="_blank">
 					<img alt="Twitter" src="pics/icon_48x48_twitter.png">
 				</a>
+				<a title="Youtube Kanal des RSC Lüneburg e.V. | Triathlon Team Lüneburg" href="https://www.youtube.com/user/rsclueneburg" target="_blank">
+					<img alt="Youtube" src="pics/icon_48x48_youtube.png">
+				</a>
 			</div>
 			<div id="logo_right">
 				<a href="<?php echo $subUrl; ?>" target="_blank"><img src="<?php echo $subLogo; ?>"/></a>
