@@ -596,8 +596,10 @@ div.forum {
 }
 
 div.forum table:nth-child(4) {
-    position: absolute;
+    margin-left: 520px;
     margin-top: 32px;
+    position: absolute;
+    width: 300px;
 }
 
 div.forum table:nth-child(4) td {
@@ -609,7 +611,6 @@ div.forum table:nth-child(4) td:nth-child(1) {
 }
 
 div.forum table:nth-child(4) td:nth-child(2) {
-    padding-left: 500px;
     text-align: left !important;
     width: 99% !important;
 }
