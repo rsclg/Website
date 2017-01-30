@@ -285,16 +285,6 @@ addContentJs();*/
 						<div class="topnaventrysubmenuentry">
 							<a href="?page=108" onclick="javascript:showContent(108,null); return false;">Lüneburger Heide Cup</a>
 						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="http://www.rtf-lueneburg.de" target="_blank">RTF Rund um Lüneburg</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="http://www.bibermann-triathlon.de" target="_blank">Bibermann</a>
-						</div>
-						<hr/>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=110" onclick="javascript:showContent(110,null); return false;">TriTeam Serie</a>
-						</div>
 						<hr/>
 						<div class="topnaventrysubmenuentry">
 							<a href="?page=107" onclick="javascript:showContent(107,null); return false;">Events 2010</a>
