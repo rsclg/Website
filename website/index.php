@@ -193,23 +193,6 @@ addContentJs();*/
 				<div class="topnaventry">
 					<a href="?page=1" onclick="javascript:showContent(1,null); return false;">Der Verein</a>
 					<div class="topnaventrysubmenu">
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=4" onclick="javascript:showContent(4,null); return false;">Mitglieder</a>
-						</div>
-						<hr/>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=201" onclick="javascript:showContent(201,null); return false;">Triathlon Team</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=202" onclick="javascript:showContent(202,null); return false;">Radtouristik</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=203" onclick="javascript:showContent(203,null); return false;">Straßenradsport</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=204" onclick="javascript:showContent(204,null); return false;">Mountainbike</a>
-						</div>
-						<hr/>
 						<div class="topnaventrysubmenuentry hassubsubmenu">
 							<a href="?page=2" onclick="javascript:showContent(2,null); return false;">News</a>
 							<div class="subsubmenu">
@@ -225,52 +208,6 @@ addContentJs();*/
 									<a href="?page=20" onclick="javascript:showContent(20,null); return false;">RSS Feed</a>
 								</div>
 							</div>
-						</div>
-						<hr/>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=1+topic=Vereinsmitgliedschaft" onclick="javascript:showContent(1,'Vereinsmitgliedschaft'); return false;">Mitglied werden</a>
-						</div>
-					</div>
-				</div>
-				<div class="topnaventryseparator">
-				</div>
-				<div class="topnaventry">
-					<a href="?page=58" onclick="javascript:showContent(58,null); return false;">Jugend</a>
-					<div class="topnaventrysubmenu">
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=55" onclick="javascript:showContent(55,null); return false;">Training &raquo; Schwimmen</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=56" onclick="javascript:showContent(56,null); return false;">Training &raquo; Radfahren</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=57" onclick="javascript:showContent(57,null); return false;">Training &raquo; Laufen</a>
-						</div>
-					</div>
-				</div>
-				<div class="topnaventryseparator">
-				</div>
-				<div class="topnaventry">
-					<a href="?page=21" onclick="javascript:showContent(21,null); return false;">Training</a>
-					<div class="topnaventrysubmenu">
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=22" onclick="javascript:showContent(22,null); return false;">Schwimmen</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=23" onclick="javascript:showContent(23,null); return false;">Radfahren</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=24" onclick="javascript:showContent(24,null); return false;">Laufen</a>
-						</div>
-						<hr/>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=55" onclick="javascript:showContent(55,null); return false;">Jugend &raquo; Schwimmen</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=56" onclick="javascript:showContent(56,null); return false;">Jugend &raquo; Radfahren</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=57" onclick="javascript:showContent(57,null); return false;">Jugend &raquo; Laufen</a>
 						</div>
 					</div>
 				</div>
