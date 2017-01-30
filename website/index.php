@@ -330,10 +330,6 @@ addContentJs();*/
 								<div class="subsubmenuentry">
 									<a href="?page=341" onclick="javascript:showContent(341,null); return false;">Sonstige</a>
 								</div>
-								<hr/>
-								<div class="subsubmenuentry">
-									<a href="http://results.rsc-lueneburg.de" target="_blank">Ergebnisse melden</a>
-								</div>
 							</div>
 						</div>
 						<div class="topnaventrysubmenuentry hassubsubmenu">
