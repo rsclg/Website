@@ -372,17 +372,6 @@ addContentJs();*/
 				</div>
 				<div class="topnaventryseparator">
 				</div>
-				<div class="topnaventry">
-				<a href="?page=13" onclick="javascript:showContent(13,null); return false;">Service</a>
-					<div class="topnaventrysubmenu">
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=25" onclick="javascript:showContent(25,null); return false;">Download</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=43" onclick="javascript:showContent(43,null); return false;">Tools</a>
-						</div>
-					</div>
-				</div>
 				<?php if ($showHidden) : ?>
 				<div class="topnaventryseparator">
 				</div>
