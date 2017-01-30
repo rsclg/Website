@@ -199,10 +199,6 @@ addContentJs();*/
 								<div class="subsubmenuentry">
 									<a href="?page=5" onclick="javascript:showContent(5,null); return false;">Newsarchiv</a>
 								</div>
-								<hr/>
-								<div class="subsubmenuentry">
-									<a href="?page=28" onclick="javascript:showContent(28,null); return false;">Termine</a>
-								</div>
 								<hr/>	
 								<div class="subsubmenuentry">
 									<a href="?page=20" onclick="javascript:showContent(20,null); return false;">RSS Feed</a>
@@ -312,13 +308,6 @@ addContentJs();*/
 						document.write("</div>");
 				-->
 		</script>
-		<div id="footer">
-			<a href="?page=17" onclick="javascript:showContent(17,null); return false;">Impressum</a>
-			&nbsp;|&nbsp;
-			<a href="?page=18" onclick="javascript:showContent(18,null); return false;">Disclaimer</a>
-			&nbsp;|&nbsp;
-			<a href="?page=16" onclick="javascript:showContent(16,null); return false;">Kontakt</a>
-		</div>
 	</div>
 </body>
 </html>
