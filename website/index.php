@@ -365,11 +365,6 @@ addContentJs();*/
 						</div>
 					</div>
 				</div>
-				<div class="topnaventryseparator">
-				</div>
-				<div class="topnaventry">
-					<a href="http://www.razyboard.com/system/user_ttlg.html" target="_blank">Forum</a>
-				</div>
 
 			</div>
 		</div>
