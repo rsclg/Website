@@ -370,33 +370,7 @@ addContentJs();*/
 				<div class="topnaventry">
 					<a href="http://www.razyboard.com/system/user_ttlg.html" target="_blank">Forum</a>
 				</div>
-				<div class="topnaventryseparator">
-				</div>
-				<?php if ($showHidden) : ?>
-				<div class="topnaventryseparator">
-				</div>
-				<div class="topnaventry">
-					<a href="?page=7" onclick="javascript:showContent(7,null); return false;">Spenden</a>
-					<div class="topnaventrysubmenu">
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=70" onclick="javascript:showContent(70,null); return false;">Jugendabteilung</a>
-						</div>
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=71" onclick="javascript:showContent(71,null); return false;">Trainingsbetrieb</a>
-						</div>
-					</div>
-				</div>
-				<div class="topnaventryseparator">
-				</div>
-				<div class="topnaventry">
-					<a href="?page=8" onclick="javascript:showContent(8,null); return false;">Sponsoren</a>
-					<div class="topnaventrysubmenu">
-						<div class="topnaventrysubmenuentry">
-							<a href="?page=80" onclick="javascript:showContent(80,null); return false;">Sponsoring</a>
-						</div>
-					</div>
-				</div>
-				<?php endif; ?>
+
 			</div>
 		</div>
 
